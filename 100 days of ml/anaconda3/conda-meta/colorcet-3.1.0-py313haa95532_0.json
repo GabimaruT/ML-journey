@@ -1,0 +1,52 @@
+{
+  "name": "colorcet",
+  "version": "3.1.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "colorcet-3.1.0-py313haa95532_0.conda",
+  "md5": "13ae603a56403430217631457708118b",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/colorcet-3.1.0-py313haa95532_0.conda",
+  "sha256": "514bfef04aac4a4359a1afca35ff443fd3ee1b647dd4fc382fdeab1a567037e3",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "CC-BY-4.0",
+  "license_family": "CC",
+  "timestamp": 1729053398000,
+  "size": 490935,
+  "requested_spec": "pkgs/main/win-64::colorcet==3.1.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\colorcet-3.1.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\colorcet-3.1.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/colorcet-3.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/colorcet-3.1.0.dist-info/LICENSE.txt",
+    "Lib/site-packages/colorcet-3.1.0.dist-info/METADATA",
+    "Lib/site-packages/colorcet-3.1.0.dist-info/RECORD",
+    "Lib/site-packages/colorcet-3.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/colorcet-3.1.0.dist-info/WHEEL",
+    "Lib/site-packages/colorcet-3.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/colorcet-3.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/colorcet/__init__.py",
+    "Lib/site-packages/colorcet/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/colorcet/__pycache__/_version.cpython-313.pyc",
+    "Lib/site-packages/colorcet/__pycache__/plotting.cpython-313.pyc",
+    "Lib/site-packages/colorcet/__pycache__/sineramp.cpython-313.pyc",
+    "Lib/site-packages/colorcet/_version.py",
+    "Lib/site-packages/colorcet/plotting.py",
+    "Lib/site-packages/colorcet/sineramp.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\colorcet-3.1.0-py313haa95532_0",
+    "type": 1
+  }
+}

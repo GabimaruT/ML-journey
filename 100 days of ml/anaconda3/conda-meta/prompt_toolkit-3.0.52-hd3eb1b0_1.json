@@ -1,0 +1,34 @@
+{
+  "name": "prompt_toolkit",
+  "version": "3.0.52",
+  "build": "hd3eb1b0_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "prompt_toolkit-3.0.52-hd3eb1b0_1.conda",
+  "md5": "446203e5c534c79b7f50c217c76dd460",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/prompt_toolkit-3.0.52-hd3eb1b0_1.conda",
+  "sha256": "5f5bfe17c8fc1a4921e1cd7a80ac09dc7dc23fbd60d79c8bf50ec20feede2fb9",
+  "depends": [
+    "prompt-toolkit >=3.0.52,<3.0.53.0a0"
+  ],
+  "constrains": [],
+  "noarch": "generic",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "package_type": "noarch_generic",
+  "timestamp": 1761744877000,
+  "size": 5301,
+  "requested_spec": "pkgs/main/noarch::prompt_toolkit==3.0.52=hd3eb1b0_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\prompt_toolkit-3.0.52-hd3eb1b0_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\prompt_toolkit-3.0.52-hd3eb1b0_1",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\prompt_toolkit-3.0.52-hd3eb1b0_1",
+    "type": 1
+  }
+}

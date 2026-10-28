@@ -1,0 +1,44 @@
+{
+  "name": "m2w64-gmp",
+  "version": "6.1.0",
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "subdir": "win-64",
+  "fn": "m2w64-gmp-6.1.0-2.tar.bz2",
+  "md5": "fec04371463ec68eb8f5752a22c5b030",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-gmp-6.1.0-2.tar.bz2",
+  "sha256": "5cf23439eef17ae158d63ff3f85f77d1dca9a45b19324fdeda9e3e48ae298d18",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "msys2-conda-epoch >=20160418"
+  ],
+  "constrains": [],
+  "license": "LGPL3",
+  "size": 705647,
+  "requested_spec": "pkgs/msys2/win-64::m2w64-gmp==6.1.0=2",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\m2w64-gmp-6.1.0-2.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\m2w64-gmp-6.1.0-2",
+  "files": [
+    "Library/mingw-w64/bin/libgmp-10.dll",
+    "Library/mingw-w64/bin/libgmpxx-4.dll",
+    "Library/mingw-w64/include/gmp.h",
+    "Library/mingw-w64/include/gmpxx.h",
+    "Library/mingw-w64/lib/libgmp.a",
+    "Library/mingw-w64/lib/libgmp.dll.a",
+    "Library/mingw-w64/lib/libgmpxx.a",
+    "Library/mingw-w64/lib/libgmpxx.dll.a",
+    "Library/mingw-w64/share/info/gmp.info-1.gz",
+    "Library/mingw-w64/share/info/gmp.info-2.gz",
+    "Library/mingw-w64/share/info/gmp.info.gz"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\m2w64-gmp-6.1.0-2",
+    "type": 1
+  }
+}

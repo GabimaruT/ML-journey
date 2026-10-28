@@ -1,0 +1,46 @@
+{
+  "name": "decorator",
+  "version": "5.2.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "decorator-5.2.1-py313haa95532_0.conda",
+  "md5": "892e75c0b532fc343b09e52a3f54aba1",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/decorator-5.2.1-py313haa95532_0.conda",
+  "sha256": "b12ea22ad467515f164f0ac82f44f3cf3aa523b39e2fc7486858f28f8ff7e844",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "timestamp": 1757341284000,
+  "size": 42751,
+  "requested_spec": "pkgs/main/win-64::decorator==5.2.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\decorator-5.2.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\decorator-5.2.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/__pycache__/decorator.cpython-313.pyc",
+    "Lib/site-packages/decorator-5.2.1.dist-info/INSTALLER",
+    "Lib/site-packages/decorator-5.2.1.dist-info/METADATA",
+    "Lib/site-packages/decorator-5.2.1.dist-info/RECORD",
+    "Lib/site-packages/decorator-5.2.1.dist-info/REQUESTED",
+    "Lib/site-packages/decorator-5.2.1.dist-info/WHEEL",
+    "Lib/site-packages/decorator-5.2.1.dist-info/direct_url.json",
+    "Lib/site-packages/decorator-5.2.1.dist-info/licenses/LICENSE.txt",
+    "Lib/site-packages/decorator-5.2.1.dist-info/top_level.txt",
+    "Lib/site-packages/decorator.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\decorator-5.2.1-py313haa95532_0",
+    "type": 1
+  }
+}

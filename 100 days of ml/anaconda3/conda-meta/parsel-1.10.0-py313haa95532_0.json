@@ -1,0 +1,60 @@
+{
+  "name": "parsel",
+  "version": "1.10.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "parsel-1.10.0-py313haa95532_0.conda",
+  "md5": "aa79431a6c4f2c2d11ee669a84d86048",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/parsel-1.10.0-py313haa95532_0.conda",
+  "sha256": "1f23cd5519574579258fbeb22f10d8e14f6de1cd9b464d9c98a75d70b9cc2812",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "cssselect >=1.2.0",
+    "jmespath",
+    "lxml",
+    "packaging",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "w3lib >=1.19.0"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1761560722000,
+  "size": 52553,
+  "requested_spec": "pkgs/main/win-64::parsel==1.10.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\parsel-1.10.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\parsel-1.10.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/parsel-1.10.0.dist-info/INSTALLER",
+    "Lib/site-packages/parsel-1.10.0.dist-info/METADATA",
+    "Lib/site-packages/parsel-1.10.0.dist-info/RECORD",
+    "Lib/site-packages/parsel-1.10.0.dist-info/REQUESTED",
+    "Lib/site-packages/parsel-1.10.0.dist-info/WHEEL",
+    "Lib/site-packages/parsel-1.10.0.dist-info/direct_url.json",
+    "Lib/site-packages/parsel-1.10.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/parsel-1.10.0.dist-info/top_level.txt",
+    "Lib/site-packages/parsel/__init__.py",
+    "Lib/site-packages/parsel/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/parsel/__pycache__/csstranslator.cpython-313.pyc",
+    "Lib/site-packages/parsel/__pycache__/selector.cpython-313.pyc",
+    "Lib/site-packages/parsel/__pycache__/utils.cpython-313.pyc",
+    "Lib/site-packages/parsel/__pycache__/xpathfuncs.cpython-313.pyc",
+    "Lib/site-packages/parsel/csstranslator.py",
+    "Lib/site-packages/parsel/py.typed",
+    "Lib/site-packages/parsel/selector.py",
+    "Lib/site-packages/parsel/utils.py",
+    "Lib/site-packages/parsel/xpathfuncs.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\parsel-1.10.0-py313haa95532_0",
+    "type": 1
+  }
+}

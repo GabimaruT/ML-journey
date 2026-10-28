@@ -1,0 +1,56 @@
+{
+  "name": "libopenjpeg",
+  "version": "2.5.4",
+  "build": "h02ab6af_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libopenjpeg-2.5.4-h02ab6af_1.conda",
+  "md5": "0969d72a5b7fa2b7ec3fa5cc3e083dd1",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libopenjpeg-2.5.4-h02ab6af_1.conda",
+  "sha256": "a8f222ee23662a2f26dd6f1e62d5a41909a5d86c112aada0bcc176ec7d191d16",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "timestamp": 1761733072000,
+  "size": 187646,
+  "requested_spec": "pkgs/main/win-64::libopenjpeg==2.5.4=h02ab6af_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libopenjpeg-2.5.4-h02ab6af_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libopenjpeg-2.5.4-h02ab6af_1",
+  "files": [
+    "Library/bin/openjp2.dll",
+    "Library/include/openjpeg-2.5/openjpeg.h",
+    "Library/include/openjpeg-2.5/opj_config.h",
+    "Library/lib/cmake/openjpeg-2.5/OpenJPEGConfig.cmake",
+    "Library/lib/cmake/openjpeg-2.5/OpenJPEGConfigVersion.cmake",
+    "Library/lib/cmake/openjpeg-2.5/OpenJPEGTargets-release.cmake",
+    "Library/lib/cmake/openjpeg-2.5/OpenJPEGTargets.cmake",
+    "Library/lib/openjp2.lib",
+    "Library/lib/pkgconfig/libopenjp2.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/libopenjp2.pc",
+        "prefix_placeholder": "C:/miniconda3/conda-bld/openjpeg-split_1761732724547/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "8073820afe9c34b14504706aea57ac821f81fa362b88786b236fcf89e45f69ee",
+        "size_in_bytes": 438,
+        "sha256_in_prefix": "730cee2c9726d65831e4507d653d53402b8833a61040721f5963fa168b157edc"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libopenjpeg-2.5.4-h02ab6af_1",
+    "type": 1
+  }
+}

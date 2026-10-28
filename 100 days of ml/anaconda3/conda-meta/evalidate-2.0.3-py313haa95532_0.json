@@ -1,0 +1,48 @@
+{
+  "name": "evalidate",
+  "version": "2.0.3",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "evalidate-2.0.3-py313haa95532_0.conda",
+  "md5": "cc85100b304a91106fe7a733556954fa",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/evalidate-2.0.3-py313haa95532_0.conda",
+  "sha256": "a71ff6aba4fac2487ea52cc2f9a4ac3750019edcc0eb8591e5f77d51b90ef432",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1743606162000,
+  "size": 20816,
+  "requested_spec": "pkgs/main/win-64::evalidate==2.0.3=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\evalidate-2.0.3-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\evalidate-2.0.3-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/evalidate-2.0.3.dist-info/INSTALLER",
+    "Lib/site-packages/evalidate-2.0.3.dist-info/METADATA",
+    "Lib/site-packages/evalidate-2.0.3.dist-info/RECORD",
+    "Lib/site-packages/evalidate-2.0.3.dist-info/REQUESTED",
+    "Lib/site-packages/evalidate-2.0.3.dist-info/WHEEL",
+    "Lib/site-packages/evalidate-2.0.3.dist-info/direct_url.json",
+    "Lib/site-packages/evalidate-2.0.3.dist-info/licenses/LICENSE",
+    "Lib/site-packages/evalidate/__init__.py",
+    "Lib/site-packages/evalidate/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/evalidate/__pycache__/security.cpython-313.pyc",
+    "Lib/site-packages/evalidate/credits.txt",
+    "Lib/site-packages/evalidate/security.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\evalidate-2.0.3-py313haa95532_0",
+    "type": 1
+  }
+}

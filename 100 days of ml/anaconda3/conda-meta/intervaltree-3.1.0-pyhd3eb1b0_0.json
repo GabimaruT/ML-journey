@@ -1,0 +1,70 @@
+{
+  "name": "intervaltree",
+  "version": "3.1.0",
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "intervaltree-3.1.0-pyhd3eb1b0_0.conda",
+  "md5": "9bf92b7e66bde3d696b51b0bc117c471",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/intervaltree-3.1.0-pyhd3eb1b0_0.conda",
+  "sha256": "971d1387d84b912538c413204a2cc05aa99197c17e45f8e8b8940c8b567311f0",
+  "depends": [
+    "python",
+    "sortedcontainers"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "package_type": "noarch_python",
+  "timestamp": 1630511908000,
+  "size": 25694,
+  "requested_spec": "pkgs/main/noarch::intervaltree==3.1.0=pyhd3eb1b0_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\intervaltree-3.1.0-pyhd3eb1b0_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\intervaltree-3.1.0-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/intervaltree-3.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/intervaltree-3.1.0.dist-info/LICENSE.txt",
+    "Lib/site-packages/intervaltree-3.1.0.dist-info/METADATA",
+    "Lib/site-packages/intervaltree-3.1.0.dist-info/RECORD",
+    "Lib/site-packages/intervaltree-3.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/intervaltree-3.1.0.dist-info/WHEEL",
+    "Lib/site-packages/intervaltree-3.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/intervaltree-3.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/intervaltree-3.1.0.dist-info/zip-safe",
+    "Lib/site-packages/intervaltree/__init__.py",
+    "Lib/site-packages/intervaltree/interval.py",
+    "Lib/site-packages/intervaltree/intervaltree.py",
+    "Lib/site-packages/intervaltree/node.py",
+    "Lib/site-packages/intervaltree/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/intervaltree/__pycache__/interval.cpython-313.pyc",
+    "Lib/site-packages/intervaltree/__pycache__/intervaltree.cpython-313.pyc",
+    "Lib/site-packages/intervaltree/__pycache__/node.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/intervaltree/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/intervaltree/__pycache__/interval.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/intervaltree/__pycache__/intervaltree.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/intervaltree/__pycache__/node.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\intervaltree-3.1.0-pyhd3eb1b0_0",
+    "type": 1
+  }
+}

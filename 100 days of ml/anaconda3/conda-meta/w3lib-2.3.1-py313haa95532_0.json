@@ -1,0 +1,63 @@
+{
+  "name": "w3lib",
+  "version": "2.3.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "w3lib-2.3.1-py313haa95532_0.conda",
+  "md5": "3b82105ce072d1517f74b1ab492d3b81",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/w3lib-2.3.1-py313haa95532_0.conda",
+  "sha256": "ddab19af7219f6894d69e8469339ec96dd9cc3a87614289f491833924caea851",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1764240258000,
+  "size": 62388,
+  "requested_spec": "pkgs/main/win-64::w3lib==2.3.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\w3lib-2.3.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\w3lib-2.3.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/w3lib-2.3.1.dist-info/INSTALLER",
+    "Lib/site-packages/w3lib-2.3.1.dist-info/METADATA",
+    "Lib/site-packages/w3lib-2.3.1.dist-info/RECORD",
+    "Lib/site-packages/w3lib-2.3.1.dist-info/REQUESTED",
+    "Lib/site-packages/w3lib-2.3.1.dist-info/WHEEL",
+    "Lib/site-packages/w3lib-2.3.1.dist-info/direct_url.json",
+    "Lib/site-packages/w3lib-2.3.1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/w3lib-2.3.1.dist-info/top_level.txt",
+    "Lib/site-packages/w3lib/__init__.py",
+    "Lib/site-packages/w3lib/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/w3lib/__pycache__/_infra.cpython-313.pyc",
+    "Lib/site-packages/w3lib/__pycache__/_types.cpython-313.pyc",
+    "Lib/site-packages/w3lib/__pycache__/_url.cpython-313.pyc",
+    "Lib/site-packages/w3lib/__pycache__/encoding.cpython-313.pyc",
+    "Lib/site-packages/w3lib/__pycache__/html.cpython-313.pyc",
+    "Lib/site-packages/w3lib/__pycache__/http.cpython-313.pyc",
+    "Lib/site-packages/w3lib/__pycache__/url.cpython-313.pyc",
+    "Lib/site-packages/w3lib/__pycache__/util.cpython-313.pyc",
+    "Lib/site-packages/w3lib/_infra.py",
+    "Lib/site-packages/w3lib/_types.py",
+    "Lib/site-packages/w3lib/_url.py",
+    "Lib/site-packages/w3lib/encoding.py",
+    "Lib/site-packages/w3lib/html.py",
+    "Lib/site-packages/w3lib/http.py",
+    "Lib/site-packages/w3lib/py.typed",
+    "Lib/site-packages/w3lib/url.py",
+    "Lib/site-packages/w3lib/util.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\w3lib-2.3.1-py313haa95532_0",
+    "type": 1
+  }
+}

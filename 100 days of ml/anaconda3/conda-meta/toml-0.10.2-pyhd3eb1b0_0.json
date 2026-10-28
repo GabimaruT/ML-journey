@@ -1,0 +1,74 @@
+{
+  "name": "toml",
+  "version": "0.10.2",
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "toml-0.10.2-pyhd3eb1b0_0.conda",
+  "md5": "cda05f5f6d8509529d1a2743288d197a",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/toml-0.10.2-pyhd3eb1b0_0.conda",
+  "sha256": "c50b132439b0260e4b43649ce30171a4792e186c6f3d657e5936578d4ee3fc56",
+  "depends": [
+    "python >=2.7"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "MIT",
+  "license_family": "MIT",
+  "package_type": "noarch_python",
+  "timestamp": 1616166645000,
+  "size": 20302,
+  "requested_spec": "pkgs/main/noarch::toml==0.10.2=pyhd3eb1b0_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\toml-0.10.2-pyhd3eb1b0_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\toml-0.10.2-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/toml-0.10.2.dist-info/INSTALLER",
+    "Lib/site-packages/toml-0.10.2.dist-info/LICENSE",
+    "Lib/site-packages/toml-0.10.2.dist-info/METADATA",
+    "Lib/site-packages/toml-0.10.2.dist-info/RECORD",
+    "Lib/site-packages/toml-0.10.2.dist-info/REQUESTED",
+    "Lib/site-packages/toml-0.10.2.dist-info/WHEEL",
+    "Lib/site-packages/toml-0.10.2.dist-info/direct_url.json",
+    "Lib/site-packages/toml-0.10.2.dist-info/top_level.txt",
+    "Lib/site-packages/toml/__init__.py",
+    "Lib/site-packages/toml/decoder.py",
+    "Lib/site-packages/toml/encoder.py",
+    "Lib/site-packages/toml/ordered.py",
+    "Lib/site-packages/toml/tz.py",
+    "Lib/site-packages/toml/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/toml/__pycache__/decoder.cpython-313.pyc",
+    "Lib/site-packages/toml/__pycache__/encoder.cpython-313.pyc",
+    "Lib/site-packages/toml/__pycache__/ordered.cpython-313.pyc",
+    "Lib/site-packages/toml/__pycache__/tz.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/toml/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/toml/__pycache__/decoder.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/toml/__pycache__/encoder.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/toml/__pycache__/ordered.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/toml/__pycache__/tz.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\toml-0.10.2-pyhd3eb1b0_0",
+    "type": 1
+  }
+}

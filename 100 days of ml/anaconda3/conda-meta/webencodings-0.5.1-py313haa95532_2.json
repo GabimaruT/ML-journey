@@ -1,0 +1,54 @@
+{
+  "name": "webencodings",
+  "version": "0.5.1",
+  "build": "py313haa95532_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "webencodings-0.5.1-py313haa95532_2.conda",
+  "md5": "a52de5853ad3791cc15a43f25adba6a5",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/webencodings-0.5.1-py313haa95532_2.conda",
+  "sha256": "bb68a6e30e8cc2cbc35db519e279d853c07c2685543344ef0302149bc5852824",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1729039598000,
+  "size": 27457,
+  "requested_spec": "pkgs/main/win-64::webencodings==0.5.1=py313haa95532_2",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\webencodings-0.5.1-py313haa95532_2.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\webencodings-0.5.1-py313haa95532_2",
+  "files": [
+    "Lib/site-packages/webencodings-0.5.1.dist-info/INSTALLER",
+    "Lib/site-packages/webencodings-0.5.1.dist-info/LICENSE",
+    "Lib/site-packages/webencodings-0.5.1.dist-info/METADATA",
+    "Lib/site-packages/webencodings-0.5.1.dist-info/RECORD",
+    "Lib/site-packages/webencodings-0.5.1.dist-info/REQUESTED",
+    "Lib/site-packages/webencodings-0.5.1.dist-info/WHEEL",
+    "Lib/site-packages/webencodings-0.5.1.dist-info/direct_url.json",
+    "Lib/site-packages/webencodings-0.5.1.dist-info/top_level.txt",
+    "Lib/site-packages/webencodings/__init__.py",
+    "Lib/site-packages/webencodings/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/webencodings/__pycache__/labels.cpython-313.pyc",
+    "Lib/site-packages/webencodings/__pycache__/mklabels.cpython-313.pyc",
+    "Lib/site-packages/webencodings/__pycache__/tests.cpython-313.pyc",
+    "Lib/site-packages/webencodings/__pycache__/x_user_defined.cpython-313.pyc",
+    "Lib/site-packages/webencodings/labels.py",
+    "Lib/site-packages/webencodings/mklabels.py",
+    "Lib/site-packages/webencodings/tests.py",
+    "Lib/site-packages/webencodings/x_user_defined.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\webencodings-0.5.1-py313haa95532_2",
+    "type": 1
+  }
+}

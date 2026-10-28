@@ -1,0 +1,63 @@
+{
+  "name": "binaryornot",
+  "version": "0.4.4",
+  "build": "pyhd3eb1b0_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "binaryornot-0.4.4-pyhd3eb1b0_1.conda",
+  "md5": "986537735cddee7238d27507dd913e08",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/binaryornot-0.4.4-pyhd3eb1b0_1.conda",
+  "sha256": "aba34273441259bb15f07b1708caa352100c250b566252d7e8fd3cdb33950f9b",
+  "depends": [
+    "chardet",
+    "python"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "BSD-3-Clause",
+  "package_type": "noarch_python",
+  "timestamp": 1617751563000,
+  "size": 359191,
+  "requested_spec": "pkgs/main/noarch::binaryornot==0.4.4=pyhd3eb1b0_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\binaryornot-0.4.4-pyhd3eb1b0_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\binaryornot-0.4.4-pyhd3eb1b0_1",
+  "files": [
+    "Lib/site-packages/binaryornot-0.4.4.dist-info/AUTHORS.rst",
+    "Lib/site-packages/binaryornot-0.4.4.dist-info/INSTALLER",
+    "Lib/site-packages/binaryornot-0.4.4.dist-info/LICENSE",
+    "Lib/site-packages/binaryornot-0.4.4.dist-info/METADATA",
+    "Lib/site-packages/binaryornot-0.4.4.dist-info/RECORD",
+    "Lib/site-packages/binaryornot-0.4.4.dist-info/REQUESTED",
+    "Lib/site-packages/binaryornot-0.4.4.dist-info/WHEEL",
+    "Lib/site-packages/binaryornot-0.4.4.dist-info/direct_url.json",
+    "Lib/site-packages/binaryornot-0.4.4.dist-info/top_level.txt",
+    "Lib/site-packages/binaryornot/__init__.py",
+    "Lib/site-packages/binaryornot/check.py",
+    "Lib/site-packages/binaryornot/helpers.py",
+    "Lib/site-packages/binaryornot/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/binaryornot/__pycache__/check.cpython-313.pyc",
+    "Lib/site-packages/binaryornot/__pycache__/helpers.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/binaryornot/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/binaryornot/__pycache__/check.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/binaryornot/__pycache__/helpers.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\binaryornot-0.4.4-pyhd3eb1b0_1",
+    "type": 1
+  }
+}

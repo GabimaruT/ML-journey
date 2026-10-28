@@ -1,0 +1,45 @@
+{
+  "name": "roman-numerals-py",
+  "version": "3.1.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "roman-numerals-py-3.1.0-py313haa95532_0.conda",
+  "md5": "0ea4cd051321af4dce8c9a219b21ce46",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/roman-numerals-py-3.1.0-py313haa95532_0.conda",
+  "sha256": "b505b484301e9be01bb282e46ac7f74a8c13fa0e8beaf72ee5ff299f86b0bef5",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "0BSD OR CC0-1.0",
+  "license_family": "BSD",
+  "timestamp": 1744666578000,
+  "size": 18635,
+  "requested_spec": "pkgs/main/win-64::roman-numerals-py==3.1.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\roman-numerals-py-3.1.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\roman-numerals-py-3.1.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/roman_numerals/__init__.py",
+    "Lib/site-packages/roman_numerals/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/roman_numerals/py.typed",
+    "Lib/site-packages/roman_numerals_py-3.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/roman_numerals_py-3.1.0.dist-info/METADATA",
+    "Lib/site-packages/roman_numerals_py-3.1.0.dist-info/RECORD",
+    "Lib/site-packages/roman_numerals_py-3.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/roman_numerals_py-3.1.0.dist-info/WHEEL",
+    "Lib/site-packages/roman_numerals_py-3.1.0.dist-info/direct_url.json"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\roman-numerals-py-3.1.0-py313haa95532_0",
+    "type": 1
+  }
+}

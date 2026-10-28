@@ -1,0 +1,61 @@
+{
+  "name": "glog",
+  "version": "0.5.0",
+  "build": "hd77b12b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "glog-0.5.0-hd77b12b_1.conda",
+  "md5": "308b9011cc68360c32f7cc7bce90b86d",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/glog-0.5.0-hd77b12b_1.conda",
+  "sha256": "09f6a119b6c16c707b8ee34da961bb4a1c311652bdc2accae87b9d81d0cbadbe",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "gflags >=2.2.2,<2.3.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1706895442000,
+  "size": 94844,
+  "requested_spec": "pkgs/main/win-64::glog==0.5.0=hd77b12b_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\glog-0.5.0-hd77b12b_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\glog-0.5.0-hd77b12b_1",
+  "files": [
+    "Library/bin/glog.dll",
+    "Library/include/glog/export.h",
+    "Library/include/glog/log_severity.h",
+    "Library/include/glog/logging.h",
+    "Library/include/glog/raw_logging.h",
+    "Library/include/glog/stl_logging.h",
+    "Library/include/glog/vlog_is_on.h",
+    "Library/lib/cmake/glog/glog-config-version.cmake",
+    "Library/lib/cmake/glog/glog-config.cmake",
+    "Library/lib/cmake/glog/glog-modules.cmake",
+    "Library/lib/cmake/glog/glog-targets-release.cmake",
+    "Library/lib/cmake/glog/glog-targets.cmake",
+    "Library/lib/glog.lib",
+    "Library/lib/pkgconfig/libglog.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/libglog.pc",
+        "prefix_placeholder": "C:/b/abs_34rovq6fwt/croot/glog_1706895288703/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "bf0fb761523e2cf7995b9316759d6ce14186fa8f82758ebbaac4e1f2b1f9ec5a",
+        "size_in_bytes": 435,
+        "sha256_in_prefix": "139854b0699cb460215f648ddbb223a3794ce764101bfd5ce7426c743869baba"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\glog-0.5.0-hd77b12b_1",
+    "type": 1
+  }
+}

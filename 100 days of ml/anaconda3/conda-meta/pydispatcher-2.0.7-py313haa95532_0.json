@@ -1,0 +1,56 @@
+{
+  "name": "pydispatcher",
+  "version": "2.0.7",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "pydispatcher-2.0.7-py313haa95532_0.conda",
+  "md5": "76eb9669642419bc54ac7b685f549887",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pydispatcher-2.0.7-py313haa95532_0.conda",
+  "sha256": "11f30109e2175e0e2685b3c34e58313b45589a29a7ca2258fad6394e8dcc7b3a",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1750159376000,
+  "size": 30873,
+  "requested_spec": "pkgs/main/win-64::pydispatcher==2.0.7=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pydispatcher-2.0.7-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pydispatcher-2.0.7-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/pydispatch/__init__.py",
+    "Lib/site-packages/pydispatch/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/dispatcher.cpython-313.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/errors.cpython-313.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/robust.cpython-313.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/robustapply.cpython-313.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/saferef.cpython-313.pyc",
+    "Lib/site-packages/pydispatch/dispatcher.py",
+    "Lib/site-packages/pydispatch/errors.py",
+    "Lib/site-packages/pydispatch/robust.py",
+    "Lib/site-packages/pydispatch/robustapply.py",
+    "Lib/site-packages/pydispatch/saferef.py",
+    "Lib/site-packages/pydispatcher-2.0.7.dist-info/INSTALLER",
+    "Lib/site-packages/pydispatcher-2.0.7.dist-info/METADATA",
+    "Lib/site-packages/pydispatcher-2.0.7.dist-info/RECORD",
+    "Lib/site-packages/pydispatcher-2.0.7.dist-info/REQUESTED",
+    "Lib/site-packages/pydispatcher-2.0.7.dist-info/WHEEL",
+    "Lib/site-packages/pydispatcher-2.0.7.dist-info/direct_url.json",
+    "Lib/site-packages/pydispatcher-2.0.7.dist-info/licenses/license.txt",
+    "Lib/site-packages/pydispatcher-2.0.7.dist-info/top_level.txt"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pydispatcher-2.0.7-py313haa95532_0",
+    "type": 1
+  }
+}

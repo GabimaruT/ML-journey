@@ -1,0 +1,45 @@
+{
+  "name": "threadpoolctl",
+  "version": "3.5.0",
+  "build": "py313h4442805_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "threadpoolctl-3.5.0-py313h4442805_0.conda",
+  "md5": "27b84482c7c76d35d9848387c73ddae2",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/threadpoolctl-3.5.0-py313h4442805_0.conda",
+  "sha256": "c9aa4ad9d5692c41a5db785993cac14ccb2daa65504254e0b1af150771f9b485",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1731006178000,
+  "size": 50803,
+  "requested_spec": "pkgs/main/win-64::threadpoolctl==3.5.0=py313h4442805_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\threadpoolctl-3.5.0-py313h4442805_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\threadpoolctl-3.5.0-py313h4442805_0",
+  "files": [
+    "Lib/site-packages/__pycache__/threadpoolctl.cpython-313.pyc",
+    "Lib/site-packages/threadpoolctl-3.5.0.dist-info/INSTALLER",
+    "Lib/site-packages/threadpoolctl-3.5.0.dist-info/LICENSE",
+    "Lib/site-packages/threadpoolctl-3.5.0.dist-info/METADATA",
+    "Lib/site-packages/threadpoolctl-3.5.0.dist-info/RECORD",
+    "Lib/site-packages/threadpoolctl-3.5.0.dist-info/REQUESTED",
+    "Lib/site-packages/threadpoolctl-3.5.0.dist-info/WHEEL",
+    "Lib/site-packages/threadpoolctl-3.5.0.dist-info/direct_url.json",
+    "Lib/site-packages/threadpoolctl.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\threadpoolctl-3.5.0-py313h4442805_0",
+    "type": 1
+  }
+}

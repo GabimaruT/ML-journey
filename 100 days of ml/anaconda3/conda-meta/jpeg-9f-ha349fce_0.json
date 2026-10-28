@@ -1,0 +1,62 @@
+{
+  "name": "jpeg",
+  "version": "9f",
+  "build": "ha349fce_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "jpeg-9f-ha349fce_0.conda",
+  "md5": "8d89ac2996713e9c473377e7d249c0cc",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jpeg-9f-ha349fce_0.conda",
+  "sha256": "5f838af84fa432ba6498bb9c149fa66383f7805cbf351df0f9e70cf2c6ca9034",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "IJG",
+  "license_family": "Other",
+  "timestamp": 1757499108000,
+  "size": 309034,
+  "requested_spec": "pkgs/main/win-64::jpeg==9f=ha349fce_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jpeg-9f-ha349fce_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jpeg-9f-ha349fce_0",
+  "files": [
+    "Library/bin/cjpeg.exe",
+    "Library/bin/djpeg.exe",
+    "Library/bin/jpegtran.exe",
+    "Library/bin/libjpeg.dll",
+    "Library/bin/rdjpgcom.exe",
+    "Library/bin/wrjpgcom.exe",
+    "Library/include/jconfig.h",
+    "Library/include/jerror.h",
+    "Library/include/jmorecfg.h",
+    "Library/include/jpegint.h",
+    "Library/include/jpeglib.h",
+    "Library/lib/jpeg-static.lib",
+    "Library/lib/jpeg.lib",
+    "Library/lib/libjpeg.lib",
+    "Library/lib/pkgconfig/libjpeg.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/libjpeg.pc",
+        "prefix_placeholder": "C:/miniconda3/conda-bld/jpeg_1757499032890/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "4fcecfff1354dc79073fc4782227c5b73ead6d5969ecc235233ad1ef4752b84f",
+        "size_in_bytes": 270,
+        "sha256_in_prefix": "396495bee169855c86bc0f7470da2df20caa95a7f5a7b68f7bcafde18ae4e6cd"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jpeg-9f-ha349fce_0",
+    "type": 1
+  }
+}

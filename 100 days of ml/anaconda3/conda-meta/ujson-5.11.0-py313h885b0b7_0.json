@@ -1,0 +1,49 @@
+{
+  "name": "ujson",
+  "version": "5.11.0",
+  "build": "py313h885b0b7_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "ujson-5.11.0-py313h885b0b7_0.conda",
+  "md5": "85e20a800cbf448b5df12e23f06e2367",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/ujson-5.11.0-py313h885b0b7_0.conda",
+  "sha256": "79ffb8b9580b293eb016e4425a2bf5892e8e28a110d7841b3c6ffc699d0a8f82",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1763119337000,
+  "size": 147382,
+  "requested_spec": "pkgs/main/win-64::ujson==5.11.0=py313h885b0b7_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\ujson-5.11.0-py313h885b0b7_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\ujson-5.11.0-py313h885b0b7_0",
+  "files": [
+    "Lib/site-packages/ujson-5.11.0.dist-info/INSTALLER",
+    "Lib/site-packages/ujson-5.11.0.dist-info/METADATA",
+    "Lib/site-packages/ujson-5.11.0.dist-info/RECORD",
+    "Lib/site-packages/ujson-5.11.0.dist-info/REQUESTED",
+    "Lib/site-packages/ujson-5.11.0.dist-info/WHEEL",
+    "Lib/site-packages/ujson-5.11.0.dist-info/direct_url.json",
+    "Lib/site-packages/ujson-5.11.0.dist-info/licenses/LICENSE.txt",
+    "Lib/site-packages/ujson-5.11.0.dist-info/top_level.txt",
+    "Lib/site-packages/ujson-stubs/__init__.pyi",
+    "Lib/site-packages/ujson.cp313-win_amd64.pyd"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\ujson-5.11.0-py313h885b0b7_0",
+    "type": 1
+  }
+}

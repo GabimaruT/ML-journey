@@ -1,0 +1,52 @@
+{
+  "name": "pixman",
+  "version": "0.46.4",
+  "build": "h4043f72_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "pixman-0.46.4-h4043f72_0.conda",
+  "md5": "870350c7155633ae34d27cda82099b73",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pixman-0.46.4-h4043f72_0.conda",
+  "sha256": "a2dfe6fec6464394a4f87a29762bbeb23ebc88f882b7adc4740a5338a64f4308",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1755256536000,
+  "size": 263431,
+  "requested_spec": "pkgs/main/win-64::pixman==0.46.4=h4043f72_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pixman-0.46.4-h4043f72_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pixman-0.46.4-h4043f72_0",
+  "files": [
+    "Library/bin/pixman-1-0.dll",
+    "Library/include/pixman-1/pixman-version.h",
+    "Library/include/pixman-1/pixman.h",
+    "Library/lib/pixman-1.lib",
+    "Library/lib/pkgconfig/pixman-1.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/pixman-1.pc",
+        "prefix_placeholder": "C:/b/abs_ffjpfcp8ju/croot/pixman_1755256343765/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "afcd6f5f0f710094b967ebe4303913015b9da7dca83d8c952fe4df997357499e",
+        "size_in_bytes": 264,
+        "sha256_in_prefix": "ab7e75c4300e595980b19082c72ca954134f15728815d9d90a0f69867c008e6c"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pixman-0.46.4-h4043f72_0",
+    "type": 1
+  }
+}

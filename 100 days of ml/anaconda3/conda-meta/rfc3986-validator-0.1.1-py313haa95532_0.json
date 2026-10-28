@@ -1,0 +1,47 @@
+{
+  "name": "rfc3986-validator",
+  "version": "0.1.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "rfc3986-validator-0.1.1-py313haa95532_0.conda",
+  "md5": "5c5dfbf24476c412017102d0793b9703",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/rfc3986-validator-0.1.1-py313haa95532_0.conda",
+  "sha256": "111038da1530dd973212a3e26710359ccd8276525417026053b554b04c23cdcc",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1729040222000,
+  "size": 10863,
+  "requested_spec": "pkgs/main/win-64::rfc3986-validator==0.1.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\rfc3986-validator-0.1.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\rfc3986-validator-0.1.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/__pycache__/rfc3986_validator.cpython-313.pyc",
+    "Lib/site-packages/rfc3986_validator-0.1.1.dist-info/AUTHORS.rst",
+    "Lib/site-packages/rfc3986_validator-0.1.1.dist-info/INSTALLER",
+    "Lib/site-packages/rfc3986_validator-0.1.1.dist-info/LICENSE",
+    "Lib/site-packages/rfc3986_validator-0.1.1.dist-info/METADATA",
+    "Lib/site-packages/rfc3986_validator-0.1.1.dist-info/RECORD",
+    "Lib/site-packages/rfc3986_validator-0.1.1.dist-info/REQUESTED",
+    "Lib/site-packages/rfc3986_validator-0.1.1.dist-info/WHEEL",
+    "Lib/site-packages/rfc3986_validator-0.1.1.dist-info/direct_url.json",
+    "Lib/site-packages/rfc3986_validator-0.1.1.dist-info/top_level.txt",
+    "Lib/site-packages/rfc3986_validator.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\rfc3986-validator-0.1.1-py313haa95532_0",
+    "type": 1
+  }
+}

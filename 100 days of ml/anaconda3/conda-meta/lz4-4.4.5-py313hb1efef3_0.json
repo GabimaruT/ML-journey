@@ -1,0 +1,59 @@
+{
+  "name": "lz4",
+  "version": "4.4.5",
+  "build": "py313hb1efef3_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "lz4-4.4.5-py313hb1efef3_0.conda",
+  "md5": "09aeb333b469b47ef91ffdd61ae11ad9",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lz4-4.4.5-py313hb1efef3_0.conda",
+  "sha256": "a01a2c2bb7cd43dc40a44c170d819c35c93058080a3e80de39bd4900c8881292",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "lz4-c >=1.9.4,<1.10.0a0",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1762954324000,
+  "size": 99056,
+  "requested_spec": "pkgs/main/win-64::lz4==4.4.5=py313hb1efef3_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\lz4-4.4.5-py313hb1efef3_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\lz4-4.4.5-py313hb1efef3_0",
+  "files": [
+    "Lib/site-packages/lz4-4.4.5.dist-info/INSTALLER",
+    "Lib/site-packages/lz4-4.4.5.dist-info/METADATA",
+    "Lib/site-packages/lz4-4.4.5.dist-info/RECORD",
+    "Lib/site-packages/lz4-4.4.5.dist-info/REQUESTED",
+    "Lib/site-packages/lz4-4.4.5.dist-info/WHEEL",
+    "Lib/site-packages/lz4-4.4.5.dist-info/direct_url.json",
+    "Lib/site-packages/lz4-4.4.5.dist-info/licenses/LICENSE",
+    "Lib/site-packages/lz4-4.4.5.dist-info/top_level.txt",
+    "Lib/site-packages/lz4/__init__.py",
+    "Lib/site-packages/lz4/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/lz4/__pycache__/version.cpython-313.pyc",
+    "Lib/site-packages/lz4/_version.cp313-win_amd64.pyd",
+    "Lib/site-packages/lz4/block/__init__.py",
+    "Lib/site-packages/lz4/block/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/lz4/block/_block.cp313-win_amd64.pyd",
+    "Lib/site-packages/lz4/frame/__init__.py",
+    "Lib/site-packages/lz4/frame/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/lz4/frame/_frame.cp313-win_amd64.pyd",
+    "Lib/site-packages/lz4/version.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\lz4-4.4.5-py313hb1efef3_0",
+    "type": 1
+  }
+}

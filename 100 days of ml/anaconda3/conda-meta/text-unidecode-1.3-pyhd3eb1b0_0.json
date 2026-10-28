@@ -1,0 +1,51 @@
+{
+  "name": "text-unidecode",
+  "version": "1.3",
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "text-unidecode-1.3-pyhd3eb1b0_0.conda",
+  "md5": "001a50a0503bd64a26513d2855faacb0",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/text-unidecode-1.3-pyhd3eb1b0_0.conda",
+  "sha256": "d55efab6446bbe376084239340f97649c1884056f500a4a77b59d514c52a3636",
+  "depends": [
+    "python"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "Artistic",
+  "license_family": "OTHER",
+  "package_type": "noarch_python",
+  "timestamp": 1629401370000,
+  "size": 66500,
+  "requested_spec": "pkgs/main/noarch::text-unidecode==1.3=pyhd3eb1b0_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\text-unidecode-1.3-pyhd3eb1b0_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\text-unidecode-1.3-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/text_unidecode-1.3.dist-info/INSTALLER",
+    "Lib/site-packages/text_unidecode-1.3.dist-info/LICENSE",
+    "Lib/site-packages/text_unidecode-1.3.dist-info/METADATA",
+    "Lib/site-packages/text_unidecode-1.3.dist-info/RECORD",
+    "Lib/site-packages/text_unidecode-1.3.dist-info/REQUESTED",
+    "Lib/site-packages/text_unidecode-1.3.dist-info/WHEEL",
+    "Lib/site-packages/text_unidecode-1.3.dist-info/direct_url.json",
+    "Lib/site-packages/text_unidecode-1.3.dist-info/top_level.txt",
+    "Lib/site-packages/text_unidecode/__init__.py",
+    "Lib/site-packages/text_unidecode/data.bin",
+    "Lib/site-packages/text_unidecode/__pycache__/__init__.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/text_unidecode/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\text-unidecode-1.3-pyhd3eb1b0_0",
+    "type": 1
+  }
+}

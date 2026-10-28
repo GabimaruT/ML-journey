@@ -1,0 +1,68 @@
+{
+  "name": "gts",
+  "version": "0.7.6",
+  "build": "h6b5321d_4",
+  "build_number": 4,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "gts-0.7.6-h6b5321d_4.conda",
+  "md5": "a41f14768d5e377426ad60c613f2923b",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/gts-0.7.6-h6b5321d_4.conda",
+  "sha256": "b79755d2f9fc2113b6949bfc170c067902bc776e2c20da26e746e780f4f5a2d4",
+  "depends": [
+    "libglib >=2.76.3,<3.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "constrains": [],
+  "license": "LGPL-2.0-or-later",
+  "timestamp": 1686545648000,
+  "size": 188688,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\gts-0.7.6-h6b5321d_4.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\gts-0.7.6-h6b5321d_4",
+  "files": [
+    "Library/bin/gts.dll",
+    "Library/include/gts.h",
+    "Library/include/gtsconfig.h",
+    "Library/lib/gts.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/gts.dll",
+        "path_type": "hardlink",
+        "sha256": "e01489b01ca8f2176e225e637e044cc110e27ed8b4e08d574e50d2ea2be431a7",
+        "size_in_bytes": 362496,
+        "sha256_in_prefix": "e01489b01ca8f2176e225e637e044cc110e27ed8b4e08d574e50d2ea2be431a7"
+      },
+      {
+        "_path": "Library/include/gts.h",
+        "path_type": "hardlink",
+        "sha256": "f55999734b4700797dbd0b6f983434970d07bf562468f5d09c8476aa413324d0",
+        "size_in_bytes": 83365,
+        "sha256_in_prefix": "f55999734b4700797dbd0b6f983434970d07bf562468f5d09c8476aa413324d0"
+      },
+      {
+        "_path": "Library/include/gtsconfig.h",
+        "path_type": "hardlink",
+        "sha256": "6f1286dd115ec05c45d919c97fe5a87abb9fb0f8e3e69518f5a8b6f728567ef4",
+        "size_in_bytes": 807,
+        "sha256_in_prefix": "6f1286dd115ec05c45d919c97fe5a87abb9fb0f8e3e69518f5a8b6f728567ef4"
+      },
+      {
+        "_path": "Library/lib/gts.lib",
+        "path_type": "hardlink",
+        "sha256": "6125a4c5c7e8c9b585d7c2e67bfcbb7a5ebffc715ad887131568272089772925",
+        "size_in_bytes": 97558,
+        "sha256_in_prefix": "6125a4c5c7e8c9b585d7c2e67bfcbb7a5ebffc715ad887131568272089772925"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\gts-0.7.6-h6b5321d_4",
+    "type": 1
+  }
+}

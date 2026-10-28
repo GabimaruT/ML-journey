@@ -1,0 +1,58 @@
+{
+  "name": "python-lmdb",
+  "version": "1.7.5",
+  "build": "py313h5823743_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "python-lmdb-1.7.5-py313h5823743_0.conda",
+  "md5": "c0388eff58342c0c32108423abf48f2c",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/python-lmdb-1.7.5-py313h5823743_0.conda",
+  "sha256": "71ac726c8e6264040afd24aacc79a3e0c88191d6709c485497999f6570d4d0db",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "OLDAP-2.8",
+  "license_family": "Other",
+  "timestamp": 1764243916000,
+  "size": 154402,
+  "requested_spec": "pkgs/main/win-64::python-lmdb==1.7.5=py313h5823743_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-lmdb-1.7.5-py313h5823743_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-lmdb-1.7.5-py313h5823743_0",
+  "files": [
+    "Lib/site-packages/lmdb-1.7.5.dist-info/INSTALLER",
+    "Lib/site-packages/lmdb-1.7.5.dist-info/METADATA",
+    "Lib/site-packages/lmdb-1.7.5.dist-info/RECORD",
+    "Lib/site-packages/lmdb-1.7.5.dist-info/REQUESTED",
+    "Lib/site-packages/lmdb-1.7.5.dist-info/WHEEL",
+    "Lib/site-packages/lmdb-1.7.5.dist-info/direct_url.json",
+    "Lib/site-packages/lmdb-1.7.5.dist-info/licenses/LICENSE",
+    "Lib/site-packages/lmdb-1.7.5.dist-info/top_level.txt",
+    "Lib/site-packages/lmdb/__init__.py",
+    "Lib/site-packages/lmdb/__main__.py",
+    "Lib/site-packages/lmdb/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/lmdb/__pycache__/__main__.cpython-313.pyc",
+    "Lib/site-packages/lmdb/__pycache__/_config.cpython-313.pyc",
+    "Lib/site-packages/lmdb/__pycache__/cffi.cpython-313.pyc",
+    "Lib/site-packages/lmdb/__pycache__/tool.cpython-313.pyc",
+    "Lib/site-packages/lmdb/_config.py",
+    "Lib/site-packages/lmdb/cffi.py",
+    "Lib/site-packages/lmdb/cpython.cp313-win_amd64.pyd",
+    "Lib/site-packages/lmdb/tool.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-lmdb-1.7.5-py313h5823743_0",
+    "type": 1
+  }
+}

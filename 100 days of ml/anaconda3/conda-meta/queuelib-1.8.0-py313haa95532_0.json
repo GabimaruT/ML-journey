@@ -1,0 +1,60 @@
+{
+  "name": "queuelib",
+  "version": "1.8.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "queuelib-1.8.0-py313haa95532_0.conda",
+  "md5": "813d90eedabf674acfe98c228e4d133c",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/queuelib-1.8.0-py313haa95532_0.conda",
+  "sha256": "5d59ba048915f87c912561a5dcdb624f7dfba155becc1e7b6f84cce466138e41",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1762896963000,
+  "size": 35915,
+  "requested_spec": "pkgs/main/win-64::queuelib==1.8.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\queuelib-1.8.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\queuelib-1.8.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/queuelib-1.8.0.dist-info/INSTALLER",
+    "Lib/site-packages/queuelib-1.8.0.dist-info/METADATA",
+    "Lib/site-packages/queuelib-1.8.0.dist-info/RECORD",
+    "Lib/site-packages/queuelib-1.8.0.dist-info/REQUESTED",
+    "Lib/site-packages/queuelib-1.8.0.dist-info/WHEEL",
+    "Lib/site-packages/queuelib-1.8.0.dist-info/direct_url.json",
+    "Lib/site-packages/queuelib-1.8.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/queuelib/__init__.py",
+    "Lib/site-packages/queuelib/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/queuelib/__pycache__/pqueue.cpython-313.pyc",
+    "Lib/site-packages/queuelib/__pycache__/queue.cpython-313.pyc",
+    "Lib/site-packages/queuelib/__pycache__/rrqueue.cpython-313.pyc",
+    "Lib/site-packages/queuelib/pqueue.py",
+    "Lib/site-packages/queuelib/py.typed",
+    "Lib/site-packages/queuelib/queue.py",
+    "Lib/site-packages/queuelib/rrqueue.py",
+    "Lib/site-packages/queuelib/tests/__init__.py",
+    "Lib/site-packages/queuelib/tests/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/queuelib/tests/__pycache__/test_pqueue.cpython-313.pyc",
+    "Lib/site-packages/queuelib/tests/__pycache__/test_queue.cpython-313.pyc",
+    "Lib/site-packages/queuelib/tests/__pycache__/test_rrqueue.cpython-313.pyc",
+    "Lib/site-packages/queuelib/tests/test_pqueue.py",
+    "Lib/site-packages/queuelib/tests/test_queue.py",
+    "Lib/site-packages/queuelib/tests/test_rrqueue.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\queuelib-1.8.0-py313haa95532_0",
+    "type": 1
+  }
+}

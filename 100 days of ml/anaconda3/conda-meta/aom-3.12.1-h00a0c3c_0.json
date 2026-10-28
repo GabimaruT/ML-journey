@@ -1,0 +1,63 @@
+{
+  "name": "aom",
+  "version": "3.12.1",
+  "build": "h00a0c3c_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "aom-3.12.1-h00a0c3c_0.conda",
+  "md5": "d5ed6d55279b36ee4b3088f80843b359",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aom-3.12.1-h00a0c3c_0.conda",
+  "sha256": "e96fd511eb0c3fb67aa6ad24b2a14e730a92b3c6cfb776a73b728cd912dd9953",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "timestamp": 1754917837000,
+  "size": 5818487,
+  "requested_spec": "pkgs/main/win-64::aom==3.12.1=h00a0c3c_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aom-3.12.1-h00a0c3c_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aom-3.12.1-h00a0c3c_0",
+  "files": [
+    "Library/bin/aom.dll",
+    "Library/bin/aomdec.exe",
+    "Library/bin/aomenc.exe",
+    "Library/include/aom/aom.h",
+    "Library/include/aom/aom_codec.h",
+    "Library/include/aom/aom_decoder.h",
+    "Library/include/aom/aom_encoder.h",
+    "Library/include/aom/aom_external_partition.h",
+    "Library/include/aom/aom_frame_buffer.h",
+    "Library/include/aom/aom_image.h",
+    "Library/include/aom/aom_integer.h",
+    "Library/include/aom/aomcx.h",
+    "Library/include/aom/aomdx.h",
+    "Library/lib/aom.lib",
+    "Library/lib/aom_dll.lib",
+    "Library/lib/pkgconfig/aom.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/aom.pc",
+        "prefix_placeholder": "C:/b/abs_ea7u4cal40/croot/aom_1754917438903/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "2eb7fc975b629047df5b334688db3710b7581324a042bba7a9eec1c4f4fb8704",
+        "size_in_bytes": 352,
+        "sha256_in_prefix": "349cc635592f7d19499081b37659385380809633abb698c31a4359ca31fb6e6a"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aom-3.12.1-h00a0c3c_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "libclang13",
+  "version": "20.1.8",
+  "build": "default_hccbf073_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libclang13-20.1.8-default_hccbf073_0.conda",
+  "md5": "5e028accf2abf6f24a7fd76229c631ff",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libclang13-20.1.8-default_hccbf073_0.conda",
+  "sha256": "b6d4fc56b10774e148e4083c946c27c4c4d2ef6968f62ebeeb7d2fc861bcb851",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "libllvm20 >=20.1.8,<20.2.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208",
+    "zlib >=1.2.13,<2.0.0a0",
+    "zstd >=1.5.6,<1.6.0a0"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "license_family": "Apache",
+  "timestamp": 1756245611000,
+  "size": 32883973,
+  "requested_spec": "pkgs/main/win-64::libclang13==20.1.8=default_hccbf073_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libclang13-20.1.8-default_hccbf073_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libclang13-20.1.8-default_hccbf073_0",
+  "files": [
+    "Library/bin/libclang-13.dll"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libclang13-20.1.8-default_hccbf073_0",
+    "type": 1
+  }
+}

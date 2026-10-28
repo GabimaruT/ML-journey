@@ -1,0 +1,39 @@
+{
+  "name": "utf8proc",
+  "version": "2.6.1",
+  "build": "h2bbff1b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "utf8proc-2.6.1-h2bbff1b_1.conda",
+  "md5": "40018abfee1b87a22eb5dd705ef45f8c",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/utf8proc-2.6.1-h2bbff1b_1.conda",
+  "sha256": "30a7fdd0b6d8bc0821b71c0ac0a99543af3c9fd75180255f1f6fd0388b8690a4",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1706894771000,
+  "size": 98549,
+  "requested_spec": "pkgs/main/win-64::utf8proc==2.6.1=h2bbff1b_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\utf8proc-2.6.1-h2bbff1b_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\utf8proc-2.6.1-h2bbff1b_1",
+  "files": [
+    "Library/bin/utf8proc.dll",
+    "Library/include/utf8proc.h",
+    "Library/lib/utf8proc.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\utf8proc-2.6.1-h2bbff1b_1",
+    "type": 1
+  }
+}

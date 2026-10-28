@@ -1,0 +1,51 @@
+{
+  "name": "lerc",
+  "version": "4.0.0",
+  "build": "h5da7b33_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "lerc-4.0.0-h5da7b33_0.conda",
+  "md5": "0ca244715eee0627a86e4d51a40727f1",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lerc-4.0.0-h5da7b33_0.conda",
+  "sha256": "93dac5ffe9b614a239fa2b17f293f9831b535a7ccb905067555ae83236f1ac2f",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "timestamp": 1734423494000,
+  "size": 189931,
+  "requested_spec": "pkgs/main/win-64::lerc==4.0.0=h5da7b33_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\lerc-4.0.0-h5da7b33_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\lerc-4.0.0-h5da7b33_0",
+  "files": [
+    "Library/bin/Lerc.dll",
+    "Library/include/Lerc_c_api.h",
+    "Library/include/Lerc_types.h",
+    "Library/lib/Lerc.lib",
+    "Library/lib/pkgconfig/Lerc.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/Lerc.pc",
+        "prefix_placeholder": "C:/b/abs_e0hmrns5kz/croot/lerc_1734423378485/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "6c03a73c39e7a63a1f188839dcba8b47872bdd3b91baaa703e28d2e9d275bb0c",
+        "size_in_bytes": 342,
+        "sha256_in_prefix": "c6f57e4c356ec31466eb298abb4dae9cf2bf78bda2106adc0a6259daffea298f"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\lerc-4.0.0-h5da7b33_0",
+    "type": 1
+  }
+}

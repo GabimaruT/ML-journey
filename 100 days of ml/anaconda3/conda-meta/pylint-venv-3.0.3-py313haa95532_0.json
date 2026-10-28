@@ -1,0 +1,45 @@
+{
+  "name": "pylint-venv",
+  "version": "3.0.3",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "pylint-venv-3.0.3-py313haa95532_0.conda",
+  "md5": "6a657208d0904563d16522fb92950871",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pylint-venv-3.0.3-py313haa95532_0.conda",
+  "sha256": "d4cf3df6b3ce692c314760f42e25357add2f6d482b451ae13582bb9a830bedbe",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1729062225000,
+  "size": 13462,
+  "requested_spec": "pkgs/main/win-64::pylint-venv==3.0.3=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pylint-venv-3.0.3-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pylint-venv-3.0.3-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/__pycache__/pylint_venv.cpython-313.pyc",
+    "Lib/site-packages/pylint_venv-3.0.3.dist-info/INSTALLER",
+    "Lib/site-packages/pylint_venv-3.0.3.dist-info/LICENSE.txt",
+    "Lib/site-packages/pylint_venv-3.0.3.dist-info/METADATA",
+    "Lib/site-packages/pylint_venv-3.0.3.dist-info/RECORD",
+    "Lib/site-packages/pylint_venv-3.0.3.dist-info/REQUESTED",
+    "Lib/site-packages/pylint_venv-3.0.3.dist-info/WHEEL",
+    "Lib/site-packages/pylint_venv-3.0.3.dist-info/direct_url.json",
+    "Lib/site-packages/pylint_venv.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pylint-venv-3.0.3-py313haa95532_0",
+    "type": 1
+  }
+}

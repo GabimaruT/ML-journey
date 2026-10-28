@@ -1,0 +1,49 @@
+{
+  "name": "libbrotlienc",
+  "version": "1.0.9",
+  "build": "h827c3e9_9",
+  "build_number": 9,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libbrotlienc-1.0.9-h827c3e9_9.conda",
+  "md5": "9658fa5e5351c057732e6bc01a53bd61",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libbrotlienc-1.0.9-h827c3e9_9.conda",
+  "sha256": "923baf423e3909d03c7e185ec8c2d68e73c0527c91fe82b91366d2901f245deb",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "libbrotlicommon 1.0.9 h827c3e9_9",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1736183274000,
+  "size": 266789,
+  "requested_spec": "pkgs/main/win-64::libbrotlienc==1.0.9=h827c3e9_9",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libbrotlienc-1.0.9-h827c3e9_9.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libbrotlienc-1.0.9-h827c3e9_9",
+  "files": [
+    "Library/bin/brotlienc.dll",
+    "Library/lib/brotlienc.lib",
+    "Library/lib/pkgconfig/libbrotlienc.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/libbrotlienc.pc",
+        "prefix_placeholder": "C:/b/abs_c415aux9ra/croot/brotli-split_1736182803933/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "fbb0366a10ae1650427dbd2f17241ccdc861cd2fc722eec01c68e6c6105788be",
+        "size_in_bytes": 423,
+        "sha256_in_prefix": "56415567cee92233e38d86e807a41fc32ea4c954a129999a363918e08fb7de05"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libbrotlienc-1.0.9-h827c3e9_9",
+    "type": 1
+  }
+}

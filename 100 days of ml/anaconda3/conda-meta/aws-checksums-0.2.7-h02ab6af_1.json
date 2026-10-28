@@ -1,0 +1,47 @@
+{
+  "name": "aws-checksums",
+  "version": "0.2.7",
+  "build": "h02ab6af_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "aws-checksums-0.2.7-h02ab6af_1.conda",
+  "md5": "d6cd3e971ba9c1a56270952b8b2be528",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aws-checksums-0.2.7-h02ab6af_1.conda",
+  "sha256": "942188155e57d5cdb125392fc61d793db733634f687b880068a37e1dc63d1d53",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "aws-c-common >=0.12.4,<0.12.5.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "timestamp": 1756730232000,
+  "size": 103867,
+  "requested_spec": "pkgs/main/win-64::aws-checksums==0.2.7=h02ab6af_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aws-checksums-0.2.7-h02ab6af_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aws-checksums-0.2.7-h02ab6af_1",
+  "files": [
+    "Library/bin/aws-checksums.dll",
+    "Library/bin/checksum-profile.exe",
+    "Library/include/aws/checksums/checksums.h",
+    "Library/include/aws/checksums/crc.h",
+    "Library/include/aws/checksums/exports.h",
+    "Library/lib/aws-checksums.lib",
+    "Library/lib/cmake/aws-checksums/aws-checksums-config.cmake",
+    "Library/lib/cmake/aws-checksums/shared/aws-checksums-targets-release.cmake",
+    "Library/lib/cmake/aws-checksums/shared/aws-checksums-targets.cmake"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aws-checksums-0.2.7-h02ab6af_1",
+    "type": 1
+  }
+}

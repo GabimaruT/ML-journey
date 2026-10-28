@@ -1,0 +1,42 @@
+{
+  "name": "yaml",
+  "version": "0.2.5",
+  "build": "he774522_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "yaml-0.2.5-he774522_0.conda",
+  "md5": "959a63017c520ef9d345bd82ab344e3e",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/yaml-0.2.5-he774522_0.conda",
+  "sha256": "e197edaa90488491bd6e0eaa51329d2d93242c6acd7d0aa7b0351d4b24412368",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1593116189000,
+  "size": 63112,
+  "requested_spec": "pkgs/main/win-64::yaml==0.2.5=he774522_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\yaml-0.2.5-he774522_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\yaml-0.2.5-he774522_0",
+  "files": [
+    "Library/bin/yaml.dll",
+    "Library/cmake/yamlConfig.cmake",
+    "Library/cmake/yamlConfigVersion.cmake",
+    "Library/cmake/yamlTargets-release.cmake",
+    "Library/cmake/yamlTargets.cmake",
+    "Library/include/yaml.h",
+    "Library/lib/yaml.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\yaml-0.2.5-he774522_0",
+    "type": 1
+  }
+}

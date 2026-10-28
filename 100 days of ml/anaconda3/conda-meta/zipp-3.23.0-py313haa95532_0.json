@@ -1,0 +1,58 @@
+{
+  "name": "zipp",
+  "version": "3.23.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "zipp-3.23.0-py313haa95532_0.conda",
+  "md5": "58f9bf466a66b75fee3e9522803e26f8",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/zipp-3.23.0-py313haa95532_0.conda",
+  "sha256": "e1fabe5d67279888410b53ad3fe26f02d6c82cb3f4124e07b08e7988815cde31",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1763978011000,
+  "size": 32592,
+  "requested_spec": "pkgs/main/win-64::zipp==3.23.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\zipp-3.23.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\zipp-3.23.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/zipp-3.23.0.dist-info/INSTALLER",
+    "Lib/site-packages/zipp-3.23.0.dist-info/METADATA",
+    "Lib/site-packages/zipp-3.23.0.dist-info/RECORD",
+    "Lib/site-packages/zipp-3.23.0.dist-info/REQUESTED",
+    "Lib/site-packages/zipp-3.23.0.dist-info/WHEEL",
+    "Lib/site-packages/zipp-3.23.0.dist-info/direct_url.json",
+    "Lib/site-packages/zipp-3.23.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/zipp-3.23.0.dist-info/top_level.txt",
+    "Lib/site-packages/zipp/__init__.py",
+    "Lib/site-packages/zipp/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/zipp/__pycache__/_functools.cpython-313.pyc",
+    "Lib/site-packages/zipp/__pycache__/glob.cpython-313.pyc",
+    "Lib/site-packages/zipp/_functools.py",
+    "Lib/site-packages/zipp/compat/__init__.py",
+    "Lib/site-packages/zipp/compat/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/zipp/compat/__pycache__/overlay.cpython-313.pyc",
+    "Lib/site-packages/zipp/compat/__pycache__/py310.cpython-313.pyc",
+    "Lib/site-packages/zipp/compat/__pycache__/py313.cpython-313.pyc",
+    "Lib/site-packages/zipp/compat/overlay.py",
+    "Lib/site-packages/zipp/compat/py310.py",
+    "Lib/site-packages/zipp/compat/py313.py",
+    "Lib/site-packages/zipp/glob.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\zipp-3.23.0-py313haa95532_0",
+    "type": 1
+  }
+}

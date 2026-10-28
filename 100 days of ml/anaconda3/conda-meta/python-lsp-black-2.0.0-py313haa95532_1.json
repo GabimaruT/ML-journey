@@ -1,0 +1,51 @@
+{
+  "name": "python-lsp-black",
+  "version": "2.0.0",
+  "build": "py313haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "python-lsp-black-2.0.0-py313haa95532_1.conda",
+  "md5": "d1eeb910a517b6bc0da3a8132b968014",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/python-lsp-black-2.0.0-py313haa95532_1.conda",
+  "sha256": "9d92e69c0b42d3a14d77fcf17091331837c61e5b541b77f0a80d96b1bb46153a",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "black >=23.11.0",
+    "python >=3.13,<3.14.0a0",
+    "python-lsp-server >=1.4.0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1744023604000,
+  "size": 17666,
+  "requested_spec": "pkgs/main/win-64::python-lsp-black==2.0.0=py313haa95532_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-lsp-black-2.0.0-py313haa95532_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-lsp-black-2.0.0-py313haa95532_1",
+  "files": [
+    "Lib/site-packages/pylsp_black/__init__.py",
+    "Lib/site-packages/pylsp_black/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pylsp_black/__pycache__/plugin.cpython-313.pyc",
+    "Lib/site-packages/pylsp_black/plugin.py",
+    "Lib/site-packages/python_lsp_black-2.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/python_lsp_black-2.0.0.dist-info/LICENSE",
+    "Lib/site-packages/python_lsp_black-2.0.0.dist-info/METADATA",
+    "Lib/site-packages/python_lsp_black-2.0.0.dist-info/RECORD",
+    "Lib/site-packages/python_lsp_black-2.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/python_lsp_black-2.0.0.dist-info/WHEEL",
+    "Lib/site-packages/python_lsp_black-2.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/python_lsp_black-2.0.0.dist-info/entry_points.txt",
+    "Lib/site-packages/python_lsp_black-2.0.0.dist-info/top_level.txt"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-lsp-black-2.0.0-py313haa95532_1",
+    "type": 1
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "pyopenssl",
+  "version": "25.3.0",
+  "build": "py313h2b78340_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "pyopenssl-25.3.0-py313h2b78340_0.conda",
+  "md5": "c966e7698d94c0996f9e77d097cbeabf",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyopenssl-25.3.0-py313h2b78340_0.conda",
+  "sha256": "5aebf52818ee4d0fd5a8796c752eeb3e0611a95e51e38cc2dc7a463ad15f8075",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "cryptography >=45.0.7,<47",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "timestamp": 1762166595000,
+  "size": 115828,
+  "requested_spec": "pkgs/main/win-64::pyopenssl==25.3.0=py313h2b78340_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pyopenssl-25.3.0-py313h2b78340_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pyopenssl-25.3.0-py313h2b78340_0",
+  "files": [
+    "Lib/site-packages/OpenSSL/SSL.py",
+    "Lib/site-packages/OpenSSL/__init__.py",
+    "Lib/site-packages/OpenSSL/__pycache__/SSL.cpython-313.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/_util.cpython-313.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/crypto.cpython-313.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/debug.cpython-313.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/rand.cpython-313.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/version.cpython-313.pyc",
+    "Lib/site-packages/OpenSSL/_util.py",
+    "Lib/site-packages/OpenSSL/crypto.py",
+    "Lib/site-packages/OpenSSL/debug.py",
+    "Lib/site-packages/OpenSSL/py.typed",
+    "Lib/site-packages/OpenSSL/rand.py",
+    "Lib/site-packages/OpenSSL/version.py",
+    "Lib/site-packages/pyopenssl-25.3.0.dist-info/INSTALLER",
+    "Lib/site-packages/pyopenssl-25.3.0.dist-info/METADATA",
+    "Lib/site-packages/pyopenssl-25.3.0.dist-info/RECORD",
+    "Lib/site-packages/pyopenssl-25.3.0.dist-info/REQUESTED",
+    "Lib/site-packages/pyopenssl-25.3.0.dist-info/WHEEL",
+    "Lib/site-packages/pyopenssl-25.3.0.dist-info/direct_url.json",
+    "Lib/site-packages/pyopenssl-25.3.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/pyopenssl-25.3.0.dist-info/top_level.txt"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pyopenssl-25.3.0-py313h2b78340_0",
+    "type": 1
+  }
+}

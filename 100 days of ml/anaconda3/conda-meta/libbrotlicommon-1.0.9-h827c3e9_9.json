@@ -1,0 +1,48 @@
+{
+  "name": "libbrotlicommon",
+  "version": "1.0.9",
+  "build": "h827c3e9_9",
+  "build_number": 9,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libbrotlicommon-1.0.9-h827c3e9_9.conda",
+  "md5": "49e656fbcd9d85dd16740519842cdd42",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libbrotlicommon-1.0.9-h827c3e9_9.conda",
+  "sha256": "27d49b52c4bc8bba131a4bd1082c88ae6ac50fd0cdf0e2fa54e080166a708f89",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1736183139000,
+  "size": 81177,
+  "requested_spec": "pkgs/main/win-64::libbrotlicommon==1.0.9=h827c3e9_9",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libbrotlicommon-1.0.9-h827c3e9_9.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libbrotlicommon-1.0.9-h827c3e9_9",
+  "files": [
+    "Library/bin/brotlicommon.dll",
+    "Library/lib/brotlicommon.lib",
+    "Library/lib/pkgconfig/libbrotlicommon.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/libbrotlicommon.pc",
+        "prefix_placeholder": "C:/b/abs_c415aux9ra/croot/brotli-split_1736182803933/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "ca5245008ac9c2652f53cace56656a205077d55f3c41ec8e1b6ee2c57612b142",
+        "size_in_bytes": 395,
+        "sha256_in_prefix": "393e53697e487970b7eac141e6de9eabf33209e99cf2624fec3f3400e32f0e0d"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libbrotlicommon-1.0.9-h827c3e9_9",
+    "type": 1
+  }
+}

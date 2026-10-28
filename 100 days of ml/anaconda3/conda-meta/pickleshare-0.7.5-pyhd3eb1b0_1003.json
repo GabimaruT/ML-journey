@@ -1,0 +1,49 @@
+{
+  "name": "pickleshare",
+  "version": "0.7.5",
+  "build": "pyhd3eb1b0_1003",
+  "build_number": 1003,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "pickleshare-0.7.5-pyhd3eb1b0_1003.conda",
+  "md5": "4a6363fd8dda664b95f99f7c5aa95abc",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/pickleshare-0.7.5-pyhd3eb1b0_1003.conda",
+  "sha256": "c4c974ac5bab1628bc472eb271903206ebc349f30cf590740560b6284118852a",
+  "depends": [
+    "python >=3"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "MIT",
+  "package_type": "noarch_python",
+  "timestamp": 1606932077000,
+  "size": 13463,
+  "requested_spec": "pkgs/main/noarch::pickleshare==0.7.5=pyhd3eb1b0_1003",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pickleshare-0.7.5-pyhd3eb1b0_1003.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pickleshare-0.7.5-pyhd3eb1b0_1003",
+  "files": [
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/INSTALLER",
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/LICENSE",
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/METADATA",
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/RECORD",
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/REQUESTED",
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/WHEEL",
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/direct_url.json",
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/top_level.txt",
+    "Lib/site-packages/pickleshare.py",
+    "Lib/site-packages/__pycache__/pickleshare.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/pickleshare.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pickleshare-0.7.5-pyhd3eb1b0_1003",
+    "type": 1
+  }
+}

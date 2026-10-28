@@ -1,0 +1,54 @@
+{
+  "name": "aiohappyeyeballs",
+  "version": "2.6.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "aiohappyeyeballs-2.6.1-py313haa95532_0.conda",
+  "md5": "1072e139811a566ca985e8a17af4f580",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aiohappyeyeballs-2.6.1-py313haa95532_0.conda",
+  "sha256": "1335222c39b9d72d3e34e9221cf2908c58bde785033b7827482d1e5b497ee312",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "PSF-2.0",
+  "license_family": "Other",
+  "timestamp": 1755770102000,
+  "size": 37804,
+  "requested_spec": "pkgs/main/win-64::aiohappyeyeballs==2.6.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aiohappyeyeballs-2.6.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aiohappyeyeballs-2.6.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/aiohappyeyeballs-2.6.1.dist-info/INSTALLER",
+    "Lib/site-packages/aiohappyeyeballs-2.6.1.dist-info/LICENSE",
+    "Lib/site-packages/aiohappyeyeballs-2.6.1.dist-info/METADATA",
+    "Lib/site-packages/aiohappyeyeballs-2.6.1.dist-info/RECORD",
+    "Lib/site-packages/aiohappyeyeballs-2.6.1.dist-info/REQUESTED",
+    "Lib/site-packages/aiohappyeyeballs-2.6.1.dist-info/WHEEL",
+    "Lib/site-packages/aiohappyeyeballs-2.6.1.dist-info/direct_url.json",
+    "Lib/site-packages/aiohappyeyeballs/__init__.py",
+    "Lib/site-packages/aiohappyeyeballs/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/aiohappyeyeballs/__pycache__/_staggered.cpython-313.pyc",
+    "Lib/site-packages/aiohappyeyeballs/__pycache__/impl.cpython-313.pyc",
+    "Lib/site-packages/aiohappyeyeballs/__pycache__/types.cpython-313.pyc",
+    "Lib/site-packages/aiohappyeyeballs/__pycache__/utils.cpython-313.pyc",
+    "Lib/site-packages/aiohappyeyeballs/_staggered.py",
+    "Lib/site-packages/aiohappyeyeballs/impl.py",
+    "Lib/site-packages/aiohappyeyeballs/py.typed",
+    "Lib/site-packages/aiohappyeyeballs/types.py",
+    "Lib/site-packages/aiohappyeyeballs/utils.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aiohappyeyeballs-2.6.1-py313haa95532_0",
+    "type": 1
+  }
+}

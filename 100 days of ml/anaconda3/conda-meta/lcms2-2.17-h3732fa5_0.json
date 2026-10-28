@@ -1,0 +1,48 @@
+{
+  "name": "lcms2",
+  "version": "2.17",
+  "build": "h3732fa5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "lcms2-2.17-h3732fa5_0.conda",
+  "md5": "5b0df25986193f68b6fdb8df87d192d5",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lcms2-2.17-h3732fa5_0.conda",
+  "sha256": "c98f9c69ca7a20df97974525c1d2515e6dd4dadd917459cc76dd35be3eff81f3",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "jpeg >=9e,<10a",
+    "libtiff >=4.7.1,<5.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1764162840000,
+  "size": 526658,
+  "requested_spec": "pkgs/main/win-64::lcms2==2.17=h3732fa5_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\lcms2-2.17-h3732fa5_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\lcms2-2.17-h3732fa5_0",
+  "files": [
+    "Library/bin/jpgicc.exe",
+    "Library/bin/lcms2.dll",
+    "Library/bin/linkicc.exe",
+    "Library/bin/psicc.exe",
+    "Library/bin/tificc.exe",
+    "Library/bin/transicc.exe",
+    "Library/include/lcms2.h",
+    "Library/include/lcms2_plugin.h",
+    "Library/lib/lcms2.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\lcms2-2.17-h3732fa5_0",
+    "type": 1
+  }
+}

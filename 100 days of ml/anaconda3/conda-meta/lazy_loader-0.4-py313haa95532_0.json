@@ -1,0 +1,58 @@
+{
+  "name": "lazy_loader",
+  "version": "0.4",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "lazy_loader-0.4-py313haa95532_0.conda",
+  "md5": "e070c1578d47a4ae742b4dfe823279ab",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lazy_loader-0.4-py313haa95532_0.conda",
+  "sha256": "3fa4cbcfe05e17d747a8786458fb090b1f5037a6064331bb12093466d66caa7b",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "packaging",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1729054978000,
+  "size": 25716,
+  "requested_spec": "pkgs/main/win-64::lazy_loader==0.4=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\lazy_loader-0.4-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\lazy_loader-0.4-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/lazy_loader-0.4.dist-info/INSTALLER",
+    "Lib/site-packages/lazy_loader-0.4.dist-info/LICENSE.md",
+    "Lib/site-packages/lazy_loader-0.4.dist-info/METADATA",
+    "Lib/site-packages/lazy_loader-0.4.dist-info/RECORD",
+    "Lib/site-packages/lazy_loader-0.4.dist-info/REQUESTED",
+    "Lib/site-packages/lazy_loader-0.4.dist-info/WHEEL",
+    "Lib/site-packages/lazy_loader-0.4.dist-info/direct_url.json",
+    "Lib/site-packages/lazy_loader-0.4.dist-info/top_level.txt",
+    "Lib/site-packages/lazy_loader/__init__.py",
+    "Lib/site-packages/lazy_loader/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/lazy_loader/tests/__init__.py",
+    "Lib/site-packages/lazy_loader/tests/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/lazy_loader/tests/__pycache__/import_np_parallel.cpython-313.pyc",
+    "Lib/site-packages/lazy_loader/tests/__pycache__/test_lazy_loader.cpython-313.pyc",
+    "Lib/site-packages/lazy_loader/tests/fake_pkg/__init__.py",
+    "Lib/site-packages/lazy_loader/tests/fake_pkg/__init__.pyi",
+    "Lib/site-packages/lazy_loader/tests/fake_pkg/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/lazy_loader/tests/fake_pkg/__pycache__/some_func.cpython-313.pyc",
+    "Lib/site-packages/lazy_loader/tests/fake_pkg/some_func.py",
+    "Lib/site-packages/lazy_loader/tests/import_np_parallel.py",
+    "Lib/site-packages/lazy_loader/tests/test_lazy_loader.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\lazy_loader-0.4-py313haa95532_0",
+    "type": 1
+  }
+}

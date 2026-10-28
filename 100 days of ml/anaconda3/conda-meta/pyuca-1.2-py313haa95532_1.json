@@ -1,0 +1,59 @@
+{
+  "name": "pyuca",
+  "version": "1.2",
+  "build": "py313haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "pyuca-1.2-py313haa95532_1.conda",
+  "md5": "6ac14f89d1cd98cc4bc2eb1e7e529411",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyuca-1.2-py313haa95532_1.conda",
+  "sha256": "58b7377062b12eae8b978475fc1648e1997b86975ee045a5c9ed85df167cc61b",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT AND Unicode-3.0",
+  "license_family": "MIT",
+  "timestamp": 1729099721000,
+  "size": 607787,
+  "requested_spec": "pkgs/main/win-64::pyuca==1.2=py313haa95532_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pyuca-1.2-py313haa95532_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pyuca-1.2-py313haa95532_1",
+  "files": [
+    "Lib/site-packages/pyuca-1.2.dist-info/COPYING",
+    "Lib/site-packages/pyuca-1.2.dist-info/INSTALLER",
+    "Lib/site-packages/pyuca-1.2.dist-info/LICENSE",
+    "Lib/site-packages/pyuca-1.2.dist-info/LICENSE-Unicode-3.0",
+    "Lib/site-packages/pyuca-1.2.dist-info/METADATA",
+    "Lib/site-packages/pyuca-1.2.dist-info/RECORD",
+    "Lib/site-packages/pyuca-1.2.dist-info/REQUESTED",
+    "Lib/site-packages/pyuca-1.2.dist-info/WHEEL",
+    "Lib/site-packages/pyuca-1.2.dist-info/direct_url.json",
+    "Lib/site-packages/pyuca-1.2.dist-info/top_level.txt",
+    "Lib/site-packages/pyuca/__init__.py",
+    "Lib/site-packages/pyuca/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pyuca/__pycache__/collator.cpython-313.pyc",
+    "Lib/site-packages/pyuca/__pycache__/trie.cpython-313.pyc",
+    "Lib/site-packages/pyuca/__pycache__/utils.cpython-313.pyc",
+    "Lib/site-packages/pyuca/allkeys-10.0.0.txt",
+    "Lib/site-packages/pyuca/allkeys-5.2.0.txt",
+    "Lib/site-packages/pyuca/allkeys-6.3.0.txt",
+    "Lib/site-packages/pyuca/allkeys-8.0.0.txt",
+    "Lib/site-packages/pyuca/allkeys-9.0.0.txt",
+    "Lib/site-packages/pyuca/collator.py",
+    "Lib/site-packages/pyuca/trie.py",
+    "Lib/site-packages/pyuca/utils.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pyuca-1.2-py313haa95532_1",
+    "type": 1
+  }
+}

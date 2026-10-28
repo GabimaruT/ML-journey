@@ -1,0 +1,45 @@
+{
+  "name": "appdirs",
+  "version": "1.4.4",
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "appdirs-1.4.4-pyhd3eb1b0_0.conda",
+  "md5": "5673d98d06171cb6eed03a6736845c4d",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/appdirs-1.4.4-pyhd3eb1b0_0.conda",
+  "sha256": "4d849f6c8a4b60166ec21c7716de9589c083c74416a64876dd9ac6c613520a08",
+  "depends": [
+    "python"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "MIT",
+  "package_type": "noarch_python",
+  "timestamp": 1629143509000,
+  "size": 12155,
+  "requested_spec": "pkgs/main/noarch::appdirs==1.4.4=pyhd3eb1b0_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\appdirs-1.4.4-pyhd3eb1b0_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\appdirs-1.4.4-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/appdirs-1.4.4-py3.9.egg-info/PKG-INFO",
+    "Lib/site-packages/appdirs-1.4.4-py3.9.egg-info/SOURCES.txt",
+    "Lib/site-packages/appdirs-1.4.4-py3.9.egg-info/dependency_links.txt",
+    "Lib/site-packages/appdirs-1.4.4-py3.9.egg-info/top_level.txt",
+    "Lib/site-packages/appdirs.py",
+    "Lib/site-packages/__pycache__/appdirs.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/appdirs.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\appdirs-1.4.4-pyhd3eb1b0_0",
+    "type": 1
+  }
+}

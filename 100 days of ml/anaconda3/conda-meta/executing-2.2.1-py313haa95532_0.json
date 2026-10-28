@@ -1,0 +1,59 @@
+{
+  "name": "executing",
+  "version": "2.2.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "executing-2.2.1-py313haa95532_0.conda",
+  "md5": "d8107d556a603a00d24d29f3a8086b4a",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/executing-2.2.1-py313haa95532_0.conda",
+  "sha256": "7cd05a26edce8104cabfef1d21ee3c19a200abb8434104993791263d944b3f21",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1757061295000,
+  "size": 348198,
+  "requested_spec": "pkgs/main/win-64::executing==2.2.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\executing-2.2.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\executing-2.2.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/executing-2.2.1.dist-info/INSTALLER",
+    "Lib/site-packages/executing-2.2.1.dist-info/METADATA",
+    "Lib/site-packages/executing-2.2.1.dist-info/RECORD",
+    "Lib/site-packages/executing-2.2.1.dist-info/REQUESTED",
+    "Lib/site-packages/executing-2.2.1.dist-info/WHEEL",
+    "Lib/site-packages/executing-2.2.1.dist-info/direct_url.json",
+    "Lib/site-packages/executing-2.2.1.dist-info/licenses/LICENSE.txt",
+    "Lib/site-packages/executing-2.2.1.dist-info/top_level.txt",
+    "Lib/site-packages/executing/__init__.py",
+    "Lib/site-packages/executing/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/executing/__pycache__/_exceptions.cpython-313.pyc",
+    "Lib/site-packages/executing/__pycache__/_position_node_finder.cpython-313.pyc",
+    "Lib/site-packages/executing/__pycache__/_pytest_utils.cpython-313.pyc",
+    "Lib/site-packages/executing/__pycache__/_utils.cpython-313.pyc",
+    "Lib/site-packages/executing/__pycache__/executing.cpython-313.pyc",
+    "Lib/site-packages/executing/__pycache__/version.cpython-313.pyc",
+    "Lib/site-packages/executing/_exceptions.py",
+    "Lib/site-packages/executing/_position_node_finder.py",
+    "Lib/site-packages/executing/_pytest_utils.py",
+    "Lib/site-packages/executing/_utils.py",
+    "Lib/site-packages/executing/executing.py",
+    "Lib/site-packages/executing/py.typed",
+    "Lib/site-packages/executing/version.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\executing-2.2.1-py313haa95532_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "gmpy2",
+  "version": "2.2.1",
+  "build": "py313h827c3e9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "gmpy2-2.2.1-py313h827c3e9_0.conda",
+  "md5": "85a2e6371f607acbaf4900595b101239",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/gmpy2-2.2.1-py313h827c3e9_0.conda",
+  "sha256": "376bb6fedae4b321cb267c4d309b28b0441c73bd8b04d2b7c50f01115adef27a",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "gmp >=6.3.0,<7.0a0",
+    "mpc >=1.3.1,<2.0a0",
+    "mpfr >=4.2.1,<5.0a0",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "LGPL-3.0-or-later",
+  "license_family": "LGPL",
+  "timestamp": 1738085901000,
+  "size": 209836,
+  "requested_spec": "pkgs/main/win-64::gmpy2==2.2.1=py313h827c3e9_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\gmpy2-2.2.1-py313h827c3e9_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\gmpy2-2.2.1-py313h827c3e9_0",
+  "files": [
+    "Lib/site-packages/gmpy2-2.2.1.dist-info/COPYING",
+    "Lib/site-packages/gmpy2-2.2.1.dist-info/COPYING.LESSER",
+    "Lib/site-packages/gmpy2-2.2.1.dist-info/INSTALLER",
+    "Lib/site-packages/gmpy2-2.2.1.dist-info/METADATA",
+    "Lib/site-packages/gmpy2-2.2.1.dist-info/RECORD",
+    "Lib/site-packages/gmpy2-2.2.1.dist-info/REQUESTED",
+    "Lib/site-packages/gmpy2-2.2.1.dist-info/WHEEL",
+    "Lib/site-packages/gmpy2-2.2.1.dist-info/direct_url.json",
+    "Lib/site-packages/gmpy2-2.2.1.dist-info/top_level.txt",
+    "Lib/site-packages/gmpy2/__init__.pxd",
+    "Lib/site-packages/gmpy2/__init__.py",
+    "Lib/site-packages/gmpy2/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/gmpy2/gmpy2.cp313-win_amd64.pyd",
+    "Lib/site-packages/gmpy2/gmpy2.h",
+    "Lib/site-packages/gmpy2/gmpy2.pxd"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\gmpy2-2.2.1-py313h827c3e9_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "name": "libglib",
+  "version": "2.84.4",
+  "build": "hfaec014_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libglib-2.84.4-hfaec014_0.conda",
+  "md5": "057fb61b250bf587e3fad7b13c73c539",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libglib-2.84.4-hfaec014_0.conda",
+  "sha256": "96d8523acbdc40ad25e1297d337b00be59991e7414f62438d106e0eea3232270",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "libffi >=3.4,<4.0a0",
+    "libiconv >=1.16,<2.0a0",
+    "pcre2 >=10.46,<10.47.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133",
+    "zlib >=1.2.13,<2.0a0"
+  ],
+  "constrains": [
+    "glib 2.84.4 *_0"
+  ],
+  "license": "LGPL-2.1-or-later",
+  "license_family": "LGPL",
+  "timestamp": 1761132663000,
+  "size": 1464032,
+  "requested_spec": "pkgs/main/win-64::libglib==2.84.4=hfaec014_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libglib-2.84.4-hfaec014_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libglib-2.84.4-hfaec014_0",
+  "files": [
+    "Library/bin/gi-compile-repository.exe",
+    "Library/bin/gi-decompile-typelib.exe",
+    "Library/bin/gi-inspect-typelib.exe",
+    "Library/bin/gio-2.0-0.dll",
+    "Library/bin/girepository-2.0-0.dll",
+    "Library/bin/glib-2.0-0.dll",
+    "Library/bin/gmodule-2.0-0.dll",
+    "Library/bin/gobject-2.0-0.dll",
+    "Library/bin/gspawn-win64-helper-console.exe",
+    "Library/bin/gspawn-win64-helper.exe",
+    "Library/bin/gthread-2.0-0.dll",
+    "Library/bin/intl-8.dll",
+    "Library/include/libintl.h",
+    "Library/lib/gio-2.0.lib",
+    "Library/lib/girepository-2.0.lib",
+    "Library/lib/glib-2.0.lib",
+    "Library/lib/gmodule-2.0.lib",
+    "Library/lib/gobject-2.0.lib",
+    "Library/lib/gthread-2.0.lib",
+    "Library/lib/intl.lib",
+    "Library/lib/pkgconfig/girepository-2.0.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/girepository-2.0.pc",
+        "prefix_placeholder": "C:/miniconda3/conda-bld/glib-split_1761132386729/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "c3918c5558423e6637cfc1f772b6a407a8b576cd9d41e780c20edc89b8ad5402",
+        "size_in_bytes": 633,
+        "sha256_in_prefix": "8bb30617668f58ee6207241ec519b181eac0c8ea9bad8ca313253a1524c8d23d"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libglib-2.84.4-hfaec014_0",
+    "type": 1
+  }
+}

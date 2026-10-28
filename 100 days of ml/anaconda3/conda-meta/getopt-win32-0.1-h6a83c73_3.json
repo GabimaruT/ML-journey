@@ -1,0 +1,91 @@
+{
+  "name": "getopt-win32",
+  "version": "0.1",
+  "build": "h6a83c73_3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "getopt-win32-0.1-h6a83c73_3.conda",
+  "md5": "49c36fcad2e9af6b91e91f2ce5be8ebd",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/getopt-win32-0.1-h6a83c73_3.conda",
+  "sha256": "d04c4a6c11daa72c4a0242602e1d00c03291ef66ca2d7cd0e171088411d57710",
+  "depends": [
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208",
+    "ucrt >=10.0.20348.0"
+  ],
+  "constrains": [],
+  "license": "LGPL-3.0-only",
+  "timestamp": 1750744808000,
+  "size": 26238,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\getopt-win32-0.1-h6a83c73_3.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\getopt-win32-0.1-h6a83c73_3",
+  "files": [
+    "Library/bin/getopt.dll",
+    "Library/include/getopt.h",
+    "Library/lib/cmake/unofficial-getopt-win32/unofficial-getopt-win32Config.cmake",
+    "Library/lib/cmake/unofficial-getopt-win32/unofficial-getopt-win32ConfigVersion.cmake",
+    "Library/lib/cmake/unofficial-getopt-win32/unofficial-getopt-win32Targets-release.cmake",
+    "Library/lib/cmake/unofficial-getopt-win32/unofficial-getopt-win32Targets.cmake",
+    "Library/lib/getopt.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/getopt.dll",
+        "path_type": "hardlink",
+        "sha256": "84fc6e1e07d135457c4e96a55ba3b9bdc9fbf26a46073d0918949db48ff89f2e",
+        "size_in_bytes": 20992,
+        "sha256_in_prefix": "84fc6e1e07d135457c4e96a55ba3b9bdc9fbf26a46073d0918949db48ff89f2e"
+      },
+      {
+        "_path": "Library/include/getopt.h",
+        "path_type": "hardlink",
+        "sha256": "0b7d1a4da352d343a2fdb6319f0cc72fdfc76f805326883335d67471e3fce168",
+        "size_in_bytes": 4939,
+        "sha256_in_prefix": "0b7d1a4da352d343a2fdb6319f0cc72fdfc76f805326883335d67471e3fce168"
+      },
+      {
+        "_path": "Library/lib/cmake/unofficial-getopt-win32/unofficial-getopt-win32Config.cmake",
+        "path_type": "hardlink",
+        "sha256": "c018186fe212f6cf2518f14050b07d5df7cd5d05cbebbe68cc0fe4fbddf16737",
+        "size_in_bytes": 505,
+        "sha256_in_prefix": "c018186fe212f6cf2518f14050b07d5df7cd5d05cbebbe68cc0fe4fbddf16737"
+      },
+      {
+        "_path": "Library/lib/cmake/unofficial-getopt-win32/unofficial-getopt-win32ConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "99145ddcd95a90036f94a23a9778fb3fafa4bde05fb7c9e2e06b371ddad3ad79",
+        "size_in_bytes": 1902,
+        "sha256_in_prefix": "99145ddcd95a90036f94a23a9778fb3fafa4bde05fb7c9e2e06b371ddad3ad79"
+      },
+      {
+        "_path": "Library/lib/cmake/unofficial-getopt-win32/unofficial-getopt-win32Targets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "60e7a12154789625d468ed4a1ab311e0da866484ae6cbebb7a845db4d1572658",
+        "size_in_bytes": 986,
+        "sha256_in_prefix": "60e7a12154789625d468ed4a1ab311e0da866484ae6cbebb7a845db4d1572658"
+      },
+      {
+        "_path": "Library/lib/cmake/unofficial-getopt-win32/unofficial-getopt-win32Targets.cmake",
+        "path_type": "hardlink",
+        "sha256": "18bec0e349723afb0b0730a5aeacf1440ea28f26bf9c8c5de2c7023eba7521e2",
+        "size_in_bytes": 4303,
+        "sha256_in_prefix": "18bec0e349723afb0b0730a5aeacf1440ea28f26bf9c8c5de2c7023eba7521e2"
+      },
+      {
+        "_path": "Library/lib/getopt.lib",
+        "path_type": "hardlink",
+        "sha256": "e693fe2d428a7f60849f2a4ddfa395e2cf66c4c507d1c294c197ca80d77e760c",
+        "size_in_bytes": 5870,
+        "sha256_in_prefix": "e693fe2d428a7f60849f2a4ddfa395e2cf66c4c507d1c294c197ca80d77e760c"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\getopt-win32-0.1-h6a83c73_3",
+    "type": 1
+  }
+}

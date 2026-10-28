@@ -1,0 +1,52 @@
+{
+  "name": "et_xmlfile",
+  "version": "2.0.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "et_xmlfile-2.0.0-py313haa95532_0.conda",
+  "md5": "0a91ca1c7d336b93925f911b6fe7a017",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/et_xmlfile-2.0.0-py313haa95532_0.conda",
+  "sha256": "4a12a756e6c9122207351a8c76f41b660103f871fab87639e22aa11fca56b9e9",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT AND PSF-2.0",
+  "license_family": "MIT",
+  "timestamp": 1756462683000,
+  "size": 35946,
+  "requested_spec": "pkgs/main/win-64::et_xmlfile==2.0.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\et_xmlfile-2.0.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\et_xmlfile-2.0.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/et_xmlfile-2.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/et_xmlfile-2.0.0.dist-info/METADATA",
+    "Lib/site-packages/et_xmlfile-2.0.0.dist-info/RECORD",
+    "Lib/site-packages/et_xmlfile-2.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/et_xmlfile-2.0.0.dist-info/WHEEL",
+    "Lib/site-packages/et_xmlfile-2.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/et_xmlfile-2.0.0.dist-info/licenses/AUTHORS.txt",
+    "Lib/site-packages/et_xmlfile-2.0.0.dist-info/licenses/LICENCE.python",
+    "Lib/site-packages/et_xmlfile-2.0.0.dist-info/licenses/LICENCE.rst",
+    "Lib/site-packages/et_xmlfile-2.0.0.dist-info/top_level.txt",
+    "Lib/site-packages/et_xmlfile/__init__.py",
+    "Lib/site-packages/et_xmlfile/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/et_xmlfile/__pycache__/incremental_tree.cpython-313.pyc",
+    "Lib/site-packages/et_xmlfile/__pycache__/xmlfile.cpython-313.pyc",
+    "Lib/site-packages/et_xmlfile/incremental_tree.py",
+    "Lib/site-packages/et_xmlfile/xmlfile.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\et_xmlfile-2.0.0-py313haa95532_0",
+    "type": 1
+  }
+}

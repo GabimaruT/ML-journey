@@ -1,0 +1,49 @@
+{
+  "name": "aws-c-sdkutils",
+  "version": "0.2.4",
+  "build": "h02ab6af_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "aws-c-sdkutils-0.2.4-h02ab6af_1.conda",
+  "md5": "6037a2c959a44b43f7e255fdcf874988",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aws-c-sdkutils-0.2.4-h02ab6af_1.conda",
+  "sha256": "876d5a24861bc1553709ae176f9421bc3e04a0374644f653435a3dd1e557f928",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "aws-c-common >=0.12.4,<0.12.5.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "timestamp": 1756729016000,
+  "size": 65091,
+  "requested_spec": "pkgs/main/win-64::aws-c-sdkutils==0.2.4=h02ab6af_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aws-c-sdkutils-0.2.4-h02ab6af_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aws-c-sdkutils-0.2.4-h02ab6af_1",
+  "files": [
+    "Library/bin/aws-c-sdkutils.dll",
+    "Library/include/aws/sdkutils/aws_profile.h",
+    "Library/include/aws/sdkutils/endpoints_rule_engine.h",
+    "Library/include/aws/sdkutils/exports.h",
+    "Library/include/aws/sdkutils/partitions.h",
+    "Library/include/aws/sdkutils/resource_name.h",
+    "Library/include/aws/sdkutils/sdkutils.h",
+    "Library/lib/aws-c-sdkutils.lib",
+    "Library/lib/cmake/aws-c-sdkutils/aws-c-sdkutils-config.cmake",
+    "Library/lib/cmake/aws-c-sdkutils/shared/aws-c-sdkutils-targets-release.cmake",
+    "Library/lib/cmake/aws-c-sdkutils/shared/aws-c-sdkutils-targets.cmake"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aws-c-sdkutils-0.2.4-h02ab6af_1",
+    "type": 1
+  }
+}

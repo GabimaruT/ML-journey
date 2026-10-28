@@ -1,0 +1,60 @@
+{
+  "name": "xyzservices",
+  "version": "2025.4.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "xyzservices-2025.4.0-py313haa95532_0.conda",
+  "md5": "a63c6c693f6a405f2216608a4b2a6112",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/xyzservices-2025.4.0-py313haa95532_0.conda",
+  "sha256": "1c5295d98287374b9b8e012e3b89e16f2d4037357260eb3f25225247ebd7eb27",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1758720247000,
+  "size": 66532,
+  "requested_spec": "pkgs/main/win-64::xyzservices==2025.4.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\xyzservices-2025.4.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\xyzservices-2025.4.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/xyzservices-2025.4.0.dist-info/INSTALLER",
+    "Lib/site-packages/xyzservices-2025.4.0.dist-info/METADATA",
+    "Lib/site-packages/xyzservices-2025.4.0.dist-info/RECORD",
+    "Lib/site-packages/xyzservices-2025.4.0.dist-info/REQUESTED",
+    "Lib/site-packages/xyzservices-2025.4.0.dist-info/WHEEL",
+    "Lib/site-packages/xyzservices-2025.4.0.dist-info/direct_url.json",
+    "Lib/site-packages/xyzservices-2025.4.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/xyzservices-2025.4.0.dist-info/top_level.txt",
+    "Lib/site-packages/xyzservices/__init__.py",
+    "Lib/site-packages/xyzservices/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/xyzservices/__pycache__/lib.cpython-313.pyc",
+    "Lib/site-packages/xyzservices/__pycache__/providers.cpython-313.pyc",
+    "Lib/site-packages/xyzservices/data/__init__.py",
+    "Lib/site-packages/xyzservices/data/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/xyzservices/data/providers.json",
+    "Lib/site-packages/xyzservices/lib.py",
+    "Lib/site-packages/xyzservices/providers.py",
+    "Lib/site-packages/xyzservices/tests/__init__.py",
+    "Lib/site-packages/xyzservices/tests/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/xyzservices/tests/__pycache__/test_lib.cpython-313.pyc",
+    "Lib/site-packages/xyzservices/tests/__pycache__/test_providers.cpython-313.pyc",
+    "Lib/site-packages/xyzservices/tests/test_lib.py",
+    "Lib/site-packages/xyzservices/tests/test_providers.py",
+    "share/xyzservices/providers.json"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\xyzservices-2025.4.0-py313haa95532_0",
+    "type": 1
+  }
+}

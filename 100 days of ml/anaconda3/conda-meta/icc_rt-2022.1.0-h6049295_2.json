@@ -1,0 +1,45 @@
+{
+  "name": "icc_rt",
+  "version": "2022.1.0",
+  "build": "h6049295_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "icc_rt-2022.1.0-h6049295_2.conda",
+  "md5": "4ea9e3682a5114c1ee3dc09bac898e8d",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/icc_rt-2022.1.0-h6049295_2.conda",
+  "sha256": "9b2b6f2bc25c061c9a2ba16ef95f77ad330e8ad233a1134330aeed354c2bbe5c",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [],
+  "constrains": [],
+  "license": "Intel proprietary",
+  "timestamp": 1664812389000,
+  "size": 6846362,
+  "requested_spec": "pkgs/main/win-64::icc_rt==2022.1.0=h6049295_2",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\icc_rt-2022.1.0-h6049295_2.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\icc_rt-2022.1.0-h6049295_2",
+  "files": [
+    "Library/bin/1033/ifcore_msg.dll",
+    "Library/bin/1033/irc_msg.dll",
+    "Library/bin/1033/libmUI.dll",
+    "Library/bin/cilkrts20.dll",
+    "Library/bin/ifdlg100.dll",
+    "Library/bin/libchkp.dll",
+    "Library/bin/libicaf.dll",
+    "Library/bin/libifcoremd.dll",
+    "Library/bin/libifcorert.dll",
+    "Library/bin/libifportmd.dll",
+    "Library/bin/libirngmd.dll",
+    "Library/bin/libmmd.dll",
+    "Library/bin/svml_dispmd.dll"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\icc_rt-2022.1.0-h6049295_2",
+    "type": 1
+  }
+}

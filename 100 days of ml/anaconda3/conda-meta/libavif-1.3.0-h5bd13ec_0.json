@@ -1,0 +1,57 @@
+{
+  "name": "libavif",
+  "version": "1.3.0",
+  "build": "h5bd13ec_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libavif-1.3.0-h5bd13ec_0.conda",
+  "md5": "140df7ff295ebb589e5523f1bce31914",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libavif-1.3.0-h5bd13ec_0.conda",
+  "sha256": "247712b5783e663a9edd5ca145085dfb9859ced1e40f37f87a35f436cdf2cddc",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "aom >=3.12.1,<3.13.0a0",
+    "dav1d >=1.2.1,<1.2.2.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "timestamp": 1763972861000,
+  "size": 140019,
+  "requested_spec": "pkgs/main/win-64::libavif==1.3.0=h5bd13ec_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libavif-1.3.0-h5bd13ec_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libavif-1.3.0-h5bd13ec_0",
+  "files": [
+    "Library/bin/avif.dll",
+    "Library/include/avif/avif.h",
+    "Library/include/avif/avif_cxx.h",
+    "Library/lib/avif.lib",
+    "Library/lib/cmake/libavif/libavif-config-release.cmake",
+    "Library/lib/cmake/libavif/libavif-config-version.cmake",
+    "Library/lib/cmake/libavif/libavif-config.cmake",
+    "Library/lib/pkgconfig/libavif.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/libavif.pc",
+        "prefix_placeholder": "C:/miniconda3/conda-bld/libavif_1763972814957/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "aad6b1fad7891f1a3c385e9232e9e4a904b5ca5fa7d87cc8c644849de8b1116d",
+        "size_in_bytes": 366,
+        "sha256_in_prefix": "dbf69b3ecfa73f9eddddedbdd427c02c684c5849fe6887f2b592ee7a311bcd8e"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libavif-1.3.0-h5bd13ec_0",
+    "type": 1
+  }
+}

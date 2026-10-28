@@ -1,0 +1,49 @@
+{
+  "name": "pycodestyle",
+  "version": "2.12.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "pycodestyle-2.12.1-py313haa95532_0.conda",
+  "md5": "b4aa5083300f46ea66a1202d82a7c93e",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pycodestyle-2.12.1-py313haa95532_0.conda",
+  "sha256": "d9bf90b4c67d31bd6f0de2a7d90789d38256d00a033e963091b58c1271de8456",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1729051311000,
+  "size": 99581,
+  "requested_spec": "pkgs/main/win-64::pycodestyle==2.12.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pycodestyle-2.12.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pycodestyle-2.12.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/__pycache__/pycodestyle.cpython-313.pyc",
+    "Lib/site-packages/pycodestyle-2.12.1.dist-info/INSTALLER",
+    "Lib/site-packages/pycodestyle-2.12.1.dist-info/LICENSE",
+    "Lib/site-packages/pycodestyle-2.12.1.dist-info/METADATA",
+    "Lib/site-packages/pycodestyle-2.12.1.dist-info/RECORD",
+    "Lib/site-packages/pycodestyle-2.12.1.dist-info/REQUESTED",
+    "Lib/site-packages/pycodestyle-2.12.1.dist-info/WHEEL",
+    "Lib/site-packages/pycodestyle-2.12.1.dist-info/direct_url.json",
+    "Lib/site-packages/pycodestyle-2.12.1.dist-info/entry_points.txt",
+    "Lib/site-packages/pycodestyle-2.12.1.dist-info/top_level.txt",
+    "Lib/site-packages/pycodestyle.py",
+    "Scripts/pycodestyle-script.py",
+    "Scripts/pycodestyle.exe"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pycodestyle-2.12.1-py313haa95532_0",
+    "type": 1
+  }
+}

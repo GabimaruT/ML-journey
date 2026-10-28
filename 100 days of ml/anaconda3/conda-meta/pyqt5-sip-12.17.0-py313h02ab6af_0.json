@@ -1,0 +1,48 @@
+{
+  "name": "pyqt5-sip",
+  "version": "12.17.0",
+  "build": "py313h02ab6af_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "pyqt5-sip-12.17.0-py313h02ab6af_0.conda",
+  "md5": "b15cb4f572f9e1c0e66939c99d5c96c6",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyqt5-sip-12.17.0-py313h02ab6af_0.conda",
+  "sha256": "06d1cadc58222d36b4726069a83ae6b9d0420cf2cb57c942a2e0b05218cfb134",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "GPL-3.0-only",
+  "license_family": "GPL",
+  "timestamp": 1764009171000,
+  "size": 81428,
+  "requested_spec": "pkgs/main/win-64::pyqt5-sip==12.17.0=py313h02ab6af_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pyqt5-sip-12.17.0-py313h02ab6af_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pyqt5-sip-12.17.0-py313h02ab6af_0",
+  "files": [
+    "Lib/site-packages/PyQt5/sip.cp313-win_amd64.pyd",
+    "Lib/site-packages/pyqt5_sip-12.17.0.dist-info/INSTALLER",
+    "Lib/site-packages/pyqt5_sip-12.17.0.dist-info/METADATA",
+    "Lib/site-packages/pyqt5_sip-12.17.0.dist-info/RECORD",
+    "Lib/site-packages/pyqt5_sip-12.17.0.dist-info/REQUESTED",
+    "Lib/site-packages/pyqt5_sip-12.17.0.dist-info/WHEEL",
+    "Lib/site-packages/pyqt5_sip-12.17.0.dist-info/direct_url.json",
+    "Lib/site-packages/pyqt5_sip-12.17.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/pyqt5_sip-12.17.0.dist-info/top_level.txt"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pyqt5-sip-12.17.0-py313h02ab6af_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "markupsafe",
+  "version": "3.0.2",
+  "build": "py313h827c3e9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "markupsafe-3.0.2-py313h827c3e9_0.conda",
+  "md5": "fe61d26ab55908ffa74b0d276a0703e5",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/markupsafe-3.0.2-py313h827c3e9_0.conda",
+  "sha256": "5b402b544643367488745b13b1913cd3166a45d35d4934717de26f69f7b093ae",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [
+    "jinja2 >=3.0.0"
+  ],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1738584400000,
+  "size": 38637,
+  "requested_spec": "pkgs/main/win-64::markupsafe==3.0.2=py313h827c3e9_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\markupsafe-3.0.2-py313h827c3e9_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\markupsafe-3.0.2-py313h827c3e9_0",
+  "files": [
+    "Lib/site-packages/MarkupSafe-3.0.2.dist-info/INSTALLER",
+    "Lib/site-packages/MarkupSafe-3.0.2.dist-info/LICENSE.txt",
+    "Lib/site-packages/MarkupSafe-3.0.2.dist-info/METADATA",
+    "Lib/site-packages/MarkupSafe-3.0.2.dist-info/RECORD",
+    "Lib/site-packages/MarkupSafe-3.0.2.dist-info/REQUESTED",
+    "Lib/site-packages/MarkupSafe-3.0.2.dist-info/WHEEL",
+    "Lib/site-packages/MarkupSafe-3.0.2.dist-info/direct_url.json",
+    "Lib/site-packages/MarkupSafe-3.0.2.dist-info/top_level.txt",
+    "Lib/site-packages/markupsafe/__init__.py",
+    "Lib/site-packages/markupsafe/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/markupsafe/__pycache__/_native.cpython-313.pyc",
+    "Lib/site-packages/markupsafe/_native.py",
+    "Lib/site-packages/markupsafe/_speedups.c",
+    "Lib/site-packages/markupsafe/_speedups.cp313-win_amd64.pyd",
+    "Lib/site-packages/markupsafe/_speedups.pyi",
+    "Lib/site-packages/markupsafe/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\markupsafe-3.0.2-py313h827c3e9_0",
+    "type": 1
+  }
+}

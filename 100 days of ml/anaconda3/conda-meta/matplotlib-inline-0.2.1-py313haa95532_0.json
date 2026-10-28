@@ -1,0 +1,52 @@
+{
+  "name": "matplotlib-inline",
+  "version": "0.2.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "matplotlib-inline-0.2.1-py313haa95532_0.conda",
+  "md5": "6fec90d640581dfa78f5ca3a3462c423",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/matplotlib-inline-0.2.1-py313haa95532_0.conda",
+  "sha256": "7316845ad36bc35f0305da088373bb5c84053f3fe236abc90ba6f0ebff3c1632",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "traitlets"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1762779312000,
+  "size": 20235,
+  "requested_spec": "pkgs/main/win-64::matplotlib-inline==0.2.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\matplotlib-inline-0.2.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\matplotlib-inline-0.2.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/matplotlib_inline-0.2.1.dist-info/INSTALLER",
+    "Lib/site-packages/matplotlib_inline-0.2.1.dist-info/METADATA",
+    "Lib/site-packages/matplotlib_inline-0.2.1.dist-info/RECORD",
+    "Lib/site-packages/matplotlib_inline-0.2.1.dist-info/REQUESTED",
+    "Lib/site-packages/matplotlib_inline-0.2.1.dist-info/WHEEL",
+    "Lib/site-packages/matplotlib_inline-0.2.1.dist-info/direct_url.json",
+    "Lib/site-packages/matplotlib_inline-0.2.1.dist-info/entry_points.txt",
+    "Lib/site-packages/matplotlib_inline-0.2.1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/matplotlib_inline/__init__.py",
+    "Lib/site-packages/matplotlib_inline/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/matplotlib_inline/__pycache__/backend_inline.cpython-313.pyc",
+    "Lib/site-packages/matplotlib_inline/__pycache__/config.cpython-313.pyc",
+    "Lib/site-packages/matplotlib_inline/backend_inline.py",
+    "Lib/site-packages/matplotlib_inline/config.py",
+    "Lib/site-packages/matplotlib_inline/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\matplotlib-inline-0.2.1-py313haa95532_0",
+    "type": 1
+  }
+}

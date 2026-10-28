@@ -1,0 +1,51 @@
+{
+  "name": "aiodns",
+  "version": "3.5.0",
+  "build": "py313haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "aiodns-3.5.0-py313haa95532_1.conda",
+  "md5": "a39c6869ab9515d3641f717e1f20cab2",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aiodns-3.5.0-py313haa95532_1.conda",
+  "sha256": "3742dd19a30fee266c2e7451eaac2d804a52eece222f6d44d02996bd1511c5f6",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "pycares >=4.9.0",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "winloop >=0.1.8"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1762185118000,
+  "size": 24547,
+  "requested_spec": "pkgs/main/win-64::aiodns==3.5.0=py313haa95532_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aiodns-3.5.0-py313haa95532_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aiodns-3.5.0-py313haa95532_1",
+  "files": [
+    "Lib/site-packages/aiodns-3.5.0.dist-info/INSTALLER",
+    "Lib/site-packages/aiodns-3.5.0.dist-info/METADATA",
+    "Lib/site-packages/aiodns-3.5.0.dist-info/RECORD",
+    "Lib/site-packages/aiodns-3.5.0.dist-info/REQUESTED",
+    "Lib/site-packages/aiodns-3.5.0.dist-info/WHEEL",
+    "Lib/site-packages/aiodns-3.5.0.dist-info/direct_url.json",
+    "Lib/site-packages/aiodns-3.5.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/aiodns-3.5.0.dist-info/top_level.txt",
+    "Lib/site-packages/aiodns/__init__.py",
+    "Lib/site-packages/aiodns/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/aiodns/__pycache__/error.cpython-313.pyc",
+    "Lib/site-packages/aiodns/error.py",
+    "Lib/site-packages/aiodns/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aiodns-3.5.0-py313haa95532_1",
+    "type": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "typer-slim-standard",
+  "version": "0.20.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "typer-slim-standard-0.20.0-py313haa95532_0.conda",
+  "md5": "32057c46a814a7e01ad2cb1f58fd1294",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/typer-slim-standard-0.20.0-py313haa95532_0.conda",
+  "sha256": "101f45cd68beea8520615fe744aa43ece1e3b0692d6556408920b158fe3a66b4",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "rich",
+    "shellingham",
+    "typer-slim 0.20.0 py313haa95532_0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1765547224000,
+  "size": 6846,
+  "requested_spec": "pkgs/main/win-64::typer-slim-standard==0.20.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\typer-slim-standard-0.20.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\typer-slim-standard-0.20.0-py313haa95532_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\typer-slim-standard-0.20.0-py313haa95532_0",
+    "type": 1
+  }
+}

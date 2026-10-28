@@ -1,0 +1,34 @@
+{
+  "name": "python_abi",
+  "version": "3.13",
+  "build": "2_cp313",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "python_abi-3.13-2_cp313.conda",
+  "md5": "af2c10f863ef4bd4a653746eaf149973",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/python_abi-3.13-2_cp313.conda",
+  "sha256": "838e5856d063d9d2764ede4553a7eb2c561ac05e4083ef5340ef1b0eb71a7b84",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [],
+  "constrains": [
+    "python 3.13.* *_cp313"
+  ],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1764021094000,
+  "size": 5948,
+  "requested_spec": "pkgs/main/win-64::python_abi==3.13=2_cp313",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python_abi-3.13-2_cp313.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python_abi-3.13-2_cp313",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python_abi-3.13-2_cp313",
+    "type": 1
+  }
+}

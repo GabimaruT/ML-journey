@@ -1,0 +1,62 @@
+{
+  "name": "pycares",
+  "version": "4.10.0",
+  "build": "py313he29e43d_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "pycares-4.10.0-py313he29e43d_0.conda",
+  "md5": "5b748885b9d0285a557fc193df44ca5e",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pycares-4.10.0-py313he29e43d_0.conda",
+  "sha256": "4c9b0cb7babc55884b8e2bcc9441969305d750e0a4b710ac4c4c5daffa12be61",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "c-ares >=1.34.5,<2.0a0",
+    "cffi >=1.5.0",
+    "idna >=2.1",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1756218158000,
+  "size": 77169,
+  "requested_spec": "pkgs/main/win-64::pycares==4.10.0=py313he29e43d_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pycares-4.10.0-py313he29e43d_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pycares-4.10.0-py313he29e43d_0",
+  "files": [
+    "Lib/site-packages/pycares-4.10.0.dist-info/INSTALLER",
+    "Lib/site-packages/pycares-4.10.0.dist-info/METADATA",
+    "Lib/site-packages/pycares-4.10.0.dist-info/RECORD",
+    "Lib/site-packages/pycares-4.10.0.dist-info/REQUESTED",
+    "Lib/site-packages/pycares-4.10.0.dist-info/WHEEL",
+    "Lib/site-packages/pycares-4.10.0.dist-info/direct_url.json",
+    "Lib/site-packages/pycares-4.10.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/pycares-4.10.0.dist-info/top_level.txt",
+    "Lib/site-packages/pycares/__init__.py",
+    "Lib/site-packages/pycares/__main__.py",
+    "Lib/site-packages/pycares/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pycares/__pycache__/__main__.cpython-313.pyc",
+    "Lib/site-packages/pycares/__pycache__/_version.cpython-313.pyc",
+    "Lib/site-packages/pycares/__pycache__/errno.cpython-313.pyc",
+    "Lib/site-packages/pycares/__pycache__/utils.cpython-313.pyc",
+    "Lib/site-packages/pycares/_cares.pyd",
+    "Lib/site-packages/pycares/_version.py",
+    "Lib/site-packages/pycares/errno.py",
+    "Lib/site-packages/pycares/py.typed",
+    "Lib/site-packages/pycares/utils.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pycares-4.10.0-py313he29e43d_0",
+    "type": 1
+  }
+}

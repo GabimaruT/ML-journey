@@ -1,0 +1,56 @@
+{
+  "name": "alabaster",
+  "version": "0.7.16",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "alabaster-0.7.16-py313haa95532_0.conda",
+  "md5": "d391ca57f13d21e58a49dc2fb4547087",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/alabaster-0.7.16-py313haa95532_0.conda",
+  "sha256": "2fb463135a62e3c86519d3be161fbcf0dc02f0ed9010603e9a27d0efe274ae8f",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1729041963000,
+  "size": 20529,
+  "requested_spec": "pkgs/main/win-64::alabaster==0.7.16=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\alabaster-0.7.16-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\alabaster-0.7.16-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/alabaster-0.7.16.dist-info/INSTALLER",
+    "Lib/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst",
+    "Lib/site-packages/alabaster-0.7.16.dist-info/METADATA",
+    "Lib/site-packages/alabaster-0.7.16.dist-info/RECORD",
+    "Lib/site-packages/alabaster-0.7.16.dist-info/REQUESTED",
+    "Lib/site-packages/alabaster-0.7.16.dist-info/WHEEL",
+    "Lib/site-packages/alabaster-0.7.16.dist-info/direct_url.json",
+    "Lib/site-packages/alabaster-0.7.16.dist-info/entry_points.txt",
+    "Lib/site-packages/alabaster/__init__.py",
+    "Lib/site-packages/alabaster/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/alabaster/__pycache__/support.cpython-313.pyc",
+    "Lib/site-packages/alabaster/about.html",
+    "Lib/site-packages/alabaster/donate.html",
+    "Lib/site-packages/alabaster/layout.html",
+    "Lib/site-packages/alabaster/navigation.html",
+    "Lib/site-packages/alabaster/relations.html",
+    "Lib/site-packages/alabaster/static/alabaster.css_t",
+    "Lib/site-packages/alabaster/static/custom.css",
+    "Lib/site-packages/alabaster/support.py",
+    "Lib/site-packages/alabaster/theme.conf"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\alabaster-0.7.16-py313haa95532_0",
+    "type": 1
+  }
+}

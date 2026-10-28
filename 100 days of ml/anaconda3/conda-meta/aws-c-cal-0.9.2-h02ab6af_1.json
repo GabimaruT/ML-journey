@@ -1,0 +1,52 @@
+{
+  "name": "aws-c-cal",
+  "version": "0.9.2",
+  "build": "h02ab6af_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "aws-c-cal-0.9.2-h02ab6af_1.conda",
+  "md5": "dbd3d67c98edf4a80a7c08a8daedb1eb",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aws-c-cal-0.9.2-h02ab6af_1.conda",
+  "sha256": "cd3c0666b4240e2a6f27f7177750982e8005204221a27384c0c9ac1039d5d34e",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "aws-c-common >=0.12.4,<0.12.5.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "timestamp": 1756728836000,
+  "size": 58815,
+  "requested_spec": "pkgs/main/win-64::aws-c-cal==0.9.2=h02ab6af_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aws-c-cal-0.9.2-h02ab6af_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aws-c-cal-0.9.2-h02ab6af_1",
+  "files": [
+    "Library/bin/aws-c-cal.dll",
+    "Library/include/aws/cal/cal.h",
+    "Library/include/aws/cal/ecc.h",
+    "Library/include/aws/cal/ed25519.h",
+    "Library/include/aws/cal/exports.h",
+    "Library/include/aws/cal/hash.h",
+    "Library/include/aws/cal/hmac.h",
+    "Library/include/aws/cal/rsa.h",
+    "Library/include/aws/cal/symmetric_cipher.h",
+    "Library/lib/aws-c-cal.lib",
+    "Library/lib/cmake/aws-c-cal/aws-c-cal-config.cmake",
+    "Library/lib/cmake/aws-c-cal/modules/Findcrypto.cmake",
+    "Library/lib/cmake/aws-c-cal/shared/aws-c-cal-targets-release.cmake",
+    "Library/lib/cmake/aws-c-cal/shared/aws-c-cal-targets.cmake"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aws-c-cal-0.9.2-h02ab6af_1",
+    "type": 1
+  }
+}

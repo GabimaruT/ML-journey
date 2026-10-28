@@ -1,0 +1,47 @@
+{
+  "name": "twisted-iocpsupport",
+  "version": "1.0.2",
+  "build": "py313h827c3e9_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "twisted-iocpsupport-1.0.2-py313h827c3e9_1.conda",
+  "md5": "1e53fff8f022fe20c5e767a4e472305c",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/twisted-iocpsupport-1.0.2-py313h827c3e9_1.conda",
+  "sha256": "6fdfd9f2b67fb75244d142b0c0536fdfe1689f2ad1c3d729cf511fe2422b1313",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1736544684000,
+  "size": 56933,
+  "requested_spec": "pkgs/main/win-64::twisted-iocpsupport==1.0.2=py313h827c3e9_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\twisted-iocpsupport-1.0.2-py313h827c3e9_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\twisted-iocpsupport-1.0.2-py313h827c3e9_1",
+  "files": [
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/INSTALLER",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/LICENSE",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/METADATA",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/RECORD",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/REQUESTED",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/WHEEL",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/direct_url.json",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/top_level.txt",
+    "Lib/site-packages/twisted_iocpsupport/iocpsupport.cp313-win_amd64.pyd"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\twisted-iocpsupport-1.0.2-py313h827c3e9_1",
+    "type": 1
+  }
+}

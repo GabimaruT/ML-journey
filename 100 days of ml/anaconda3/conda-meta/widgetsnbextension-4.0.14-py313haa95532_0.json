@@ -1,0 +1,55 @@
+{
+  "name": "widgetsnbextension",
+  "version": "4.0.14",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "widgetsnbextension-4.0.14-py313haa95532_0.conda",
+  "md5": "7b351d6ac75ff43c00e929100b865566",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/widgetsnbextension-4.0.14-py313haa95532_0.conda",
+  "sha256": "e9bd63cc0c9bc9e874034c6d8774b1da1617f0fb9fa387e9dbfd992166e767ce",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1761556803000,
+  "size": 884542,
+  "requested_spec": "pkgs/main/win-64::widgetsnbextension==4.0.14=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\widgetsnbextension-4.0.14-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\widgetsnbextension-4.0.14-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/widgetsnbextension-4.0.14.dist-info/INSTALLER",
+    "Lib/site-packages/widgetsnbextension-4.0.14.dist-info/METADATA",
+    "Lib/site-packages/widgetsnbextension-4.0.14.dist-info/RECORD",
+    "Lib/site-packages/widgetsnbextension-4.0.14.dist-info/REQUESTED",
+    "Lib/site-packages/widgetsnbextension-4.0.14.dist-info/WHEEL",
+    "Lib/site-packages/widgetsnbextension-4.0.14.dist-info/direct_url.json",
+    "Lib/site-packages/widgetsnbextension-4.0.14.dist-info/licenses/LICENSE",
+    "Lib/site-packages/widgetsnbextension-4.0.14.dist-info/top_level.txt",
+    "Lib/site-packages/widgetsnbextension/__init__.py",
+    "Lib/site-packages/widgetsnbextension/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/widgetsnbextension/__pycache__/_version.cpython-313.pyc",
+    "Lib/site-packages/widgetsnbextension/_version.py",
+    "Lib/site-packages/widgetsnbextension/static/extension.js",
+    "Lib/site-packages/widgetsnbextension/static/extension.js.LICENSE.txt",
+    "Lib/site-packages/widgetsnbextension/static/extension.js.map",
+    "etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json",
+    "share/jupyter/nbextensions/jupyter-js-widgets/extension.js",
+    "share/jupyter/nbextensions/jupyter-js-widgets/extension.js.LICENSE.txt",
+    "share/jupyter/nbextensions/jupyter-js-widgets/extension.js.map"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\widgetsnbextension-4.0.14-py313haa95532_0",
+    "type": 1
+  }
+}

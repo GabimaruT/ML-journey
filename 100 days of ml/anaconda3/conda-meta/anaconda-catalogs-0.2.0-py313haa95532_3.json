@@ -1,0 +1,56 @@
+{
+  "name": "anaconda-catalogs",
+  "version": "0.2.0",
+  "build": "py313haa95532_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "anaconda-catalogs-0.2.0-py313haa95532_3.conda",
+  "md5": "4e398e039485b91d479db37aa1d43781",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/anaconda-catalogs-0.2.0-py313haa95532_3.conda",
+  "sha256": "277063c7e8d58dbc1d03ec7a8bea958cd55efee8149585d2d97831824d00926a",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "aiohttp",
+    "intake",
+    "jinja2",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "requests"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1764859069000,
+  "size": 15042,
+  "requested_spec": "pkgs/main/win-64::anaconda-catalogs==0.2.0=py313haa95532_3",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\anaconda-catalogs-0.2.0-py313haa95532_3.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\anaconda-catalogs-0.2.0-py313haa95532_3",
+  "files": [
+    "Lib/site-packages/anaconda_catalogs-0.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/anaconda_catalogs-0.2.0.dist-info/METADATA",
+    "Lib/site-packages/anaconda_catalogs-0.2.0.dist-info/RECORD",
+    "Lib/site-packages/anaconda_catalogs-0.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/anaconda_catalogs-0.2.0.dist-info/WHEEL",
+    "Lib/site-packages/anaconda_catalogs-0.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/anaconda_catalogs-0.2.0.dist-info/entry_points.txt",
+    "Lib/site-packages/anaconda_catalogs-0.2.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/anaconda_catalogs-0.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/anaconda_catalogs/__init__.py",
+    "Lib/site-packages/anaconda_catalogs/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/anaconda_catalogs/__pycache__/catalog.cpython-313.pyc",
+    "Lib/site-packages/anaconda_catalogs/__pycache__/exceptions.cpython-313.pyc",
+    "Lib/site-packages/anaconda_catalogs/catalog.py",
+    "Lib/site-packages/anaconda_catalogs/exceptions.py",
+    "Lib/site-packages/anaconda_catalogs/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\anaconda-catalogs-0.2.0-py313haa95532_3",
+    "type": 1
+  }
+}

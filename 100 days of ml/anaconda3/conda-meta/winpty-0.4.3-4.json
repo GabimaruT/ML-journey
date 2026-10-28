@@ -1,0 +1,37 @@
+{
+  "name": "winpty",
+  "version": "0.4.3",
+  "build": "4",
+  "build_number": 4,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "winpty-0.4.3-4.conda",
+  "md5": "5827d9fb8df41153ddc2a2915934c966",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/winpty-0.4.3-4.conda",
+  "sha256": "f0e4ebdefd9e2b724a57514f45964dd964e0105c040800997a0d198acc53e14f",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1517593466000,
+  "size": 694535,
+  "requested_spec": "pkgs/main/win-64::winpty==0.4.3=4",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\winpty-0.4.3-4.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\winpty-0.4.3-4",
+  "files": [
+    "Library/bin/winpty-agent.exe",
+    "Library/bin/winpty.dll",
+    "Library/include/winpty.h",
+    "Library/include/winpty_constants.h",
+    "Library/lib/winpty.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\winpty-0.4.3-4",
+    "type": 1
+  }
+}

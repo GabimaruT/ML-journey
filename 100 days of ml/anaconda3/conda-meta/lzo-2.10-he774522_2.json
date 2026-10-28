@@ -1,0 +1,63 @@
+{
+  "name": "lzo",
+  "version": "2.10",
+  "build": "he774522_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "lzo-2.10-he774522_2.conda",
+  "md5": "05f7b19f47e1b6d198bf240f888b95de",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lzo-2.10-he774522_2.conda",
+  "sha256": "2b710daf3c12fb26abf4b9b788fdd7e6e0491f0d8e99d4464a1c0968e42b1ca9",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "GPL v2+",
+  "license_family": "GPL2",
+  "timestamp": 1587074269000,
+  "size": 145270,
+  "requested_spec": "pkgs/main/win-64::lzo==2.10=he774522_2",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\lzo-2.10-he774522_2.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\lzo-2.10-he774522_2",
+  "files": [
+    "Library/bin/lzo2.dll",
+    "Library/include/lzo/lzo1.h",
+    "Library/include/lzo/lzo1a.h",
+    "Library/include/lzo/lzo1b.h",
+    "Library/include/lzo/lzo1c.h",
+    "Library/include/lzo/lzo1f.h",
+    "Library/include/lzo/lzo1x.h",
+    "Library/include/lzo/lzo1y.h",
+    "Library/include/lzo/lzo1z.h",
+    "Library/include/lzo/lzo2a.h",
+    "Library/include/lzo/lzo_asm.h",
+    "Library/include/lzo/lzoconf.h",
+    "Library/include/lzo/lzodefs.h",
+    "Library/include/lzo/lzoutil.h",
+    "Library/lib/lzo2.lib",
+    "Library/lib/lzo2_dllimport.lib",
+    "Library/libexec/lzo/examples/lzopack.exe",
+    "Library/libexec/lzo/examples/lzotest.exe",
+    "Library/libexec/lzo/examples/simple.exe",
+    "Library/libexec/lzo/examples/testmini.exe",
+    "Library/share/doc/lzo/AUTHORS",
+    "Library/share/doc/lzo/COPYING",
+    "Library/share/doc/lzo/LZO.FAQ",
+    "Library/share/doc/lzo/LZO.TXT",
+    "Library/share/doc/lzo/LZOAPI.TXT",
+    "Library/share/doc/lzo/NEWS",
+    "Library/share/doc/lzo/THANKS"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\lzo-2.10-he774522_2",
+    "type": 1
+  }
+}

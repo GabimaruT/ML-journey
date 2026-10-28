@@ -1,0 +1,85 @@
+{
+  "name": "diff-match-patch",
+  "version": "20200713",
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "diff-match-patch-20200713-pyhd3eb1b0_0.conda",
+  "md5": "8b12a79884f20d2d13a8a3877e8d0d3e",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/diff-match-patch-20200713-pyhd3eb1b0_0.conda",
+  "sha256": "6a5ec29a2953d547f49a127c56c412f500f3b07563742b434b1976e034b42f5f",
+  "depends": [
+    "python"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "Apache-2.0",
+  "package_type": "noarch_python",
+  "timestamp": 1630511861000,
+  "size": 35614,
+  "requested_spec": "pkgs/main/noarch::diff-match-patch==20200713=pyhd3eb1b0_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\diff-match-patch-20200713-pyhd3eb1b0_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\diff-match-patch-20200713-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/diff_match_patch-20200713.dist-info/INSTALLER",
+    "Lib/site-packages/diff_match_patch-20200713.dist-info/LICENSE",
+    "Lib/site-packages/diff_match_patch-20200713.dist-info/METADATA",
+    "Lib/site-packages/diff_match_patch-20200713.dist-info/RECORD",
+    "Lib/site-packages/diff_match_patch-20200713.dist-info/REQUESTED",
+    "Lib/site-packages/diff_match_patch-20200713.dist-info/WHEEL",
+    "Lib/site-packages/diff_match_patch-20200713.dist-info/direct_url.json",
+    "Lib/site-packages/diff_match_patch-20200713.dist-info/top_level.txt",
+    "Lib/site-packages/diff_match_patch/__init__.py",
+    "Lib/site-packages/diff_match_patch/diff_match_patch.py",
+    "Lib/site-packages/diff_match_patch/diff_match_patch_py2.py",
+    "Lib/site-packages/diff_match_patch/tests/__init__.py",
+    "Lib/site-packages/diff_match_patch/tests/diff_match_patch_test.py",
+    "Lib/site-packages/diff_match_patch/tests/diff_match_patch_test_py2.py",
+    "Lib/site-packages/diff_match_patch/tests/speedtest.py",
+    "Lib/site-packages/diff_match_patch/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/diff_match_patch/__pycache__/diff_match_patch.cpython-313.pyc",
+    "Lib/site-packages/diff_match_patch/__pycache__/diff_match_patch_py2.cpython-313.pyc",
+    "Lib/site-packages/diff_match_patch/tests/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/diff_match_patch/tests/__pycache__/diff_match_patch_test.cpython-313.pyc",
+    "Lib/site-packages/diff_match_patch/tests/__pycache__/diff_match_patch_test_py2.cpython-313.pyc",
+    "Lib/site-packages/diff_match_patch/tests/__pycache__/speedtest.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/diff_match_patch/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/diff_match_patch/__pycache__/diff_match_patch.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/diff_match_patch/__pycache__/diff_match_patch_py2.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/diff_match_patch/tests/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/diff_match_patch/tests/__pycache__/diff_match_patch_test.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/diff_match_patch/tests/__pycache__/diff_match_patch_test_py2.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/diff_match_patch/tests/__pycache__/speedtest.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\diff-match-patch-20200713-pyhd3eb1b0_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "terminado",
+  "version": "0.18.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "terminado-0.18.1-py313haa95532_0.conda",
+  "md5": "a02cc6d69965d85cc8c331ed55087dd3",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/terminado-0.18.1-py313haa95532_0.conda",
+  "sha256": "8da6d010d59302ee6e6d328021723839c20c7ac270c72aa62f74cd66cca854bf",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "pywinpty >=1.1.0",
+    "tornado >=6.1.0"
+  ],
+  "constrains": [
+    "mypy >=1.6,<2",
+    "traitlets >=5.11.1"
+  ],
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "timestamp": 1757935024000,
+  "size": 33369,
+  "requested_spec": "pkgs/main/win-64::terminado==0.18.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\terminado-0.18.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\terminado-0.18.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/terminado-0.18.1.dist-info/INSTALLER",
+    "Lib/site-packages/terminado-0.18.1.dist-info/METADATA",
+    "Lib/site-packages/terminado-0.18.1.dist-info/RECORD",
+    "Lib/site-packages/terminado-0.18.1.dist-info/REQUESTED",
+    "Lib/site-packages/terminado-0.18.1.dist-info/WHEEL",
+    "Lib/site-packages/terminado-0.18.1.dist-info/direct_url.json",
+    "Lib/site-packages/terminado-0.18.1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/terminado/__init__.py",
+    "Lib/site-packages/terminado/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/terminado/__pycache__/_version.cpython-313.pyc",
+    "Lib/site-packages/terminado/__pycache__/management.cpython-313.pyc",
+    "Lib/site-packages/terminado/__pycache__/uimodule.cpython-313.pyc",
+    "Lib/site-packages/terminado/__pycache__/websocket.cpython-313.pyc",
+    "Lib/site-packages/terminado/_static/terminado.js",
+    "Lib/site-packages/terminado/_version.py",
+    "Lib/site-packages/terminado/management.py",
+    "Lib/site-packages/terminado/py.typed",
+    "Lib/site-packages/terminado/uimod_embed.js",
+    "Lib/site-packages/terminado/uimodule.py",
+    "Lib/site-packages/terminado/websocket.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\terminado-0.18.1-py313haa95532_0",
+    "type": 1
+  }
+}

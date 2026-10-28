@@ -1,0 +1,56 @@
+{
+  "name": "regex",
+  "version": "2025.9.1",
+  "build": "py313h02ab6af_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "regex-2025.9.1-py313h02ab6af_0.conda",
+  "md5": "692c6f28366b305a57214a8f120fca00",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/regex-2025.9.1-py313h02ab6af_0.conda",
+  "sha256": "3a3c12d33b6fe36643059406a1be9d4913b4900f03e819e0f3d089cbe0c3d805",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "timestamp": 1758888019000,
+  "size": 374730,
+  "requested_spec": "pkgs/main/win-64::regex==2025.9.1=py313h02ab6af_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\regex-2025.9.1-py313h02ab6af_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\regex-2025.9.1-py313h02ab6af_0",
+  "files": [
+    "Lib/site-packages/regex-2025.9.1.dist-info/INSTALLER",
+    "Lib/site-packages/regex-2025.9.1.dist-info/METADATA",
+    "Lib/site-packages/regex-2025.9.1.dist-info/RECORD",
+    "Lib/site-packages/regex-2025.9.1.dist-info/REQUESTED",
+    "Lib/site-packages/regex-2025.9.1.dist-info/WHEEL",
+    "Lib/site-packages/regex-2025.9.1.dist-info/direct_url.json",
+    "Lib/site-packages/regex-2025.9.1.dist-info/licenses/LICENSE.txt",
+    "Lib/site-packages/regex-2025.9.1.dist-info/top_level.txt",
+    "Lib/site-packages/regex/__init__.py",
+    "Lib/site-packages/regex/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/regex/__pycache__/_regex_core.cpython-313.pyc",
+    "Lib/site-packages/regex/__pycache__/regex.cpython-313.pyc",
+    "Lib/site-packages/regex/__pycache__/test_regex.cpython-313.pyc",
+    "Lib/site-packages/regex/_regex.cp313-win_amd64.pyd",
+    "Lib/site-packages/regex/_regex_core.py",
+    "Lib/site-packages/regex/regex.py",
+    "Lib/site-packages/regex/test_regex.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\regex-2025.9.1-py313h02ab6af_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "m2w64-libwinpthread-git",
+  "version": "5.0.0.4634.697f757",
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "subdir": "win-64",
+  "fn": "m2w64-libwinpthread-git-5.0.0.4634.697f757-2.tar.bz2",
+  "md5": "67e61e700eb27424979778fae9293f13",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-libwinpthread-git-5.0.0.4634.697f757-2.tar.bz2",
+  "sha256": "9373b0157e08cbea09298f461d2816833281b3e22a8c9f6c5a38d7109c8a281e",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "msys2-conda-epoch >=20160418"
+  ],
+  "constrains": [],
+  "license": "MIT, BSD",
+  "size": 30543,
+  "requested_spec": "pkgs/msys2/win-64::m2w64-libwinpthread-git==5.0.0.4634.697f757=2",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\m2w64-libwinpthread-git-5.0.0.4634.697f757-2.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\m2w64-libwinpthread-git-5.0.0.4634.697f757-2",
+  "files": [
+    "Library/mingw-w64/bin/libwinpthread-1.dll",
+    "Library/mingw-w64/share/licenses/libwinpthread/COPYING",
+    "Library/mingw-w64/share/licenses/libwinpthread/mingw-w64-libraries/winpthreads/COPYING"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\m2w64-libwinpthread-git-5.0.0.4634.697f757-2",
+    "type": 1
+  }
+}

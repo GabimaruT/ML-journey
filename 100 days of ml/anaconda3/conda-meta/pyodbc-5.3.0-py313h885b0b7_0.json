@@ -1,0 +1,49 @@
+{
+  "name": "pyodbc",
+  "version": "5.3.0",
+  "build": "py313h885b0b7_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "pyodbc-5.3.0-py313h885b0b7_0.conda",
+  "md5": "880c40e18c96e54e73d10e9c882e80d3",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyodbc-5.3.0-py313h885b0b7_0.conda",
+  "sha256": "2e72df6631f0f89f3e2cbb88462931375765287afe8612f4fc19b1a38f5fb2f5",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "MIT-0",
+  "license_family": "MIT",
+  "timestamp": 1761670626000,
+  "size": 76017,
+  "requested_spec": "pkgs/main/win-64::pyodbc==5.3.0=py313h885b0b7_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pyodbc-5.3.0-py313h885b0b7_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pyodbc-5.3.0-py313h885b0b7_0",
+  "files": [
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/INSTALLER",
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/METADATA",
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/RECORD",
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/REQUESTED",
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/WHEEL",
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/direct_url.json",
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/licenses/LICENSE.txt",
+    "Lib/site-packages/pyodbc-5.3.0.dist-info/top_level.txt",
+    "Lib/site-packages/pyodbc.cp313-win_amd64.pyd",
+    "Lib/site-packages/pyodbc.pyi"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pyodbc-5.3.0-py313h885b0b7_0",
+    "type": 1
+  }
+}

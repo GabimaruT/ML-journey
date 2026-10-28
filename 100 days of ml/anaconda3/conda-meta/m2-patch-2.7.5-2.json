@@ -1,0 +1,36 @@
+{
+  "name": "m2-patch",
+  "version": "2.7.5",
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "subdir": "win-64",
+  "fn": "m2-patch-2.7.5-2.tar.bz2",
+  "md5": "ce0ef50726538a9c62e8d2e957f2d85c",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2-patch-2.7.5-2.tar.bz2",
+  "sha256": "920d2d535bfceb05fb0dc7c147b665ffec4130f760b913fd3135870104fdc152",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "m2-msys2-runtime",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "constrains": [],
+  "license": "GPL",
+  "size": 90691,
+  "requested_spec": "pkgs/msys2/win-64::m2-patch==2.7.5=2",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\m2-patch-2.7.5-2.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\m2-patch-2.7.5-2",
+  "files": [
+    "Library/usr/bin/patch.exe",
+    "Library/usr/share/man/man1/patch.1.gz"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\m2-patch-2.7.5-2",
+    "type": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "nbconvert",
+  "version": "7.16.6",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "nbconvert-7.16.6-py313haa95532_0.conda",
+  "md5": "0c65e1b244dd1dc7cd86053361ca0eb7",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/nbconvert-7.16.6-py313haa95532_0.conda",
+  "sha256": "9548ef9f1f26b50f3f62dc5b8ddf5ab5942b6a05f68e271e15dc109961cbd4b3",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "nbconvert-core 7.16.6 py313haa95532_0",
+    "nbconvert-pandoc 7.16.6 py313haa95532_0",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1741192370000,
+  "size": 8775,
+  "requested_spec": "pkgs/main/win-64::nbconvert==7.16.6=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\nbconvert-7.16.6-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\nbconvert-7.16.6-py313haa95532_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\nbconvert-7.16.6-py313haa95532_0",
+    "type": 1
+  }
+}

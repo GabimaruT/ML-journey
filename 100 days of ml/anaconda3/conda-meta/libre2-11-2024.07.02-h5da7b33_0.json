@@ -1,0 +1,41 @@
+{
+  "name": "libre2-11",
+  "version": "2024.07.02",
+  "build": "h5da7b33_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libre2-11-2024.07.02-h5da7b33_0.conda",
+  "md5": "80a7c284389432a678edba91ff3a8889",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libre2-11-2024.07.02-h5da7b33_0.conda",
+  "sha256": "9dbc2f6593191a74c8bd40031b9f793ea62d598c57b81be79c039ef0d69f4fcf",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "libabseil * cxx17*",
+    "libabseil >=20250127.0,<20250127.1.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [
+    "re2 2024-07-02 *_0"
+  ],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1742313442000,
+  "size": 307202,
+  "requested_spec": "pkgs/main/win-64::libre2-11==2024.07.02=h5da7b33_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libre2-11-2024.07.02-h5da7b33_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libre2-11-2024.07.02-h5da7b33_0",
+  "files": [
+    "Library/bin/re2.dll"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libre2-11-2024.07.02-h5da7b33_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "graphite2",
+  "version": "1.3.14",
+  "build": "hd77b12b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "graphite2-1.3.14-hd77b12b_1.conda",
+  "md5": "fbb6cb5925cdb51a6721bf685e9844ad",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/graphite2-1.3.14-hd77b12b_1.conda",
+  "sha256": "d6327a058f5ef4ad6521c4fde859a28684eac04b917e9016176a0950d41c721f",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "LGPL-2.1-or-later",
+  "license_family": "LGPL",
+  "timestamp": 1654175958000,
+  "size": 92898,
+  "requested_spec": "pkgs/main/win-64::graphite2==1.3.14=hd77b12b_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\graphite2-1.3.14-hd77b12b_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\graphite2-1.3.14-hd77b12b_1",
+  "files": [
+    "Library/bin/gr2fonttest.exe",
+    "Library/bin/graphite2.dll",
+    "Library/include/graphite2/Font.h",
+    "Library/include/graphite2/Log.h",
+    "Library/include/graphite2/Segment.h",
+    "Library/include/graphite2/Types.h",
+    "Library/lib/graphite2.lib",
+    "Library/lib/pkgconfig/graphite2.pc",
+    "Library/share/graphite2/graphite2-release.cmake",
+    "Library/share/graphite2/graphite2.cmake"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/graphite2.pc",
+        "prefix_placeholder": "C:/ci/graphite2_1654175871284/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "09283e2110fe0e91d0e7c17c63053bbf0acf9048b2df35c542ce216d9c15f939",
+        "size_in_bytes": 227,
+        "sha256_in_prefix": "244a611334ed457b2ec8582707f675811629e9775ccd4dd9f34c7295d5637e3c"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\graphite2-1.3.14-hd77b12b_1",
+    "type": 1
+  }
+}

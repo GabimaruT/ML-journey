@@ -1,0 +1,96 @@
+{
+  "name": "incremental",
+  "version": "24.7.2",
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "incremental-24.7.2-pyhd3eb1b0_0.conda",
+  "md5": "d61a867629ff1a8da3ec8d88b4595f2d",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/incremental-24.7.2-pyhd3eb1b0_0.conda",
+  "sha256": "854e76db0dbb71e11d1d1be9ea19a4fbcf0b4af5dab0d8d335288846afb9cb50",
+  "depends": [
+    "python >=3.9",
+    "setuptools >=61.0",
+    "tomli"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "MIT",
+  "license_family": "MIT",
+  "package_type": "noarch_python",
+  "timestamp": 1743512694000,
+  "size": 21961,
+  "requested_spec": "pkgs/main/noarch::incremental==24.7.2=pyhd3eb1b0_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\incremental-24.7.2-pyhd3eb1b0_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\incremental-24.7.2-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/incremental-24.7.2.dist-info/INSTALLER",
+    "Lib/site-packages/incremental-24.7.2.dist-info/LICENSE",
+    "Lib/site-packages/incremental-24.7.2.dist-info/METADATA",
+    "Lib/site-packages/incremental-24.7.2.dist-info/RECORD",
+    "Lib/site-packages/incremental-24.7.2.dist-info/REQUESTED",
+    "Lib/site-packages/incremental-24.7.2.dist-info/WHEEL",
+    "Lib/site-packages/incremental-24.7.2.dist-info/direct_url.json",
+    "Lib/site-packages/incremental-24.7.2.dist-info/entry_points.txt",
+    "Lib/site-packages/incremental-24.7.2.dist-info/top_level.txt",
+    "Lib/site-packages/incremental/__init__.py",
+    "Lib/site-packages/incremental/_hatch.py",
+    "Lib/site-packages/incremental/_version.py",
+    "Lib/site-packages/incremental/py.typed",
+    "Lib/site-packages/incremental/tests/__init__.py",
+    "Lib/site-packages/incremental/tests/test_pyproject.py",
+    "Lib/site-packages/incremental/tests/test_update.py",
+    "Lib/site-packages/incremental/tests/test_version.py",
+    "Lib/site-packages/incremental/update.py",
+    "Lib/site-packages/incremental/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/incremental/__pycache__/_hatch.cpython-313.pyc",
+    "Lib/site-packages/incremental/__pycache__/_version.cpython-313.pyc",
+    "Lib/site-packages/incremental/tests/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/incremental/tests/__pycache__/test_pyproject.cpython-313.pyc",
+    "Lib/site-packages/incremental/tests/__pycache__/test_update.cpython-313.pyc",
+    "Lib/site-packages/incremental/tests/__pycache__/test_version.cpython-313.pyc",
+    "Lib/site-packages/incremental/__pycache__/update.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/incremental/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/__pycache__/_hatch.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/__pycache__/_version.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/tests/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/tests/__pycache__/test_pyproject.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/tests/__pycache__/test_update.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/tests/__pycache__/test_version.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/__pycache__/update.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\incremental-24.7.2-pyhd3eb1b0_0",
+    "type": 1
+  }
+}

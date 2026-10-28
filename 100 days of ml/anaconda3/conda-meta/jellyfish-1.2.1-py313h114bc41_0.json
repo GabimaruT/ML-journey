@@ -1,0 +1,53 @@
+{
+  "name": "jellyfish",
+  "version": "1.2.1",
+  "build": "py313h114bc41_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "jellyfish-1.2.1-py313h114bc41_0.conda",
+  "md5": "ef175033e516c196c034ae01a6d5ae75",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jellyfish-1.2.1-py313h114bc41_0.conda",
+  "sha256": "18abf62eb702a36538368bba81896280c4b516c394d4e917b232df26b5279dad",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1764244039000,
+  "size": 294268,
+  "requested_spec": "pkgs/main/win-64::jellyfish==1.2.1=py313h114bc41_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jellyfish-1.2.1-py313h114bc41_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jellyfish-1.2.1-py313h114bc41_0",
+  "files": [
+    "Lib/site-packages/jellyfish-1.2.1.dist-info/INSTALLER",
+    "Lib/site-packages/jellyfish-1.2.1.dist-info/METADATA",
+    "Lib/site-packages/jellyfish-1.2.1.dist-info/RECORD",
+    "Lib/site-packages/jellyfish-1.2.1.dist-info/REQUESTED",
+    "Lib/site-packages/jellyfish-1.2.1.dist-info/WHEEL",
+    "Lib/site-packages/jellyfish-1.2.1.dist-info/direct_url.json",
+    "Lib/site-packages/jellyfish-1.2.1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/jellyfish/__init__.py",
+    "Lib/site-packages/jellyfish/__init__.pyi",
+    "Lib/site-packages/jellyfish/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/jellyfish/__pycache__/_jellyfish.cpython-313.pyc",
+    "Lib/site-packages/jellyfish/_jellyfish.py",
+    "Lib/site-packages/jellyfish/_rustyfish.cp313-win_amd64.pyd",
+    "Lib/site-packages/jellyfish/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jellyfish-1.2.1-py313h114bc41_0",
+    "type": 1
+  }
+}

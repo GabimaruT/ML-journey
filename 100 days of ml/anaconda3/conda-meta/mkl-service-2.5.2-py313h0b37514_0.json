@@ -1,0 +1,58 @@
+{
+  "name": "mkl-service",
+  "version": "2.5.2",
+  "build": "py313h0b37514_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "mkl-service-2.5.2-py313h0b37514_0.conda",
+  "md5": "de16142609f0894ac493b120d8dec242",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/mkl-service-2.5.2-py313h0b37514_0.conda",
+  "sha256": "6b979218a0dc5e404c78944723ab540b909c3a195379aad28729210a72922b45",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "mkl >=2025.0.0,<2026.0a0",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1759414265000,
+  "size": 74673,
+  "requested_spec": "pkgs/main/win-64::mkl-service==2.5.2=py313h0b37514_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\mkl-service-2.5.2-py313h0b37514_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\mkl-service-2.5.2-py313h0b37514_0",
+  "files": [
+    "Lib/site-packages/mkl/__init__.py",
+    "Lib/site-packages/mkl/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/mkl/__pycache__/_init_helper.cpython-313.pyc",
+    "Lib/site-packages/mkl/__pycache__/_version.cpython-313.pyc",
+    "Lib/site-packages/mkl/_init_helper.py",
+    "Lib/site-packages/mkl/_mkl_service.pyx",
+    "Lib/site-packages/mkl/_mklinit.cp313-win_amd64.pyd",
+    "Lib/site-packages/mkl/_mklinitmodule.c",
+    "Lib/site-packages/mkl/_py_mkl_service.cp313-win_amd64.pyd",
+    "Lib/site-packages/mkl/_version.py",
+    "Lib/site-packages/mkl/tests/__pycache__/test_mkl_service.cpython-313.pyc",
+    "Lib/site-packages/mkl/tests/test_mkl_service.py",
+    "Lib/site-packages/mkl_service-2.5.2-py3.13.egg-info/PKG-INFO",
+    "Lib/site-packages/mkl_service-2.5.2-py3.13.egg-info/SOURCES.txt",
+    "Lib/site-packages/mkl_service-2.5.2-py3.13.egg-info/dependency_links.txt",
+    "Lib/site-packages/mkl_service-2.5.2-py3.13.egg-info/not-zip-safe",
+    "Lib/site-packages/mkl_service-2.5.2-py3.13.egg-info/requires.txt",
+    "Lib/site-packages/mkl_service-2.5.2-py3.13.egg-info/top_level.txt"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\mkl-service-2.5.2-py313h0b37514_0",
+    "type": 1
+  }
+}

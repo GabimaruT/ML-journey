@@ -1,0 +1,57 @@
+{
+  "name": "python-lsp-ruff",
+  "version": "2.3.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "python-lsp-ruff-2.3.0-py313haa95532_0.conda",
+  "md5": "67d89afaedb18285ab792259844c882d",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/python-lsp-ruff-2.3.0-py313haa95532_0.conda",
+  "sha256": "e16ac355ec42519452d358b4293ba4221233c054563612fc9e7dd2620284595f",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "cattrs !=23.2.1",
+    "lsprotocol >=2023.0.1",
+    "python >=3.13,<3.14.0a0",
+    "python-lsp-server",
+    "python_abi 3.13.* *_cp313",
+    "ruff >=0.2.0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1759832232000,
+  "size": 32774,
+  "requested_spec": "pkgs/main/win-64::python-lsp-ruff==2.3.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-lsp-ruff-2.3.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-lsp-ruff-2.3.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/pylsp_ruff/__init__.py",
+    "Lib/site-packages/pylsp_ruff/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pylsp_ruff/__pycache__/plugin.cpython-313.pyc",
+    "Lib/site-packages/pylsp_ruff/__pycache__/ruff.cpython-313.pyc",
+    "Lib/site-packages/pylsp_ruff/__pycache__/settings.cpython-313.pyc",
+    "Lib/site-packages/pylsp_ruff/plugin.py",
+    "Lib/site-packages/pylsp_ruff/ruff.py",
+    "Lib/site-packages/pylsp_ruff/settings.py",
+    "Lib/site-packages/python_lsp_ruff-2.3.0.dist-info/INSTALLER",
+    "Lib/site-packages/python_lsp_ruff-2.3.0.dist-info/METADATA",
+    "Lib/site-packages/python_lsp_ruff-2.3.0.dist-info/RECORD",
+    "Lib/site-packages/python_lsp_ruff-2.3.0.dist-info/REQUESTED",
+    "Lib/site-packages/python_lsp_ruff-2.3.0.dist-info/WHEEL",
+    "Lib/site-packages/python_lsp_ruff-2.3.0.dist-info/direct_url.json",
+    "Lib/site-packages/python_lsp_ruff-2.3.0.dist-info/entry_points.txt",
+    "Lib/site-packages/python_lsp_ruff-2.3.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/python_lsp_ruff-2.3.0.dist-info/top_level.txt"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-lsp-ruff-2.3.0-py313haa95532_0",
+    "type": 1
+  }
+}

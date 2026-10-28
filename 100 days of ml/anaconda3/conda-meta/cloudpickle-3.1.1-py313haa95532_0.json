@@ -1,0 +1,49 @@
+{
+  "name": "cloudpickle",
+  "version": "3.1.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "cloudpickle-3.1.1-py313haa95532_0.conda",
+  "md5": "b5a322aa1fb2864e2e6feba38256f259",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/cloudpickle-3.1.1-py313haa95532_0.conda",
+  "sha256": "ea5be0e49ac5f8ac37b4ddbdea1a61f45815cee764d43b53f6117363cd88942b",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1751309679000,
+  "size": 45967,
+  "requested_spec": "pkgs/main/win-64::cloudpickle==3.1.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\cloudpickle-3.1.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\cloudpickle-3.1.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/cloudpickle-3.1.1.dist-info/INSTALLER",
+    "Lib/site-packages/cloudpickle-3.1.1.dist-info/LICENSE",
+    "Lib/site-packages/cloudpickle-3.1.1.dist-info/METADATA",
+    "Lib/site-packages/cloudpickle-3.1.1.dist-info/RECORD",
+    "Lib/site-packages/cloudpickle-3.1.1.dist-info/REQUESTED",
+    "Lib/site-packages/cloudpickle-3.1.1.dist-info/WHEEL",
+    "Lib/site-packages/cloudpickle-3.1.1.dist-info/direct_url.json",
+    "Lib/site-packages/cloudpickle/__init__.py",
+    "Lib/site-packages/cloudpickle/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/cloudpickle/__pycache__/cloudpickle.cpython-313.pyc",
+    "Lib/site-packages/cloudpickle/__pycache__/cloudpickle_fast.cpython-313.pyc",
+    "Lib/site-packages/cloudpickle/cloudpickle.py",
+    "Lib/site-packages/cloudpickle/cloudpickle_fast.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\cloudpickle-3.1.1-py313haa95532_0",
+    "type": 1
+  }
+}

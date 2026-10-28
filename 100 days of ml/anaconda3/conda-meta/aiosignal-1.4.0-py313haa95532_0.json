@@ -1,0 +1,48 @@
+{
+  "name": "aiosignal",
+  "version": "1.4.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "aiosignal-1.4.0-py313haa95532_0.conda",
+  "md5": "0108cef0076aa00edfb111e40c08c8fb",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aiosignal-1.4.0-py313haa95532_0.conda",
+  "sha256": "a4efe615adc5dc23b431f51c78a1a4f7ceb85aa49e0a56ee1244ddd0fc7ba14d",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "frozenlist >=1.1.0",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "timestamp": 1755871124000,
+  "size": 17994,
+  "requested_spec": "pkgs/main/win-64::aiosignal==1.4.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aiosignal-1.4.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aiosignal-1.4.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/aiosignal-1.4.0.dist-info/INSTALLER",
+    "Lib/site-packages/aiosignal-1.4.0.dist-info/METADATA",
+    "Lib/site-packages/aiosignal-1.4.0.dist-info/RECORD",
+    "Lib/site-packages/aiosignal-1.4.0.dist-info/REQUESTED",
+    "Lib/site-packages/aiosignal-1.4.0.dist-info/WHEEL",
+    "Lib/site-packages/aiosignal-1.4.0.dist-info/direct_url.json",
+    "Lib/site-packages/aiosignal-1.4.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/aiosignal-1.4.0.dist-info/top_level.txt",
+    "Lib/site-packages/aiosignal/__init__.py",
+    "Lib/site-packages/aiosignal/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/aiosignal/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aiosignal-1.4.0-py313haa95532_0",
+    "type": 1
+  }
+}

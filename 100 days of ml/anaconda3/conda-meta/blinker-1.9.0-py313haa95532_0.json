@@ -1,0 +1,50 @@
+{
+  "name": "blinker",
+  "version": "1.9.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "blinker-1.9.0-py313haa95532_0.conda",
+  "md5": "5ae242e3c7e5e23d8a1f8ddd5544e698",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/blinker-1.9.0-py313haa95532_0.conda",
+  "sha256": "bbed8b2b3f2e546b4330b875999205476fbb3bda84c2371e90058860ada37615",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1737448853000,
+  "size": 24922,
+  "requested_spec": "pkgs/main/win-64::blinker==1.9.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\blinker-1.9.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\blinker-1.9.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/blinker-1.9.0.dist-info/INSTALLER",
+    "Lib/site-packages/blinker-1.9.0.dist-info/LICENSE.txt",
+    "Lib/site-packages/blinker-1.9.0.dist-info/METADATA",
+    "Lib/site-packages/blinker-1.9.0.dist-info/RECORD",
+    "Lib/site-packages/blinker-1.9.0.dist-info/REQUESTED",
+    "Lib/site-packages/blinker-1.9.0.dist-info/WHEEL",
+    "Lib/site-packages/blinker-1.9.0.dist-info/direct_url.json",
+    "Lib/site-packages/blinker/__init__.py",
+    "Lib/site-packages/blinker/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/blinker/__pycache__/_utilities.cpython-313.pyc",
+    "Lib/site-packages/blinker/__pycache__/base.cpython-313.pyc",
+    "Lib/site-packages/blinker/_utilities.py",
+    "Lib/site-packages/blinker/base.py",
+    "Lib/site-packages/blinker/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\blinker-1.9.0-py313haa95532_0",
+    "type": 1
+  }
+}

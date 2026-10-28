@@ -1,0 +1,81 @@
+{
+  "name": "python-lsp-jsonrpc",
+  "version": "1.1.2",
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "python-lsp-jsonrpc-1.1.2-pyhd3eb1b0_0.conda",
+  "md5": "7bf8923b0a4c929bf15bd93a8246e191",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/python-lsp-jsonrpc-1.1.2-pyhd3eb1b0_0.conda",
+  "sha256": "b856945e3e088eb2d9d12d673963fc3432215a80d3703eaf4df65da5d09937eb",
+  "depends": [
+    "python >=3.8",
+    "ujson >=3.0.0"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "MIT",
+  "license_family": "MIT",
+  "package_type": "noarch_python",
+  "timestamp": 1708962895000,
+  "size": 12479,
+  "requested_spec": "pkgs/main/noarch::python-lsp-jsonrpc==1.1.2=pyhd3eb1b0_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-lsp-jsonrpc-1.1.2-pyhd3eb1b0_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-lsp-jsonrpc-1.1.2-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/pylsp_jsonrpc/__init__.py",
+    "Lib/site-packages/pylsp_jsonrpc/_version.py",
+    "Lib/site-packages/pylsp_jsonrpc/dispatchers.py",
+    "Lib/site-packages/pylsp_jsonrpc/endpoint.py",
+    "Lib/site-packages/pylsp_jsonrpc/exceptions.py",
+    "Lib/site-packages/pylsp_jsonrpc/streams.py",
+    "Lib/site-packages/python_lsp_jsonrpc-1.1.2.dist-info/INSTALLER",
+    "Lib/site-packages/python_lsp_jsonrpc-1.1.2.dist-info/LICENSE",
+    "Lib/site-packages/python_lsp_jsonrpc-1.1.2.dist-info/METADATA",
+    "Lib/site-packages/python_lsp_jsonrpc-1.1.2.dist-info/RECORD",
+    "Lib/site-packages/python_lsp_jsonrpc-1.1.2.dist-info/REQUESTED",
+    "Lib/site-packages/python_lsp_jsonrpc-1.1.2.dist-info/WHEEL",
+    "Lib/site-packages/python_lsp_jsonrpc-1.1.2.dist-info/direct_url.json",
+    "Lib/site-packages/python_lsp_jsonrpc-1.1.2.dist-info/top_level.txt",
+    "Lib/site-packages/pylsp_jsonrpc/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pylsp_jsonrpc/__pycache__/_version.cpython-313.pyc",
+    "Lib/site-packages/pylsp_jsonrpc/__pycache__/dispatchers.cpython-313.pyc",
+    "Lib/site-packages/pylsp_jsonrpc/__pycache__/endpoint.cpython-313.pyc",
+    "Lib/site-packages/pylsp_jsonrpc/__pycache__/exceptions.cpython-313.pyc",
+    "Lib/site-packages/pylsp_jsonrpc/__pycache__/streams.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pylsp_jsonrpc/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pylsp_jsonrpc/__pycache__/_version.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pylsp_jsonrpc/__pycache__/dispatchers.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pylsp_jsonrpc/__pycache__/endpoint.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pylsp_jsonrpc/__pycache__/exceptions.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pylsp_jsonrpc/__pycache__/streams.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-lsp-jsonrpc-1.1.2-pyhd3eb1b0_0",
+    "type": 1
+  }
+}

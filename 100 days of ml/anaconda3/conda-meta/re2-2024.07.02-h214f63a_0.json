@@ -1,0 +1,55 @@
+{
+  "name": "re2",
+  "version": "2024.07.02",
+  "build": "h214f63a_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "re2-2024.07.02-h214f63a_0.conda",
+  "md5": "8e3b50f48d1a244d4865ceed6073fc22",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/re2-2024.07.02-h214f63a_0.conda",
+  "sha256": "febd58d3fafbb6403f5d6cc169d387568ce99a50c1cb439d9c75adae7f528600",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "libre2-11 2024.07.02 h5da7b33_0"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1742313461000,
+  "size": 249558,
+  "requested_spec": "pkgs/main/win-64::re2==2024.07.02=h214f63a_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\re2-2024.07.02-h214f63a_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\re2-2024.07.02-h214f63a_0",
+  "files": [
+    "Library/include/re2/filtered_re2.h",
+    "Library/include/re2/re2.h",
+    "Library/include/re2/set.h",
+    "Library/include/re2/stringpiece.h",
+    "Library/lib/cmake/re2/re2Config.cmake",
+    "Library/lib/cmake/re2/re2ConfigVersion.cmake",
+    "Library/lib/cmake/re2/re2Targets-release.cmake",
+    "Library/lib/cmake/re2/re2Targets.cmake",
+    "Library/lib/pkgconfig/re2.pc",
+    "Library/lib/re2.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/re2.pc",
+        "prefix_placeholder": "C:/b/abs_d3rvfza08j/croot/re2-split_1742313281826/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "6f48e18caa8d1f1b7f3116a597280b126ccccf44ed3b56738a67fe06e3c2e32b",
+        "size_in_bytes": 577,
+        "sha256_in_prefix": "3c30b4ccefb2fdcd8ba3afa29362d8a6b1c29f00d76748799d167aac52e15d65"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\re2-2024.07.02-h214f63a_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "ptyprocess",
+  "version": "0.7.0",
+  "build": "pyhd3eb1b0_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "ptyprocess-0.7.0-pyhd3eb1b0_3.conda",
+  "md5": "f50f8c0bccb614213191c4aaa854e76f",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/ptyprocess-0.7.0-pyhd3eb1b0_3.conda",
+  "sha256": "39ac93fa6cd8c45185c90d9fd9a26edceb7379fd210f18bb517d7f7b5bcb7822",
+  "depends": [
+    "python"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "ISC",
+  "package_type": "noarch_python",
+  "timestamp": 1762424191000,
+  "size": 18372,
+  "requested_spec": "pkgs/main/noarch::ptyprocess==0.7.0=pyhd3eb1b0_3",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\ptyprocess-0.7.0-pyhd3eb1b0_3.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\ptyprocess-0.7.0-pyhd3eb1b0_3",
+  "files": [
+    "Lib/site-packages/ptyprocess-0.7.0.dist-info/INSTALLER",
+    "Lib/site-packages/ptyprocess-0.7.0.dist-info/METADATA",
+    "Lib/site-packages/ptyprocess-0.7.0.dist-info/RECORD",
+    "Lib/site-packages/ptyprocess-0.7.0.dist-info/REQUESTED",
+    "Lib/site-packages/ptyprocess-0.7.0.dist-info/WHEEL",
+    "Lib/site-packages/ptyprocess-0.7.0.dist-info/direct_url.json",
+    "Lib/site-packages/ptyprocess-0.7.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/ptyprocess/__init__.py",
+    "Lib/site-packages/ptyprocess/_fork_pty.py",
+    "Lib/site-packages/ptyprocess/ptyprocess.py",
+    "Lib/site-packages/ptyprocess/util.py",
+    "Lib/site-packages/ptyprocess/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/ptyprocess/__pycache__/_fork_pty.cpython-313.pyc",
+    "Lib/site-packages/ptyprocess/__pycache__/ptyprocess.cpython-313.pyc",
+    "Lib/site-packages/ptyprocess/__pycache__/util.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/ptyprocess/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ptyprocess/__pycache__/_fork_pty.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ptyprocess/__pycache__/ptyprocess.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ptyprocess/__pycache__/util.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\ptyprocess-0.7.0-pyhd3eb1b0_3",
+    "type": 1
+  }
+}

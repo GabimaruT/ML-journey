@@ -1,0 +1,121 @@
+{
+  "name": "libwebp-base",
+  "version": "1.6.0",
+  "build": "hbf3958f_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libwebp-base-1.6.0-hbf3958f_0.conda",
+  "md5": "c3da581a0f9ef6e8a74e840ca4ad26e1",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libwebp-base-1.6.0-hbf3958f_0.conda",
+  "sha256": "84fa8061f0dbf3ec512beda59c3c090187543e67c654662e37577a10ef812934",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [
+    "libwebp 1.6.0"
+  ],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1763980689000,
+  "size": 286081,
+  "requested_spec": "pkgs/main/win-64::libwebp-base==1.6.0=hbf3958f_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libwebp-base-1.6.0-hbf3958f_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libwebp-base-1.6.0-hbf3958f_0",
+  "files": [
+    "Library/WebP/cmake/WebPConfig.cmake",
+    "Library/WebP/cmake/WebPConfigVersion.cmake",
+    "Library/WebP/cmake/WebPTargets-release.cmake",
+    "Library/WebP/cmake/WebPTargets.cmake",
+    "Library/bin/libsharpyuv.dll",
+    "Library/bin/libwebp.dll",
+    "Library/bin/libwebpdecoder.dll",
+    "Library/bin/libwebpdemux.dll",
+    "Library/bin/libwebpmux.dll",
+    "Library/include/webp/decode.h",
+    "Library/include/webp/demux.h",
+    "Library/include/webp/encode.h",
+    "Library/include/webp/mux.h",
+    "Library/include/webp/mux_types.h",
+    "Library/include/webp/sharpyuv/sharpyuv.h",
+    "Library/include/webp/sharpyuv/sharpyuv_csp.h",
+    "Library/include/webp/types.h",
+    "Library/lib/libsharpyuv.lib",
+    "Library/lib/libwebp.lib",
+    "Library/lib/libwebpdecoder.lib",
+    "Library/lib/libwebpdemux.lib",
+    "Library/lib/libwebpmux.lib",
+    "Library/lib/pkgconfig/libsharpyuv.pc",
+    "Library/lib/pkgconfig/libwebp.pc",
+    "Library/lib/pkgconfig/libwebpdecoder.pc",
+    "Library/lib/pkgconfig/libwebpdemux.pc",
+    "Library/lib/pkgconfig/libwebpmux.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/WebP/cmake/WebPTargets.cmake",
+        "prefix_placeholder": "C:/miniconda3/conda-bld/libwebp-base_1763980638025/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "d7928e2f9ca62ebaef77aebf75d967defc622d072cf578da27e142431f82b0d0",
+        "size_in_bytes": 5209,
+        "sha256_in_prefix": "dfd37467bf2b9cb5b2455ad6a9399a93915dad20dc4293510f7ee75c82081fbd"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libsharpyuv.pc",
+        "prefix_placeholder": "C:/miniconda3/conda-bld/libwebp-base_1763980638025/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "dc7c4caf38a847ae53fb5f97648734727c8dd77df8d4bee94263fa32de0e6161",
+        "size_in_bytes": 326,
+        "sha256_in_prefix": "e51d79d80ed5f756eddd76fe59260d7f8a29e69322da77b42f234a028b8d4657"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libwebp.pc",
+        "prefix_placeholder": "C:/miniconda3/conda-bld/libwebp-base_1763980638025/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "f9dcc286293e01909ea1e3a2727dd4970aadff69c263db1c1b9cbd84877043cb",
+        "size_in_bytes": 341,
+        "sha256_in_prefix": "00e7cf614d2ceeda5f1c32bee3f53cc6b35c7fb63d48d5fa0dca701302d78604"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libwebpdecoder.pc",
+        "prefix_placeholder": "C:/miniconda3/conda-bld/libwebp-base_1763980638025/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "8eb0976fe9f716bfea2fe5bfa7e4da5acdf09aa28c47f1da1d370e70ef7c8cb0",
+        "size_in_bytes": 338,
+        "sha256_in_prefix": "bec9bb8835be7ada5bb3cc37dcd420de9c6813d95c047f8c75f32b64a4109f54"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libwebpdemux.pc",
+        "prefix_placeholder": "C:/miniconda3/conda-bld/libwebp-base_1763980638025/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "d93658b20ba005c4986e6699d925a627b8ebcd725c047beba2f8f92c2807e4ee",
+        "size_in_bytes": 356,
+        "sha256_in_prefix": "33d14d27a176ff9e99181a3049c5e17da8fa622fc938df3d5f0c7b37855084a3"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libwebpmux.pc",
+        "prefix_placeholder": "C:/miniconda3/conda-bld/libwebp-base_1763980638025/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "215c2596c5d156e8735eeb8f30335861266425fa63717f9e6562c6f557e01e9f",
+        "size_in_bytes": 373,
+        "sha256_in_prefix": "ddf62d18491095a39bb8b64d0bf5e2b2c35fb05332818115a3b84f0761402c05"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libwebp-base-1.6.0-hbf3958f_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "zope",
+  "version": "1.0",
+  "build": "py313haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "zope-1.0-py313haa95532_1.conda",
+  "md5": "35fa3e33567ad66227eb7eac0317dbce",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/zope-1.0-py313haa95532_1.conda",
+  "sha256": "ba7ab460c81281c968475d200b4e4b3c812bf7218920f4fbd9b56674463d906e",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD",
+  "timestamp": 1729052510000,
+  "size": 5745,
+  "requested_spec": "pkgs/main/win-64::zope==1.0=py313haa95532_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\zope-1.0-py313haa95532_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\zope-1.0-py313haa95532_1",
+  "files": [
+    "Lib/site-packages/zope/__init__.py",
+    "Lib/site-packages/zope/__pycache__/__init__.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\zope-1.0-py313haa95532_1",
+    "type": 1
+  }
+}

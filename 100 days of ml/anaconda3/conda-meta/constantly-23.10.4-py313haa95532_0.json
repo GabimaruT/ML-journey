@@ -1,0 +1,54 @@
+{
+  "name": "constantly",
+  "version": "23.10.4",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "constantly-23.10.4-py313haa95532_0.conda",
+  "md5": "2fc2d088c3efc23a47ec2fa2b02d24c6",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/constantly-23.10.4-py313haa95532_0.conda",
+  "sha256": "2112ff197bd7ce6b59d10b35e7e90368f4bef4a894e3957de1cd4ee7409e792d",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1729053436000,
+  "size": 33538,
+  "requested_spec": "pkgs/main/win-64::constantly==23.10.4=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\constantly-23.10.4-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\constantly-23.10.4-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/constantly-23.10.4.dist-info/INSTALLER",
+    "Lib/site-packages/constantly-23.10.4.dist-info/LICENSE",
+    "Lib/site-packages/constantly-23.10.4.dist-info/METADATA",
+    "Lib/site-packages/constantly-23.10.4.dist-info/RECORD",
+    "Lib/site-packages/constantly-23.10.4.dist-info/REQUESTED",
+    "Lib/site-packages/constantly-23.10.4.dist-info/WHEEL",
+    "Lib/site-packages/constantly-23.10.4.dist-info/direct_url.json",
+    "Lib/site-packages/constantly-23.10.4.dist-info/top_level.txt",
+    "Lib/site-packages/constantly/__init__.py",
+    "Lib/site-packages/constantly/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/constantly/__pycache__/_constants.cpython-313.pyc",
+    "Lib/site-packages/constantly/__pycache__/_version.cpython-313.pyc",
+    "Lib/site-packages/constantly/_constants.py",
+    "Lib/site-packages/constantly/_version.py",
+    "Lib/site-packages/constantly/test/__init__.py",
+    "Lib/site-packages/constantly/test/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/constantly/test/__pycache__/test_constants.cpython-313.pyc",
+    "Lib/site-packages/constantly/test/test_constants.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\constantly-23.10.4-py313haa95532_0",
+    "type": 1
+  }
+}

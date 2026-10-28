@@ -1,0 +1,32 @@
+{
+  "name": "mpi",
+  "version": "1.0",
+  "build": "msmpi",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "mpi-1.0-msmpi.conda",
+  "md5": "06067553c8478de0ee685e375d0f402b",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/mpi-1.0-msmpi.conda",
+  "sha256": "cb13963c5f01a55094fd0a4faedde24425f091720aa2b60e843ea16972ab7589",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1671202618000,
+  "size": 6735,
+  "requested_spec": "pkgs/main/win-64::mpi==1.0=msmpi",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\mpi-1.0-msmpi.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\mpi-1.0-msmpi",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\mpi-1.0-msmpi",
+    "type": 1
+  }
+}

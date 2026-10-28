@@ -1,0 +1,104 @@
+{
+  "name": "smmap",
+  "version": "4.0.0",
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "smmap-4.0.0-pyhd3eb1b0_0.conda",
+  "md5": "ea22ec22100b09799aa81f3e3ef9fa87",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/smmap-4.0.0-pyhd3eb1b0_0.conda",
+  "sha256": "acbc91bc422b20d0476fdf8b0f8c2481c8cfd1d9bd1490da98a25d36d93ce0af",
+  "depends": [
+    "python"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "BSD-3-Clause",
+  "package_type": "noarch_python",
+  "timestamp": 1611694466000,
+  "size": 23891,
+  "requested_spec": "pkgs/main/noarch::smmap==4.0.0=pyhd3eb1b0_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\smmap-4.0.0-pyhd3eb1b0_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\smmap-4.0.0-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/smmap-4.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/smmap-4.0.0.dist-info/LICENSE",
+    "Lib/site-packages/smmap-4.0.0.dist-info/METADATA",
+    "Lib/site-packages/smmap-4.0.0.dist-info/RECORD",
+    "Lib/site-packages/smmap-4.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/smmap-4.0.0.dist-info/WHEEL",
+    "Lib/site-packages/smmap-4.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/smmap-4.0.0.dist-info/top_level.txt",
+    "Lib/site-packages/smmap-4.0.0.dist-info/zip-safe",
+    "Lib/site-packages/smmap/__init__.py",
+    "Lib/site-packages/smmap/buf.py",
+    "Lib/site-packages/smmap/mman.py",
+    "Lib/site-packages/smmap/test/__init__.py",
+    "Lib/site-packages/smmap/test/lib.py",
+    "Lib/site-packages/smmap/test/test_buf.py",
+    "Lib/site-packages/smmap/test/test_mman.py",
+    "Lib/site-packages/smmap/test/test_tutorial.py",
+    "Lib/site-packages/smmap/test/test_util.py",
+    "Lib/site-packages/smmap/util.py",
+    "Lib/site-packages/smmap/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/smmap/__pycache__/buf.cpython-313.pyc",
+    "Lib/site-packages/smmap/__pycache__/mman.cpython-313.pyc",
+    "Lib/site-packages/smmap/test/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/smmap/test/__pycache__/lib.cpython-313.pyc",
+    "Lib/site-packages/smmap/test/__pycache__/test_buf.cpython-313.pyc",
+    "Lib/site-packages/smmap/test/__pycache__/test_mman.cpython-313.pyc",
+    "Lib/site-packages/smmap/test/__pycache__/test_tutorial.cpython-313.pyc",
+    "Lib/site-packages/smmap/test/__pycache__/test_util.cpython-313.pyc",
+    "Lib/site-packages/smmap/__pycache__/util.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/smmap/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/__pycache__/buf.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/__pycache__/mman.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/test/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/test/__pycache__/lib.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/test/__pycache__/test_buf.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/test/__pycache__/test_mman.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/test/__pycache__/test_tutorial.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/test/__pycache__/test_util.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/__pycache__/util.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\smmap-4.0.0-pyhd3eb1b0_0",
+    "type": 1
+  }
+}

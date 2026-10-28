@@ -1,0 +1,51 @@
+{
+  "name": "jupyter",
+  "version": "1.1.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "jupyter-1.1.1-py313haa95532_0.conda",
+  "md5": "82bef0cc2e67be78bee4a520f1bd11ab",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jupyter-1.1.1-py313haa95532_0.conda",
+  "sha256": "88dd38bc2be1ba0258ab80d2d6cdab6ae99253e0faf103a291b1cdc8dc2b0cd0",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "ipykernel",
+    "ipywidgets",
+    "jupyter_console",
+    "jupyterlab",
+    "nbconvert",
+    "notebook",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "qtconsole"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1742595018000,
+  "size": 9096,
+  "requested_spec": "pkgs/main/win-64::jupyter==1.1.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jupyter-1.1.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jupyter-1.1.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/jupyter-1.1.1.dist-info/INSTALLER",
+    "Lib/site-packages/jupyter-1.1.1.dist-info/LICENSE",
+    "Lib/site-packages/jupyter-1.1.1.dist-info/METADATA",
+    "Lib/site-packages/jupyter-1.1.1.dist-info/RECORD",
+    "Lib/site-packages/jupyter-1.1.1.dist-info/REQUESTED",
+    "Lib/site-packages/jupyter-1.1.1.dist-info/WHEEL",
+    "Lib/site-packages/jupyter-1.1.1.dist-info/direct_url.json",
+    "Lib/site-packages/jupyter-1.1.1.dist-info/top_level.txt"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jupyter-1.1.1-py313haa95532_0",
+    "type": 1
+  }
+}

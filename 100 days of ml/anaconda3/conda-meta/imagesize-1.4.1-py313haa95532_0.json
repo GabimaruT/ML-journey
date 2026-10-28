@@ -1,0 +1,48 @@
+{
+  "name": "imagesize",
+  "version": "1.4.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "imagesize-1.4.1-py313haa95532_0.conda",
+  "md5": "ad355310575235d79570bab544043b12",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/imagesize-1.4.1-py313haa95532_0.conda",
+  "sha256": "f7f0bab1b223415ae3ad0648115254b3d1d144ae3bb9f5503fa4045f820a39f1",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1729042643000,
+  "size": 17974,
+  "requested_spec": "pkgs/main/win-64::imagesize==1.4.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\imagesize-1.4.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\imagesize-1.4.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/imagesize-1.4.1.dist-info/INSTALLER",
+    "Lib/site-packages/imagesize-1.4.1.dist-info/LICENSE.rst",
+    "Lib/site-packages/imagesize-1.4.1.dist-info/METADATA",
+    "Lib/site-packages/imagesize-1.4.1.dist-info/RECORD",
+    "Lib/site-packages/imagesize-1.4.1.dist-info/REQUESTED",
+    "Lib/site-packages/imagesize-1.4.1.dist-info/WHEEL",
+    "Lib/site-packages/imagesize-1.4.1.dist-info/direct_url.json",
+    "Lib/site-packages/imagesize-1.4.1.dist-info/top_level.txt",
+    "Lib/site-packages/imagesize/__init__.py",
+    "Lib/site-packages/imagesize/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/imagesize/__pycache__/imagesize.cpython-313.pyc",
+    "Lib/site-packages/imagesize/imagesize.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\imagesize-1.4.1-py313haa95532_0",
+    "type": 1
+  }
+}

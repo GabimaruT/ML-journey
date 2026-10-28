@@ -1,0 +1,47 @@
+{
+  "name": "async-lru",
+  "version": "2.0.5",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "async-lru-2.0.5-py313haa95532_0.conda",
+  "md5": "fdc9daf8d3738eb6c203026a91fe1a14",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/async-lru-2.0.5-py313haa95532_0.conda",
+  "sha256": "83e3f28f315d0f0fea34e26157b33b8561ce0e2f2ead1dc1e1cd8232eaf3cd7b",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1761121631000,
+  "size": 21536,
+  "requested_spec": "pkgs/main/win-64::async-lru==2.0.5=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\async-lru-2.0.5-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\async-lru-2.0.5-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/async_lru-2.0.5.dist-info/INSTALLER",
+    "Lib/site-packages/async_lru-2.0.5.dist-info/METADATA",
+    "Lib/site-packages/async_lru-2.0.5.dist-info/RECORD",
+    "Lib/site-packages/async_lru-2.0.5.dist-info/REQUESTED",
+    "Lib/site-packages/async_lru-2.0.5.dist-info/WHEEL",
+    "Lib/site-packages/async_lru-2.0.5.dist-info/direct_url.json",
+    "Lib/site-packages/async_lru-2.0.5.dist-info/licenses/LICENSE",
+    "Lib/site-packages/async_lru-2.0.5.dist-info/top_level.txt",
+    "Lib/site-packages/async_lru/__init__.py",
+    "Lib/site-packages/async_lru/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/async_lru/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\async-lru-2.0.5-py313haa95532_0",
+    "type": 1
+  }
+}

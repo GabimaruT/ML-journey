@@ -1,0 +1,56 @@
+{
+  "name": "dav1d",
+  "version": "1.2.1",
+  "build": "h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "dav1d-1.2.1-h2bbff1b_0.conda",
+  "md5": "f6cf60da7a4df5f9b63d427ebca8bd39",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/dav1d-1.2.1-h2bbff1b_0.conda",
+  "sha256": "94fd837983f2c15f537659f213c8b09db109645d4cfff214e044e9d32e5eff10",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "timestamp": 1688746263000,
+  "size": 688142,
+  "requested_spec": "pkgs/main/win-64::dav1d==1.2.1=h2bbff1b_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\dav1d-1.2.1-h2bbff1b_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\dav1d-1.2.1-h2bbff1b_0",
+  "files": [
+    "Library/bin/dav1d.dll",
+    "Library/bin/dav1d.exe",
+    "Library/include/dav1d/common.h",
+    "Library/include/dav1d/data.h",
+    "Library/include/dav1d/dav1d.h",
+    "Library/include/dav1d/headers.h",
+    "Library/include/dav1d/picture.h",
+    "Library/include/dav1d/version.h",
+    "Library/lib/dav1d.lib",
+    "Library/lib/pkgconfig/dav1d.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/dav1d.pc",
+        "prefix_placeholder": "C:/b/abs_54w9rdmr8o/croot/dav1d_1688746015517/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "8d254591808467c4f6683650d61ad1f158c3131dae0e791ec3791c77ec7cefa8",
+        "size_in_bytes": 242,
+        "sha256_in_prefix": "8e5732216e93509b81befc065265d5812abbac01b3188f66e6dc91d8cbfef3bc"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\dav1d-1.2.1-h2bbff1b_0",
+    "type": 1
+  }
+}

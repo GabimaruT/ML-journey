@@ -1,0 +1,72 @@
+{
+  "name": "jmespath",
+  "version": "1.0.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "jmespath-1.0.1-py313haa95532_0.conda",
+  "md5": "22c21274dc5eb9a9818eb64eb1cb6432",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jmespath-1.0.1-py313haa95532_0.conda",
+  "sha256": "118e842d45dc47aee18ea6261a38280ada26e9f6c04a6814c88eb633fabb016d",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1729040964000,
+  "size": 51223,
+  "requested_spec": "pkgs/main/win-64::jmespath==1.0.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jmespath-1.0.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jmespath-1.0.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/jmespath-1.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/LICENSE.txt",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/METADATA",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/RECORD",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/REQUESTED",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/WHEEL",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/direct_url.json",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/top_level.txt",
+    "Lib/site-packages/jmespath/__init__.py",
+    "Lib/site-packages/jmespath/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/jmespath/__pycache__/ast.cpython-313.pyc",
+    "Lib/site-packages/jmespath/__pycache__/compat.cpython-313.pyc",
+    "Lib/site-packages/jmespath/__pycache__/exceptions.cpython-313.pyc",
+    "Lib/site-packages/jmespath/__pycache__/functions.cpython-313.pyc",
+    "Lib/site-packages/jmespath/__pycache__/lexer.cpython-313.pyc",
+    "Lib/site-packages/jmespath/__pycache__/parser.cpython-313.pyc",
+    "Lib/site-packages/jmespath/__pycache__/visitor.cpython-313.pyc",
+    "Lib/site-packages/jmespath/ast.py",
+    "Lib/site-packages/jmespath/compat.py",
+    "Lib/site-packages/jmespath/exceptions.py",
+    "Lib/site-packages/jmespath/functions.py",
+    "Lib/site-packages/jmespath/lexer.py",
+    "Lib/site-packages/jmespath/parser.py",
+    "Lib/site-packages/jmespath/visitor.py",
+    "Scripts/__pycache__/jp.cpython-313.pyc",
+    "Scripts/jp.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Scripts/jp.py",
+        "prefix_placeholder": "C:\\Users\\dev-admin\\perseverance-python-buildout\\croot\\jmespath_1729040936778\\_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "5074ac4053447732719bd2debf22bea497e42002f38da2621c0e0d39bca75e25",
+        "size_in_bytes": 1827,
+        "sha256_in_prefix": "6de33909acf413b333a3e13d716e8d94241b8af00bc4821f3f19d01fd556f6ab"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jmespath-1.0.1-py313haa95532_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "freeglut",
+  "version": "3.4.0",
+  "build": "h8a1e904_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "freeglut-3.4.0-h8a1e904_1.conda",
+  "md5": "3100f4cc06a79005b9ea5c8816309a98",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/freeglut-3.4.0-h8a1e904_1.conda",
+  "sha256": "26df472d210228171494dc7861f0141075a90f2ec1d9c80688bda04187653e80",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1748935743000,
+  "size": 136781,
+  "requested_spec": "pkgs/main/win-64::freeglut==3.4.0=h8a1e904_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\freeglut-3.4.0-h8a1e904_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\freeglut-3.4.0-h8a1e904_1",
+  "files": [
+    "Library/bin/freeglut.dll",
+    "Library/bin/glut.dll",
+    "Library/include/GL/freeglut.h",
+    "Library/include/GL/freeglut_ext.h",
+    "Library/include/GL/freeglut_std.h",
+    "Library/include/GL/freeglut_ucall.h",
+    "Library/include/GL/glut.h",
+    "Library/lib/cmake/FreeGLUT/FreeGLUTConfig.cmake",
+    "Library/lib/cmake/FreeGLUT/FreeGLUTConfigVersion.cmake",
+    "Library/lib/cmake/FreeGLUT/FreeGLUTTargets-release.cmake",
+    "Library/lib/cmake/FreeGLUT/FreeGLUTTargets.cmake",
+    "Library/lib/freeglut.lib",
+    "Library/lib/glut.lib",
+    "Library/lib/pkgconfig/glut.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/cmake/FreeGLUT/FreeGLUTTargets-release.cmake",
+        "prefix_placeholder": "C:/b/abs_0245e2azjc/croot/freeglut_1748935629570/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "a4b07f36eaed9448a9e9ff6154650f782047d6c0bba0c0ce6bd84bbc15d6fab4",
+        "size_in_bytes": 1010,
+        "sha256_in_prefix": "2f9ce9e88b117c6cbb4a39ee3c2eaf14455e3c95ce7caf50c57d3c513177623d"
+      },
+      {
+        "_path": "Library/lib/cmake/FreeGLUT/FreeGLUTTargets.cmake",
+        "prefix_placeholder": "C:/b/abs_0245e2azjc/croot/freeglut_1748935629570/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "b491e8fdf1f8bf80d11f9592ca5b3f7e477d855d4244ddef2186e5e057093d20",
+        "size_in_bytes": 4042,
+        "sha256_in_prefix": "65b47a5294b5da3ae6c0e937e8d010f4dc2770fac9b6cf55ca753b90153ab21b"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/glut.pc",
+        "prefix_placeholder": "C:/b/abs_0245e2azjc/croot/freeglut_1748935629570/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "1f39c8810e912de86bfeb21b2b4171c66c2f1019d234da68ae1c4898b80fc1d0",
+        "size_in_bytes": 379,
+        "sha256_in_prefix": "478049c78db4da1159ec09344d8ded63a4ea83ca4ed598df5896a10d8d6ba8f3"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\freeglut-3.4.0-h8a1e904_1",
+    "type": 1
+  }
+}

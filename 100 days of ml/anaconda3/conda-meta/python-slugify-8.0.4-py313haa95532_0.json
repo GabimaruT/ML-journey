@@ -1,0 +1,61 @@
+{
+  "name": "python-slugify",
+  "version": "8.0.4",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "python-slugify-8.0.4-py313haa95532_0.conda",
+  "md5": "ed08b855555153fcabeff4c27ac7f6c3",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/python-slugify-8.0.4-py313haa95532_0.conda",
+  "sha256": "169284020fbba1cb03bf7fde53e77ba635c6bf6656aa7cc2cf3e04611d11f809",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "text-unidecode >=1.3"
+  ],
+  "constrains": [
+    "unidecode >=1.1.1"
+  ],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1756292636000,
+  "size": 52133,
+  "requested_spec": "pkgs/main/win-64::python-slugify==8.0.4=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-slugify-8.0.4-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-slugify-8.0.4-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/python_slugify-8.0.4.dist-info/INSTALLER",
+    "Lib/site-packages/python_slugify-8.0.4.dist-info/METADATA",
+    "Lib/site-packages/python_slugify-8.0.4.dist-info/RECORD",
+    "Lib/site-packages/python_slugify-8.0.4.dist-info/REQUESTED",
+    "Lib/site-packages/python_slugify-8.0.4.dist-info/WHEEL",
+    "Lib/site-packages/python_slugify-8.0.4.dist-info/direct_url.json",
+    "Lib/site-packages/python_slugify-8.0.4.dist-info/entry_points.txt",
+    "Lib/site-packages/python_slugify-8.0.4.dist-info/licenses/LICENSE",
+    "Lib/site-packages/python_slugify-8.0.4.dist-info/top_level.txt",
+    "Lib/site-packages/slugify/__init__.py",
+    "Lib/site-packages/slugify/__main__.py",
+    "Lib/site-packages/slugify/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/slugify/__pycache__/__main__.cpython-313.pyc",
+    "Lib/site-packages/slugify/__pycache__/__version__.cpython-313.pyc",
+    "Lib/site-packages/slugify/__pycache__/slugify.cpython-313.pyc",
+    "Lib/site-packages/slugify/__pycache__/special.cpython-313.pyc",
+    "Lib/site-packages/slugify/__version__.py",
+    "Lib/site-packages/slugify/py.typed",
+    "Lib/site-packages/slugify/slugify.py",
+    "Lib/site-packages/slugify/special.py",
+    "Scripts/slugify-script.py",
+    "Scripts/slugify.exe"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-slugify-8.0.4-py313haa95532_0",
+    "type": 1
+  }
+}

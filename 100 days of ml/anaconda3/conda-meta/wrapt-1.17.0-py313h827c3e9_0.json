@@ -1,0 +1,63 @@
+{
+  "name": "wrapt",
+  "version": "1.17.0",
+  "build": "py313h827c3e9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "wrapt-1.17.0-py313h827c3e9_0.conda",
+  "md5": "280ad1ae053ab8dee8a864e78ddf501d",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/wrapt-1.17.0-py313h827c3e9_0.conda",
+  "sha256": "bb5df055aa57eb6b5f9d90cfe6d13c40c6437f4da0bf3611188e8380cceeab3d",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "timestamp": 1736543533000,
+  "size": 70322,
+  "requested_spec": "pkgs/main/win-64::wrapt==1.17.0=py313h827c3e9_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\wrapt-1.17.0-py313h827c3e9_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\wrapt-1.17.0-py313h827c3e9_0",
+  "files": [
+    "Lib/site-packages/wrapt-1.17.0.dist-info/INSTALLER",
+    "Lib/site-packages/wrapt-1.17.0.dist-info/LICENSE",
+    "Lib/site-packages/wrapt-1.17.0.dist-info/METADATA",
+    "Lib/site-packages/wrapt-1.17.0.dist-info/RECORD",
+    "Lib/site-packages/wrapt-1.17.0.dist-info/REQUESTED",
+    "Lib/site-packages/wrapt-1.17.0.dist-info/WHEEL",
+    "Lib/site-packages/wrapt-1.17.0.dist-info/direct_url.json",
+    "Lib/site-packages/wrapt-1.17.0.dist-info/top_level.txt",
+    "Lib/site-packages/wrapt/__init__.py",
+    "Lib/site-packages/wrapt/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/wrapt/__pycache__/__wrapt__.cpython-313.pyc",
+    "Lib/site-packages/wrapt/__pycache__/arguments.cpython-313.pyc",
+    "Lib/site-packages/wrapt/__pycache__/decorators.cpython-313.pyc",
+    "Lib/site-packages/wrapt/__pycache__/importer.cpython-313.pyc",
+    "Lib/site-packages/wrapt/__pycache__/patches.cpython-313.pyc",
+    "Lib/site-packages/wrapt/__pycache__/weakrefs.cpython-313.pyc",
+    "Lib/site-packages/wrapt/__pycache__/wrappers.cpython-313.pyc",
+    "Lib/site-packages/wrapt/__wrapt__.py",
+    "Lib/site-packages/wrapt/_wrappers.cp313-win_amd64.pyd",
+    "Lib/site-packages/wrapt/arguments.py",
+    "Lib/site-packages/wrapt/decorators.py",
+    "Lib/site-packages/wrapt/importer.py",
+    "Lib/site-packages/wrapt/patches.py",
+    "Lib/site-packages/wrapt/weakrefs.py",
+    "Lib/site-packages/wrapt/wrappers.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\wrapt-1.17.0-py313h827c3e9_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "c-blosc2",
+  "version": "2.17.1",
+  "build": "h0eb4811_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "c-blosc2-2.17.1-h0eb4811_0.conda",
+  "md5": "dd24e3a8d424d67694fb311deeeb20ab",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/c-blosc2-2.17.1-h0eb4811_0.conda",
+  "sha256": "0ab3956c0f460282529cbcf3a42a680281aad44cf93f3ce23034d5d6b6c04b5e",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "lz4-c >=1.9.4,<1.10.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0",
+    "zlib-ng >=2.0.7,<2.1.0a0",
+    "zstd >=1.5.6,<1.6.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1748443563000,
+  "size": 249318,
+  "requested_spec": "pkgs/main/win-64::c-blosc2==2.17.1=h0eb4811_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\c-blosc2-2.17.1-h0eb4811_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\c-blosc2-2.17.1-h0eb4811_0",
+  "files": [
+    "Library/bin/libblosc2.dll",
+    "Library/cmake/Blosc2Config.cmake",
+    "Library/cmake/Blosc2ConfigVersion.cmake",
+    "Library/cmake/Blosc2Targets-release.cmake",
+    "Library/cmake/Blosc2Targets.cmake",
+    "Library/cmake/Modules/FindIPP.cmake",
+    "Library/cmake/Modules/FindLZ4.cmake",
+    "Library/cmake/Modules/FindSIMD.cmake",
+    "Library/cmake/Modules/FindZLIB_NG.cmake",
+    "Library/cmake/Modules/FindZSTD.cmake",
+    "Library/cmake/Modules/toolchain-aarch64.cmake",
+    "Library/cmake/Modules/toolchain-armhf.cmake",
+    "Library/cmake/Modules/toolchain-armsf.cmake",
+    "Library/include/b2nd.h",
+    "Library/include/blosc2.h",
+    "Library/include/blosc2/blosc2-common.h",
+    "Library/include/blosc2/blosc2-export.h",
+    "Library/include/blosc2/blosc2-stdio.h",
+    "Library/include/blosc2/codecs-registry.h",
+    "Library/include/blosc2/filters-registry.h",
+    "Library/include/blosc2/tuners-registry.h",
+    "Library/lib/blosc2.lib",
+    "Library/lib/pkgconfig/blosc2.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/cmake/Blosc2Targets.cmake",
+        "prefix_placeholder": "C:/b/abs_e4mnkv8pu6/croot/c-blosc2_1748442019401/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "a04c9a87de90a213e5dbf32c2540b57786683c8ecefaf292e4bbbc72952a2e64",
+        "size_in_bytes": 4727,
+        "sha256_in_prefix": "ecafb8fd1a813b0ffae72e98bd85c28bcb8f7cfe558ddf010df32f3d67729d92"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/blosc2.pc",
+        "prefix_placeholder": "C:/b/abs_e4mnkv8pu6/croot/c-blosc2_1748442019401/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "2ac00227f26612225869b8bd9c639c83d6f30c5163ee12d1e5a169fab3a087e9",
+        "size_in_bytes": 387,
+        "sha256_in_prefix": "5d0a3a9fef7dc8bab991ca2e7118d2e65ff55f59d399dcd9ce57ba6da50d140f"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\c-blosc2-2.17.1-h0eb4811_0",
+    "type": 1
+  }
+}

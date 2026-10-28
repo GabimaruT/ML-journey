@@ -1,0 +1,58 @@
+{
+  "name": "itemadapter",
+  "version": "0.12.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "itemadapter-0.12.1-py313haa95532_0.conda",
+  "md5": "f2b79575c368e7227a94969be8773cae",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/itemadapter-0.12.1-py313haa95532_0.conda",
+  "sha256": "1127f461732f903fab4e97291a5a312bc90307b613d8b99ef27db40128c2b41d",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [
+    "attrs >=20.1.0",
+    "scrapy >=2.2",
+    "pydantic >=1.8"
+  ],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1756733284000,
+  "size": 57610,
+  "requested_spec": "pkgs/main/win-64::itemadapter==0.12.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\itemadapter-0.12.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\itemadapter-0.12.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/itemadapter-0.12.1.dist-info/INSTALLER",
+    "Lib/site-packages/itemadapter-0.12.1.dist-info/METADATA",
+    "Lib/site-packages/itemadapter-0.12.1.dist-info/RECORD",
+    "Lib/site-packages/itemadapter-0.12.1.dist-info/REQUESTED",
+    "Lib/site-packages/itemadapter-0.12.1.dist-info/WHEEL",
+    "Lib/site-packages/itemadapter-0.12.1.dist-info/direct_url.json",
+    "Lib/site-packages/itemadapter-0.12.1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/itemadapter/__init__.py",
+    "Lib/site-packages/itemadapter/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/itemadapter/__pycache__/_imports.cpython-313.pyc",
+    "Lib/site-packages/itemadapter/__pycache__/_json_schema.cpython-313.pyc",
+    "Lib/site-packages/itemadapter/__pycache__/adapter.cpython-313.pyc",
+    "Lib/site-packages/itemadapter/__pycache__/utils.cpython-313.pyc",
+    "Lib/site-packages/itemadapter/_imports.py",
+    "Lib/site-packages/itemadapter/_json_schema.py",
+    "Lib/site-packages/itemadapter/adapter.py",
+    "Lib/site-packages/itemadapter/py.typed",
+    "Lib/site-packages/itemadapter/utils.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\itemadapter-0.12.1-py313haa95532_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "blosc",
+  "version": "1.21.6",
+  "build": "h4190f5b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "blosc-1.21.6-h4190f5b_0.conda",
+  "md5": "fb9fe3b6572aa147c65129d4b93aae3d",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/blosc-1.21.6-h4190f5b_0.conda",
+  "sha256": "190615ef25b2c7d3ce79ba6a9c147298785d8f47ae41dc24e5c775ffefcd8194",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "lz4-c >=1.9.4,<1.10.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133",
+    "zlib >=1.2.12,<2.0.0a0",
+    "zstd >=1.5.2,<1.6.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1753363330000,
+  "size": 102862,
+  "requested_spec": "pkgs/main/win-64::blosc==1.21.6=h4190f5b_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\blosc-1.21.6-h4190f5b_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\blosc-1.21.6-h4190f5b_0",
+  "files": [
+    "Library/bin/blosc.dll",
+    "Library/include/blosc-export.h",
+    "Library/include/blosc.h",
+    "Library/lib/blosc.lib",
+    "Library/lib/libblosc.lib",
+    "Library/lib/pkgconfig/blosc.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/blosc.pc",
+        "prefix_placeholder": "C:/b/abs_7ek7_w4kbf/croot/blosc_1753363125705/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "78c7b033c75012b6d1e48211277427963a4d1ecf3911f11f9b40ce7297552eb9",
+        "size_in_bytes": 382,
+        "sha256_in_prefix": "cd41f8f984d7d2fa1c11254cde06149bbbc551d030904131207b92179549a386"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\blosc-1.21.6-h4190f5b_0",
+    "type": 1
+  }
+}

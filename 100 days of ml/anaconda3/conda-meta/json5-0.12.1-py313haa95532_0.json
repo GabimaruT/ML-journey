@@ -1,0 +1,62 @@
+{
+  "name": "json5",
+  "version": "0.12.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "json5-0.12.1-py313haa95532_0.conda",
+  "md5": "4314ce79c7304a130c3f01bc3f3b3496",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/json5-0.12.1-py313haa95532_0.conda",
+  "sha256": "175c592d3d0f3b66275de6da4afff05801e683c5bf7b6f3e323ab62112549152",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "timestamp": 1763718645000,
+  "size": 95589,
+  "requested_spec": "pkgs/main/win-64::json5==0.12.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\json5-0.12.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\json5-0.12.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/json5-0.12.1.dist-info/INSTALLER",
+    "Lib/site-packages/json5-0.12.1.dist-info/METADATA",
+    "Lib/site-packages/json5-0.12.1.dist-info/RECORD",
+    "Lib/site-packages/json5-0.12.1.dist-info/REQUESTED",
+    "Lib/site-packages/json5-0.12.1.dist-info/WHEEL",
+    "Lib/site-packages/json5-0.12.1.dist-info/direct_url.json",
+    "Lib/site-packages/json5-0.12.1.dist-info/entry_points.txt",
+    "Lib/site-packages/json5-0.12.1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/json5-0.12.1.dist-info/top_level.txt",
+    "Lib/site-packages/json5/__init__.py",
+    "Lib/site-packages/json5/__main__.py",
+    "Lib/site-packages/json5/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/json5/__pycache__/__main__.cpython-313.pyc",
+    "Lib/site-packages/json5/__pycache__/host.cpython-313.pyc",
+    "Lib/site-packages/json5/__pycache__/lib.cpython-313.pyc",
+    "Lib/site-packages/json5/__pycache__/parser.cpython-313.pyc",
+    "Lib/site-packages/json5/__pycache__/tool.cpython-313.pyc",
+    "Lib/site-packages/json5/__pycache__/version.cpython-313.pyc",
+    "Lib/site-packages/json5/host.py",
+    "Lib/site-packages/json5/lib.py",
+    "Lib/site-packages/json5/parser.py",
+    "Lib/site-packages/json5/py.typed",
+    "Lib/site-packages/json5/tool.py",
+    "Lib/site-packages/json5/version.py",
+    "Scripts/pyjson5-script.py",
+    "Scripts/pyjson5.exe"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\json5-0.12.1-py313haa95532_0",
+    "type": 1
+  }
+}

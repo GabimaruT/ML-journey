@@ -1,0 +1,50 @@
+{
+  "name": "dask",
+  "version": "2025.11.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "dask-2025.11.0-py313haa95532_0.conda",
+  "md5": "6cfacc4a42ae776a38b118e91760deb5",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/dask-2025.11.0-py313haa95532_0.conda",
+  "sha256": "1ac3f90009b853622fb9b373ee247ec417fa8b6b2110b64017053fc47cf28ad3",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "bokeh >=3.1.0",
+    "click >=8.1",
+    "cloudpickle >=3.0.0",
+    "dask-core 2025.11.0",
+    "distributed 2025.11.0",
+    "fsspec >=2021.09.0",
+    "jinja2 >=2.10.3",
+    "lz4 >=4.3.2",
+    "numpy >=1.24",
+    "packaging >=20.0",
+    "pandas >=2.0",
+    "partd >=1.4.0",
+    "pyarrow >=14.0.1",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "pyyaml >=5.3.1",
+    "toolz >=0.10.0"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1763379020000,
+  "size": 9362,
+  "requested_spec": "pkgs/main/win-64::dask==2025.11.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\dask-2025.11.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\dask-2025.11.0-py313haa95532_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\dask-2025.11.0-py313haa95532_0",
+    "type": 1
+  }
+}

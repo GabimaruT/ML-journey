@@ -1,0 +1,48 @@
+{
+  "name": "atomicwrites",
+  "version": "1.4.0",
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "atomicwrites-1.4.0-py_0.conda",
+  "md5": "7035266b832ca44ca8655ced0a397eaa",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/atomicwrites-1.4.0-py_0.conda",
+  "sha256": "2b5880858432d26e01670edc092cc54597612f59ff52ff4e3110dfea74a8fcbe",
+  "depends": [
+    "python"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "MIT",
+  "license_family": "MIT",
+  "package_type": "noarch_python",
+  "timestamp": 1588612944000,
+  "size": 11675,
+  "requested_spec": "pkgs/main/noarch::atomicwrites==1.4.0=py_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\atomicwrites-1.4.0-py_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\atomicwrites-1.4.0-py_0",
+  "files": [
+    "Lib/site-packages/atomicwrites-1.4.0.dist-info/INSTALLER",
+    "Lib/site-packages/atomicwrites-1.4.0.dist-info/LICENSE",
+    "Lib/site-packages/atomicwrites-1.4.0.dist-info/METADATA",
+    "Lib/site-packages/atomicwrites-1.4.0.dist-info/RECORD",
+    "Lib/site-packages/atomicwrites-1.4.0.dist-info/WHEEL",
+    "Lib/site-packages/atomicwrites-1.4.0.dist-info/top_level.txt",
+    "Lib/site-packages/atomicwrites/__init__.py",
+    "Lib/site-packages/atomicwrites/__pycache__/__init__.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/atomicwrites/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\atomicwrites-1.4.0-py_0",
+    "type": 1
+  }
+}

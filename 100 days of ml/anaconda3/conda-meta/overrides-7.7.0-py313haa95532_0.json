@@ -1,0 +1,57 @@
+{
+  "name": "overrides",
+  "version": "7.7.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "overrides-7.7.0-py313haa95532_0.conda",
+  "md5": "e5fb9f8b29d2adba513cfdcaeba63565",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/overrides-7.7.0-py313haa95532_0.conda",
+  "sha256": "a77e9a970178ea3c1288abe46eed5f4f62538c58d893e49907230bde1697260a",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "timestamp": 1762349146000,
+  "size": 43651,
+  "requested_spec": "pkgs/main/win-64::overrides==7.7.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\overrides-7.7.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\overrides-7.7.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/overrides-7.7.0.dist-info/INSTALLER",
+    "Lib/site-packages/overrides-7.7.0.dist-info/METADATA",
+    "Lib/site-packages/overrides-7.7.0.dist-info/RECORD",
+    "Lib/site-packages/overrides-7.7.0.dist-info/REQUESTED",
+    "Lib/site-packages/overrides-7.7.0.dist-info/WHEEL",
+    "Lib/site-packages/overrides-7.7.0.dist-info/direct_url.json",
+    "Lib/site-packages/overrides-7.7.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/overrides-7.7.0.dist-info/top_level.txt",
+    "Lib/site-packages/overrides/__init__.py",
+    "Lib/site-packages/overrides/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/overrides/__pycache__/enforce.cpython-313.pyc",
+    "Lib/site-packages/overrides/__pycache__/final.cpython-313.pyc",
+    "Lib/site-packages/overrides/__pycache__/overrides.cpython-313.pyc",
+    "Lib/site-packages/overrides/__pycache__/signature.cpython-313.pyc",
+    "Lib/site-packages/overrides/__pycache__/typing_utils.cpython-313.pyc",
+    "Lib/site-packages/overrides/enforce.py",
+    "Lib/site-packages/overrides/final.py",
+    "Lib/site-packages/overrides/overrides.py",
+    "Lib/site-packages/overrides/py.typed",
+    "Lib/site-packages/overrides/signature.py",
+    "Lib/site-packages/overrides/typing_utils.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\overrides-7.7.0-py313haa95532_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "libuv",
+  "version": "1.48.0",
+  "build": "h827c3e9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libuv-1.48.0-h827c3e9_0.conda",
+  "md5": "56f8d1b797f663630b850da6ca0f8b8a",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libuv-1.48.0-h827c3e9_0.conda",
+  "sha256": "add24a7b443acc2fee5bca844effee3139839a556b34900bee1854381a7f4731",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1721057530000,
+  "size": 329934,
+  "requested_spec": "pkgs/main/win-64::libuv==1.48.0=h827c3e9_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libuv-1.48.0-h827c3e9_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libuv-1.48.0-h827c3e9_0",
+  "files": [
+    "Library/bin/uv.dll",
+    "Library/include/uv.h",
+    "Library/include/uv/aix.h",
+    "Library/include/uv/bsd.h",
+    "Library/include/uv/darwin.h",
+    "Library/include/uv/errno.h",
+    "Library/include/uv/linux.h",
+    "Library/include/uv/os390.h",
+    "Library/include/uv/posix.h",
+    "Library/include/uv/sunos.h",
+    "Library/include/uv/threadpool.h",
+    "Library/include/uv/tree.h",
+    "Library/include/uv/unix.h",
+    "Library/include/uv/version.h",
+    "Library/include/uv/win.h",
+    "Library/lib/cmake/libuv/libuvConfig-release.cmake",
+    "Library/lib/cmake/libuv/libuvConfig.cmake",
+    "Library/lib/libuv.lib",
+    "Library/lib/pkgconfig/libuv-static.pc",
+    "Library/lib/pkgconfig/libuv.pc",
+    "Library/lib/uv.lib",
+    "Library/share/doc/libuv/LICENSE",
+    "Library/share/doc/libuv/LICENSE-extra"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/libuv-static.pc",
+        "prefix_placeholder": "C:/b/abs_00dnesepg3/croot/libuv_1721057379960/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "a07d6f48ceaa04b0989af82a3a7a1488371d8a2f2b0cf5915f13c6ac0cdd2b85",
+        "size_in_bytes": 531,
+        "sha256_in_prefix": "4e838127be0686d1fa40147bbf1686ee4aa7b37648bc6beffe5442bcea946080"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libuv.pc",
+        "prefix_placeholder": "C:/b/abs_00dnesepg3/croot/libuv_1721057379960/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "7dec6b7ed61038c011b28a219c9e68ee8d3188ba2696ed4c38468d80208dfe9f",
+        "size_in_bytes": 641,
+        "sha256_in_prefix": "15d99525f428f39a551285c883fd1956a2d24ded188b92ebd5975032bacdb50e"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libuv-1.48.0-h827c3e9_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "libpng",
+  "version": "1.6.50",
+  "build": "h46444df_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libpng-1.6.50-h46444df_0.conda",
+  "md5": "bbd0c7d1b5101195401b86f5d3ff80cc",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libpng-1.6.50-h46444df_0.conda",
+  "sha256": "9fece7424bac5a1187d3eda761cce53c36b0959237c383cf1b01cfc9a62c176a",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133",
+    "zlib >=1.2.13,<2.0a0"
+  ],
+  "constrains": [],
+  "license": "Zlib",
+  "license_family": "Other",
+  "timestamp": 1761139979000,
+  "size": 243070,
+  "requested_spec": "pkgs/main/win-64::libpng==1.6.50=h46444df_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libpng-1.6.50-h46444df_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libpng-1.6.50-h46444df_0",
+  "files": [
+    "Library/bin/libpng16.dll",
+    "Library/bin/png-fix-itxt.exe",
+    "Library/bin/pngfix.exe",
+    "Library/include/libpng16/png.h",
+    "Library/include/libpng16/pngconf.h",
+    "Library/include/libpng16/pnglibconf.h",
+    "Library/include/png.h",
+    "Library/include/pngconf.h",
+    "Library/include/pnglibconf.h",
+    "Library/lib/cmake/PNG/PNGConfig.cmake",
+    "Library/lib/cmake/PNG/PNGConfigVersion.cmake",
+    "Library/lib/cmake/PNG/PNGTargets-release.cmake",
+    "Library/lib/cmake/PNG/PNGTargets.cmake",
+    "Library/lib/libpng.lib",
+    "Library/lib/libpng/libpng16-release.cmake",
+    "Library/lib/libpng/libpng16.cmake",
+    "Library/lib/libpng16.lib",
+    "Library/lib/pkgconfig/libpng.pc",
+    "Library/lib/pkgconfig/libpng16.pc",
+    "Library/lib/png16.lib",
+    "Library/share/man/man3/libpng.3",
+    "Library/share/man/man3/libpngpf.3",
+    "Library/share/man/man5/png.5"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/libpng.pc",
+        "prefix_placeholder": "C:/miniconda3/conda-bld/libpng_1761139818007/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "9014b00f5430a7ee7972915bd9b333c7aacb86036da13dd0367b3a0e883500ff",
+        "size_in_bytes": 470,
+        "sha256_in_prefix": "d8d7b236fffc44e4b094b50749941daf3842651f551080b1d33b62fe19570229"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libpng16.pc",
+        "prefix_placeholder": "C:/miniconda3/conda-bld/libpng_1761139818007/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "9014b00f5430a7ee7972915bd9b333c7aacb86036da13dd0367b3a0e883500ff",
+        "size_in_bytes": 470,
+        "sha256_in_prefix": "d8d7b236fffc44e4b094b50749941daf3842651f551080b1d33b62fe19570229"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libpng-1.6.50-h46444df_0",
+    "type": 1
+  }
+}

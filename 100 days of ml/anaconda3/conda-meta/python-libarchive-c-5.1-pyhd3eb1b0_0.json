@@ -1,0 +1,93 @@
+{
+  "name": "python-libarchive-c",
+  "version": "5.1",
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "python-libarchive-c-5.1-pyhd3eb1b0_0.conda",
+  "md5": "7952606fde014b712cc9ff33622921bf",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/python-libarchive-c-5.1-pyhd3eb1b0_0.conda",
+  "sha256": "3b0dcc31171a7a2eed3440228ad9e8b44f6b3a63bcfeb4507f5928c24db5355f",
+  "depends": [
+    "libarchive",
+    "python"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "CC0-1.0",
+  "license_family": "CC",
+  "package_type": "noarch_python",
+  "timestamp": 1726069825000,
+  "size": 50783,
+  "requested_spec": "pkgs/main/noarch::python-libarchive-c==5.1=pyhd3eb1b0_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-libarchive-c-5.1-pyhd3eb1b0_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-libarchive-c-5.1-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/libarchive/__init__.py",
+    "Lib/site-packages/libarchive/entry.py",
+    "Lib/site-packages/libarchive/exception.py",
+    "Lib/site-packages/libarchive/extract.py",
+    "Lib/site-packages/libarchive/ffi.py",
+    "Lib/site-packages/libarchive/flags.py",
+    "Lib/site-packages/libarchive/read.py",
+    "Lib/site-packages/libarchive/write.py",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/INSTALLER",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/LICENSE.md",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/METADATA",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/RECORD",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/REQUESTED",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/WHEEL",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/direct_url.json",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/top_level.txt",
+    "Lib/site-packages/libarchive/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/libarchive/__pycache__/entry.cpython-313.pyc",
+    "Lib/site-packages/libarchive/__pycache__/exception.cpython-313.pyc",
+    "Lib/site-packages/libarchive/__pycache__/extract.cpython-313.pyc",
+    "Lib/site-packages/libarchive/__pycache__/ffi.cpython-313.pyc",
+    "Lib/site-packages/libarchive/__pycache__/flags.cpython-313.pyc",
+    "Lib/site-packages/libarchive/__pycache__/read.cpython-313.pyc",
+    "Lib/site-packages/libarchive/__pycache__/write.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/entry.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/exception.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/extract.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/ffi.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/flags.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/read.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/write.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\python-libarchive-c-5.1-pyhd3eb1b0_0",
+    "type": 1
+  }
+}

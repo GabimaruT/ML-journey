@@ -1,0 +1,60 @@
+{
+  "name": "mpfr",
+  "version": "4.2.1",
+  "build": "h56c3642_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "mpfr-4.2.1-h56c3642_0.conda",
+  "md5": "c0c4bf9580e732efa25db624466c1fa9",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/mpfr-4.2.1-h56c3642_0.conda",
+  "sha256": "84dcaa291edcf5738807c40def8af252ab54361802fe198aca3ba2adad543d99",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "gmp >=6.3.0,<7.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "LGPL-3.0-only",
+  "license_family": "LGPL",
+  "timestamp": 1738077478000,
+  "size": 272653,
+  "requested_spec": "pkgs/main/win-64::mpfr==4.2.1=h56c3642_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\mpfr-4.2.1-h56c3642_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\mpfr-4.2.1-h56c3642_0",
+  "files": [
+    "Library/bin/libmpfr-6.dll",
+    "Library/bin/libmpfr.dll",
+    "Library/bin/mpfr.dll",
+    "Library/include/mpfr.h",
+    "Library/lib/cmake/mpfr/MPFRConfig.cmake",
+    "Library/lib/cmake/mpfr/MPFRConfigVersion.cmake",
+    "Library/lib/cmake/mpfr/libmpfr-release.cmake",
+    "Library/lib/cmake/mpfr/libmpfr.cmake",
+    "Library/lib/libmpfr-6.lib",
+    "Library/lib/libmpfr.dll.a",
+    "Library/lib/libmpfr.lib",
+    "Library/lib/mpfr.lib",
+    "Library/lib/pkgconfig/mpfr.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/mpfr.pc",
+        "prefix_placeholder": "C:\\b\\abs_05g455otbb\\croot\\mpfr_1738077327824\\_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "9b7cd885d74393f530a85eb1b9c59ea073824b1e824adc046076d8107dd13a83",
+        "size_in_bytes": 446,
+        "sha256_in_prefix": "fe0f13a84166b47eca1e706ac69db409dd72a28fca311607ac43456060cd51e3"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\mpfr-4.2.1-h56c3642_0",
+    "type": 1
+  }
+}

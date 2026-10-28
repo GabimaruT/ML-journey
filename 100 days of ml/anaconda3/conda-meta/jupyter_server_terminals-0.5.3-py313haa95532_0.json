@@ -1,0 +1,62 @@
+{
+  "name": "jupyter_server_terminals",
+  "version": "0.5.3",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "jupyter_server_terminals-0.5.3-py313haa95532_0.conda",
+  "md5": "1a1666c16271c02875e36dddb471819b",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jupyter_server_terminals-0.5.3-py313haa95532_0.conda",
+  "sha256": "947069cb01bc6e2efefe2383b6710c42d468674609cc56356ff2ae9bc5854d2f",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "pywinpty >=2.0.10",
+    "terminado >=0.8.3"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1744706973000,
+  "size": 29857,
+  "requested_spec": "pkgs/main/win-64::jupyter_server_terminals==0.5.3=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jupyter_server_terminals-0.5.3-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jupyter_server_terminals-0.5.3-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/jupyter_server_terminals-0.5.3.dist-info/INSTALLER",
+    "Lib/site-packages/jupyter_server_terminals-0.5.3.dist-info/METADATA",
+    "Lib/site-packages/jupyter_server_terminals-0.5.3.dist-info/RECORD",
+    "Lib/site-packages/jupyter_server_terminals-0.5.3.dist-info/REQUESTED",
+    "Lib/site-packages/jupyter_server_terminals-0.5.3.dist-info/WHEEL",
+    "Lib/site-packages/jupyter_server_terminals-0.5.3.dist-info/direct_url.json",
+    "Lib/site-packages/jupyter_server_terminals-0.5.3.dist-info/licenses/LICENSE",
+    "Lib/site-packages/jupyter_server_terminals/__init__.py",
+    "Lib/site-packages/jupyter_server_terminals/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/jupyter_server_terminals/__pycache__/_version.cpython-313.pyc",
+    "Lib/site-packages/jupyter_server_terminals/__pycache__/api_handlers.cpython-313.pyc",
+    "Lib/site-packages/jupyter_server_terminals/__pycache__/app.cpython-313.pyc",
+    "Lib/site-packages/jupyter_server_terminals/__pycache__/base.cpython-313.pyc",
+    "Lib/site-packages/jupyter_server_terminals/__pycache__/handlers.cpython-313.pyc",
+    "Lib/site-packages/jupyter_server_terminals/__pycache__/terminalmanager.cpython-313.pyc",
+    "Lib/site-packages/jupyter_server_terminals/_version.py",
+    "Lib/site-packages/jupyter_server_terminals/api_handlers.py",
+    "Lib/site-packages/jupyter_server_terminals/app.py",
+    "Lib/site-packages/jupyter_server_terminals/base.py",
+    "Lib/site-packages/jupyter_server_terminals/handlers.py",
+    "Lib/site-packages/jupyter_server_terminals/py.typed",
+    "Lib/site-packages/jupyter_server_terminals/rest-api.yml",
+    "Lib/site-packages/jupyter_server_terminals/terminalmanager.py",
+    "etc/jupyter/jupyter_server_config.d/jupyter_server_terminals.json"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jupyter_server_terminals-0.5.3-py313haa95532_0",
+    "type": 1
+  }
+}

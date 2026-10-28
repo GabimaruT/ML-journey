@@ -1,0 +1,51 @@
+{
+  "name": "mccabe",
+  "version": "0.7.0",
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "mccabe-0.7.0-pyhd3eb1b0_0.conda",
+  "md5": "ca1f9fc150b211c60e802ed1b12ed43c",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/mccabe-0.7.0-pyhd3eb1b0_0.conda",
+  "sha256": "7e37a7ab797cb74ced1f78fd5feee0f4fcb53b4aa02c4537f948b0328021eec4",
+  "depends": [
+    "python >=3.6"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "MIT",
+  "license_family": "MIT",
+  "package_type": "noarch_python",
+  "timestamp": 1644221782000,
+  "size": 11005,
+  "requested_spec": "pkgs/main/noarch::mccabe==0.7.0=pyhd3eb1b0_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\mccabe-0.7.0-pyhd3eb1b0_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\mccabe-0.7.0-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/mccabe-0.7.0.dist-info/INSTALLER",
+    "Lib/site-packages/mccabe-0.7.0.dist-info/LICENSE",
+    "Lib/site-packages/mccabe-0.7.0.dist-info/METADATA",
+    "Lib/site-packages/mccabe-0.7.0.dist-info/RECORD",
+    "Lib/site-packages/mccabe-0.7.0.dist-info/REQUESTED",
+    "Lib/site-packages/mccabe-0.7.0.dist-info/WHEEL",
+    "Lib/site-packages/mccabe-0.7.0.dist-info/direct_url.json",
+    "Lib/site-packages/mccabe-0.7.0.dist-info/entry_points.txt",
+    "Lib/site-packages/mccabe-0.7.0.dist-info/top_level.txt",
+    "Lib/site-packages/mccabe.py",
+    "Lib/site-packages/__pycache__/mccabe.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/mccabe.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\mccabe-0.7.0-pyhd3eb1b0_0",
+    "type": 1
+  }
+}

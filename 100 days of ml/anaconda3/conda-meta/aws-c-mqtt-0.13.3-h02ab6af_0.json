@@ -1,0 +1,58 @@
+{
+  "name": "aws-c-mqtt",
+  "version": "0.13.3",
+  "build": "h02ab6af_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "aws-c-mqtt-0.13.3-h02ab6af_0.conda",
+  "md5": "23d8c1ce7cf14d01df9931c87c7e4e59",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aws-c-mqtt-0.13.3-h02ab6af_0.conda",
+  "sha256": "f1fc4d830bdf4e095740e771c880afba131583307b46df712e08fae9671f2a5d",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "aws-c-common >=0.12.4,<0.12.5.0a0",
+    "aws-c-http >=0.10.4,<0.10.5.0a0",
+    "aws-c-io >=0.21.4,<0.21.5.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "timestamp": 1756802273000,
+  "size": 220579,
+  "requested_spec": "pkgs/main/win-64::aws-c-mqtt==0.13.3=h02ab6af_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aws-c-mqtt-0.13.3-h02ab6af_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aws-c-mqtt-0.13.3-h02ab6af_0",
+  "files": [
+    "Library/bin/aws-c-mqtt.dll",
+    "Library/bin/elastipubsub.exe",
+    "Library/bin/elastipubsub5.exe",
+    "Library/bin/elastishadow.exe",
+    "Library/bin/mqtt5canary.exe",
+    "Library/include/aws/mqtt/client.h",
+    "Library/include/aws/mqtt/exports.h",
+    "Library/include/aws/mqtt/mqtt.h",
+    "Library/include/aws/mqtt/private/mqtt_client_test_helper.h",
+    "Library/include/aws/mqtt/request-response/request_response_client.h",
+    "Library/include/aws/mqtt/v5/mqtt5_client.h",
+    "Library/include/aws/mqtt/v5/mqtt5_listener.h",
+    "Library/include/aws/mqtt/v5/mqtt5_packet_storage.h",
+    "Library/include/aws/mqtt/v5/mqtt5_types.h",
+    "Library/lib/aws-c-mqtt.lib",
+    "Library/lib/cmake/aws-c-mqtt/aws-c-mqtt-config.cmake",
+    "Library/lib/cmake/aws-c-mqtt/shared/aws-c-mqtt-targets-release.cmake",
+    "Library/lib/cmake/aws-c-mqtt/shared/aws-c-mqtt-targets.cmake"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aws-c-mqtt-0.13.3-h02ab6af_0",
+    "type": 1
+  }
+}

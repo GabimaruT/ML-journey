@@ -1,0 +1,52 @@
+{
+  "name": "bcrypt",
+  "version": "5.0.0",
+  "build": "py313h114bc41_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "bcrypt-5.0.0-py313h114bc41_0.conda",
+  "md5": "4dd18f0534b059f42768a3e662cbff97",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/bcrypt-5.0.0-py313h114bc41_0.conda",
+  "sha256": "13b7650a57f90d2e29869fc2ed1c4180945eda4145cb3061f7f3180666d52262",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "timestamp": 1762875419000,
+  "size": 150713,
+  "requested_spec": "pkgs/main/win-64::bcrypt==5.0.0=py313h114bc41_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\bcrypt-5.0.0-py313h114bc41_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\bcrypt-5.0.0-py313h114bc41_0",
+  "files": [
+    "Lib/site-packages/bcrypt-5.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/bcrypt-5.0.0.dist-info/METADATA",
+    "Lib/site-packages/bcrypt-5.0.0.dist-info/RECORD",
+    "Lib/site-packages/bcrypt-5.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/bcrypt-5.0.0.dist-info/WHEEL",
+    "Lib/site-packages/bcrypt-5.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/bcrypt-5.0.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/bcrypt-5.0.0.dist-info/top_level.txt",
+    "Lib/site-packages/bcrypt/__init__.py",
+    "Lib/site-packages/bcrypt/__init__.pyi",
+    "Lib/site-packages/bcrypt/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/bcrypt/_bcrypt.cp313-win_amd64.pyd",
+    "Lib/site-packages/bcrypt/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\bcrypt-5.0.0-py313h114bc41_0",
+    "type": 1
+  }
+}

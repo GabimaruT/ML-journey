@@ -1,0 +1,38 @@
+{
+  "name": "matplotlib",
+  "version": "3.10.6",
+  "build": "py313haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "matplotlib-3.10.6-py313haa95532_1.conda",
+  "md5": "d9eab8d68a00c017b38540942b6ecf2a",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/matplotlib-3.10.6-py313haa95532_1.conda",
+  "sha256": "d5e24ee423ea70db34531fac12b0887a714718d34175faf8adffbbd5f9e5f13a",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "matplotlib-base >=3.10.6,<3.10.7.0a0",
+    "pyqt >=5",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "tornado >=5"
+  ],
+  "constrains": [],
+  "license": "LicenseRef-PSF-based",
+  "license_family": "PSF",
+  "timestamp": 1762530445000,
+  "size": 6891,
+  "requested_spec": "pkgs/main/win-64::matplotlib==3.10.6=py313haa95532_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\matplotlib-3.10.6-py313haa95532_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\matplotlib-3.10.6-py313haa95532_1",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\matplotlib-3.10.6-py313haa95532_1",
+    "type": 1
+  }
+}

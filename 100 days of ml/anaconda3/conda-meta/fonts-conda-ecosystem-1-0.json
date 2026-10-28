@@ -1,0 +1,33 @@
+{
+  "name": "fonts-conda-ecosystem",
+  "version": "1",
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "noarch",
+  "fn": "fonts-conda-ecosystem-1-0.tar.bz2",
+  "md5": "fee5683a3f04bd15cbd8318b096a27ab",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/fonts-conda-ecosystem-1-0.tar.bz2",
+  "sha256": "a997f2f1921bb9c9d76e6fa2f6b408b7fa549edd349a77639c9fe7a23ea93e61",
+  "depends": [
+    "fonts-conda-forge"
+  ],
+  "constrains": [],
+  "noarch": "generic",
+  "license": "BSD-3-Clause",
+  "package_type": "noarch_generic",
+  "timestamp": 1566974674000,
+  "size": 3667,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\fonts-conda-ecosystem-1-0.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\fonts-conda-ecosystem-1-0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\fonts-conda-ecosystem-1-0",
+    "type": 1
+  }
+}

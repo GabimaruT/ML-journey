@@ -1,0 +1,35 @@
+{
+  "name": "vc",
+  "version": "14.42",
+  "build": "haa95532_5",
+  "build_number": 5,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "vc-14.42-haa95532_5.conda",
+  "md5": "398668823dc0d65fb53f81decb9dee60",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/vc-14.42-haa95532_5.conda",
+  "sha256": "457b5b07b27909a08365c58eec3d1d4febda3fc7a2d8a39bcf8913a90fe42025",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vs2015_runtime >=14.42.34433"
+  ],
+  "constrains": [],
+  "track_features": "vc14",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1744721179000,
+  "size": 11088,
+  "requested_spec": "pkgs/main/win-64::vc==14.42=haa95532_5",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\vc-14.42-haa95532_5.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\vc-14.42-haa95532_5",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\vc-14.42-haa95532_5",
+    "type": 1
+  }
+}

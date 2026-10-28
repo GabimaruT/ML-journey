@@ -1,0 +1,60 @@
+{
+  "name": "stack_data",
+  "version": "0.6.3",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "stack_data-0.6.3-py313haa95532_0.conda",
+  "md5": "c66a520fbff06c35d42c79045d6d091f",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/stack_data-0.6.3-py313haa95532_0.conda",
+  "sha256": "e8d4a151f21d1b3deb21852be4ec375f5f0c4f5c19195bb1010f786e3c6fd5e7",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "asttokens >=2.1.0",
+    "executing >=1.2.0",
+    "pure_eval",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1757067085000,
+  "size": 67186,
+  "requested_spec": "pkgs/main/win-64::stack_data==0.6.3=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\stack_data-0.6.3-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\stack_data-0.6.3-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/stack_data-0.6.3.dist-info/INSTALLER",
+    "Lib/site-packages/stack_data-0.6.3.dist-info/METADATA",
+    "Lib/site-packages/stack_data-0.6.3.dist-info/RECORD",
+    "Lib/site-packages/stack_data-0.6.3.dist-info/REQUESTED",
+    "Lib/site-packages/stack_data-0.6.3.dist-info/WHEEL",
+    "Lib/site-packages/stack_data-0.6.3.dist-info/direct_url.json",
+    "Lib/site-packages/stack_data-0.6.3.dist-info/licenses/LICENSE.txt",
+    "Lib/site-packages/stack_data-0.6.3.dist-info/top_level.txt",
+    "Lib/site-packages/stack_data/__init__.py",
+    "Lib/site-packages/stack_data/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/stack_data/__pycache__/core.cpython-313.pyc",
+    "Lib/site-packages/stack_data/__pycache__/formatting.cpython-313.pyc",
+    "Lib/site-packages/stack_data/__pycache__/serializing.cpython-313.pyc",
+    "Lib/site-packages/stack_data/__pycache__/utils.cpython-313.pyc",
+    "Lib/site-packages/stack_data/__pycache__/version.cpython-313.pyc",
+    "Lib/site-packages/stack_data/core.py",
+    "Lib/site-packages/stack_data/formatting.py",
+    "Lib/site-packages/stack_data/py.typed",
+    "Lib/site-packages/stack_data/serializing.py",
+    "Lib/site-packages/stack_data/utils.py",
+    "Lib/site-packages/stack_data/version.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\stack_data-0.6.3-py313haa95532_0",
+    "type": 1
+  }
+}

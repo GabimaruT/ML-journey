@@ -1,0 +1,60 @@
+{
+  "name": "pywinpty",
+  "version": "2.0.15",
+  "build": "py313h72d21ff_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "pywinpty-2.0.15-py313h72d21ff_0.conda",
+  "md5": "3202081033b68c2147e9ed3273997e09",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pywinpty-2.0.15-py313h72d21ff_0.conda",
+  "sha256": "f5eb11792e61ad4e22009996b90e8ae4076c220efd05b20d7e81e2d9829b13d0",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0",
+    "winpty >=0.4.3,<1.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1741873483000,
+  "size": 239907,
+  "requested_spec": "pkgs/main/win-64::pywinpty==2.0.15=py313h72d21ff_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pywinpty-2.0.15-py313h72d21ff_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pywinpty-2.0.15-py313h72d21ff_0",
+  "files": [
+    "Lib/site-packages/pywinpty-2.0.15.dist-info/INSTALLER",
+    "Lib/site-packages/pywinpty-2.0.15.dist-info/METADATA",
+    "Lib/site-packages/pywinpty-2.0.15.dist-info/RECORD",
+    "Lib/site-packages/pywinpty-2.0.15.dist-info/REQUESTED",
+    "Lib/site-packages/pywinpty-2.0.15.dist-info/WHEEL",
+    "Lib/site-packages/pywinpty-2.0.15.dist-info/direct_url.json",
+    "Lib/site-packages/pywinpty-2.0.15.dist-info/licenses/LICENSE.txt",
+    "Lib/site-packages/winpty/__init__.py",
+    "Lib/site-packages/winpty/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/winpty/__pycache__/enums.cpython-313.pyc",
+    "Lib/site-packages/winpty/__pycache__/ptyprocess.cpython-313.pyc",
+    "Lib/site-packages/winpty/enums.py",
+    "Lib/site-packages/winpty/ptyprocess.py",
+    "Lib/site-packages/winpty/tests/__init__.py",
+    "Lib/site-packages/winpty/tests/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/winpty/tests/__pycache__/test_pty.cpython-313.pyc",
+    "Lib/site-packages/winpty/tests/__pycache__/test_ptyprocess.cpython-313.pyc",
+    "Lib/site-packages/winpty/tests/test_pty.py",
+    "Lib/site-packages/winpty/tests/test_ptyprocess.py",
+    "Lib/site-packages/winpty/winpty.cp313-win_amd64.pyd",
+    "Lib/site-packages/winpty/winpty.pyi"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pywinpty-2.0.15-py313h72d21ff_0",
+    "type": 1
+  }
+}

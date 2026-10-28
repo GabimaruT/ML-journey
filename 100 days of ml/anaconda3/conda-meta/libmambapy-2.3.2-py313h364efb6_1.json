@@ -1,0 +1,63 @@
+{
+  "name": "libmambapy",
+  "version": "2.3.2",
+  "build": "py313h364efb6_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libmambapy-2.3.2-py313h364efb6_1.conda",
+  "md5": "3d64e598adad837e3aa2fbb2ec352298",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libmambapy-2.3.2-py313h364efb6_1.conda",
+  "sha256": "d7f859d0cf60805f7759162ec5fb3faa9fd97f6279e7b596e632e459471c6cec",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "fmt >=11.2.0,<12.0a0",
+    "libmamba 2.3.2 hc213065_1",
+    "pybind11-abi 5",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1763112121000,
+  "size": 454648,
+  "requested_spec": "pkgs/main/win-64::libmambapy==2.3.2=py313h364efb6_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libmambapy-2.3.2-py313h364efb6_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libmambapy-2.3.2-py313h364efb6_1",
+  "files": [
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/INSTALLER",
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/LICENSE",
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/METADATA",
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/RECORD",
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/REQUESTED",
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/WHEEL",
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/direct_url.json",
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/top_level.txt",
+    "Lib/site-packages/libmambapy/__init__.py",
+    "Lib/site-packages/libmambapy/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/libmambapy/__pycache__/specs.cpython-313.pyc",
+    "Lib/site-packages/libmambapy/__pycache__/utils.cpython-313.pyc",
+    "Lib/site-packages/libmambapy/__pycache__/version.cpython-313.pyc",
+    "Lib/site-packages/libmambapy/bindings.cp313-win_amd64.pyd",
+    "Lib/site-packages/libmambapy/solver/__init__.py",
+    "Lib/site-packages/libmambapy/solver/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/libmambapy/solver/__pycache__/libsolv.cpython-313.pyc",
+    "Lib/site-packages/libmambapy/solver/libsolv.py",
+    "Lib/site-packages/libmambapy/specs.py",
+    "Lib/site-packages/libmambapy/utils.py",
+    "Lib/site-packages/libmambapy/version.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libmambapy-2.3.2-py313h364efb6_1",
+    "type": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "service_identity",
+  "version": "24.2.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "service_identity-24.2.0-py313haa95532_0.conda",
+  "md5": "b57a7d79b4ed18ff6ef42ce223d93678",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/service_identity-24.2.0-py313haa95532_0.conda",
+  "sha256": "a607b89606177868b372e4731d57354ca04ca272e9756ec34ae8d8114250c249",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "attrs >=19.1.0",
+    "cryptography",
+    "pyasn1",
+    "pyasn1-modules",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1749715282000,
+  "size": 39371,
+  "requested_spec": "pkgs/main/win-64::service_identity==24.2.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\service_identity-24.2.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\service_identity-24.2.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/service_identity-24.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/service_identity-24.2.0.dist-info/METADATA",
+    "Lib/site-packages/service_identity-24.2.0.dist-info/RECORD",
+    "Lib/site-packages/service_identity-24.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/service_identity-24.2.0.dist-info/WHEEL",
+    "Lib/site-packages/service_identity-24.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/service_identity-24.2.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/service_identity/__init__.py",
+    "Lib/site-packages/service_identity/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/service_identity/__pycache__/cryptography.cpython-313.pyc",
+    "Lib/site-packages/service_identity/__pycache__/exceptions.cpython-313.pyc",
+    "Lib/site-packages/service_identity/__pycache__/hazmat.cpython-313.pyc",
+    "Lib/site-packages/service_identity/__pycache__/pyopenssl.cpython-313.pyc",
+    "Lib/site-packages/service_identity/cryptography.py",
+    "Lib/site-packages/service_identity/exceptions.py",
+    "Lib/site-packages/service_identity/hazmat.py",
+    "Lib/site-packages/service_identity/py.typed",
+    "Lib/site-packages/service_identity/pyopenssl.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\service_identity-24.2.0-py313haa95532_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "numpy",
+  "version": "2.3.5",
+  "build": "py313h050da96_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "numpy-2.3.5-py313h050da96_0.conda",
+  "md5": "25ceaa85e0b325cffa10d480a7a72835",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/numpy-2.3.5-py313h050da96_0.conda",
+  "sha256": "659f513d0a6212f362994df5076dd7e6030069d9dc07dd91cd209598152d272e",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "blas 1.0 mkl",
+    "mkl >=2025.0.0,<2026.0a0",
+    "mkl-service >=2.3.0,<3.0a0",
+    "mkl_fft",
+    "mkl_random",
+    "numpy-base 2.3.5 py313h1e017a8_0",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1763980886000,
+  "size": 10047,
+  "requested_spec": "pkgs/main/win-64::numpy==2.3.5=py313h050da96_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\numpy-2.3.5-py313h050da96_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\numpy-2.3.5-py313h050da96_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\numpy-2.3.5-py313h050da96_0",
+    "type": 1
+  }
+}

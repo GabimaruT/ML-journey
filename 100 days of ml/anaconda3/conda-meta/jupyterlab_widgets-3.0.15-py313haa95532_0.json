@@ -1,0 +1,70 @@
+{
+  "name": "jupyterlab_widgets",
+  "version": "3.0.15",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "jupyterlab_widgets-3.0.15-py313haa95532_0.conda",
+  "md5": "f4fb339bc88a694afdec5e6f68688612",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jupyterlab_widgets-3.0.15-py313haa95532_0.conda",
+  "sha256": "3c1b704f0f686aaca4debb120c124c854b28a9ba97252449538dabe3e351e379",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [
+    "jupyterlab >=3,<5"
+  ],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1752067160000,
+  "size": 203567,
+  "requested_spec": "pkgs/main/win-64::jupyterlab_widgets==3.0.15=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jupyterlab_widgets-3.0.15-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jupyterlab_widgets-3.0.15-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/jupyterlab_widgets-3.0.15.dist-info/INSTALLER",
+    "Lib/site-packages/jupyterlab_widgets-3.0.15.dist-info/METADATA",
+    "Lib/site-packages/jupyterlab_widgets-3.0.15.dist-info/RECORD",
+    "Lib/site-packages/jupyterlab_widgets-3.0.15.dist-info/REQUESTED",
+    "Lib/site-packages/jupyterlab_widgets-3.0.15.dist-info/WHEEL",
+    "Lib/site-packages/jupyterlab_widgets-3.0.15.dist-info/direct_url.json",
+    "Lib/site-packages/jupyterlab_widgets-3.0.15.dist-info/licenses/LICENSE",
+    "Lib/site-packages/jupyterlab_widgets/.gitignore",
+    "Lib/site-packages/jupyterlab_widgets/__init__.py",
+    "Lib/site-packages/jupyterlab_widgets/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/jupyterlab_widgets/__pycache__/_version.cpython-313.pyc",
+    "Lib/site-packages/jupyterlab_widgets/_version.py",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/install.json",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/package.json",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/schemas/@jupyter-widgets/jupyterlab-manager/package.json.orig",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/schemas/@jupyter-widgets/jupyterlab-manager/plugin.json",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/327.d242f1a99504b2d5b629.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/420.23ab95819c045f6c36bc.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/439.b350310d057b43cdd50f.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/439.b350310d057b43cdd50f.js.LICENSE.txt",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/446.f8696ce72124c78273da.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/586.085510630436c2e4273f.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/647.8458d9c331000024a14a.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/651.fe40a967a60b543cf15c.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/651.fe40a967a60b543cf15c.js.LICENSE.txt",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/701.043aefe0b66133629348.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/722.53e4a64671c3c48de007.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/727.b26a6f3871012a0fd66a.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/898.db11fb1a7e18acb58b5b.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/remoteEntry.35b6c65bd99dab37b910.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/style.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/third-party-licenses.json"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jupyterlab_widgets-3.0.15-py313haa95532_0",
+    "type": 1
+  }
+}

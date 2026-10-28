@@ -1,0 +1,68 @@
+{
+  "name": "sortedcontainers",
+  "version": "2.4.0",
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "sortedcontainers-2.4.0-pyhd3eb1b0_0.conda",
+  "md5": "e829a94a9bc0b44c8951a56ec6d0be44",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/sortedcontainers-2.4.0-pyhd3eb1b0_0.conda",
+  "sha256": "2e4890f831fe472d4a8ca752e169f504f0b3ba45936e2a4b0ab40dd85fffd60a",
+  "depends": [
+    "python >=2.7"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "package_type": "noarch_python",
+  "timestamp": 1623949147000,
+  "size": 26444,
+  "requested_spec": "pkgs/main/noarch::sortedcontainers==2.4.0=pyhd3eb1b0_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\sortedcontainers-2.4.0-pyhd3eb1b0_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\sortedcontainers-2.4.0-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/sortedcontainers-2.4.0.dist-info/INSTALLER",
+    "Lib/site-packages/sortedcontainers-2.4.0.dist-info/LICENSE",
+    "Lib/site-packages/sortedcontainers-2.4.0.dist-info/METADATA",
+    "Lib/site-packages/sortedcontainers-2.4.0.dist-info/RECORD",
+    "Lib/site-packages/sortedcontainers-2.4.0.dist-info/REQUESTED",
+    "Lib/site-packages/sortedcontainers-2.4.0.dist-info/WHEEL",
+    "Lib/site-packages/sortedcontainers-2.4.0.dist-info/direct_url.json",
+    "Lib/site-packages/sortedcontainers-2.4.0.dist-info/top_level.txt",
+    "Lib/site-packages/sortedcontainers/__init__.py",
+    "Lib/site-packages/sortedcontainers/sorteddict.py",
+    "Lib/site-packages/sortedcontainers/sortedlist.py",
+    "Lib/site-packages/sortedcontainers/sortedset.py",
+    "Lib/site-packages/sortedcontainers/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/sortedcontainers/__pycache__/sorteddict.cpython-313.pyc",
+    "Lib/site-packages/sortedcontainers/__pycache__/sortedlist.cpython-313.pyc",
+    "Lib/site-packages/sortedcontainers/__pycache__/sortedset.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/sortedcontainers/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sortedcontainers/__pycache__/sorteddict.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sortedcontainers/__pycache__/sortedlist.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sortedcontainers/__pycache__/sortedset.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\sortedcontainers-2.4.0-pyhd3eb1b0_0",
+    "type": 1
+  }
+}

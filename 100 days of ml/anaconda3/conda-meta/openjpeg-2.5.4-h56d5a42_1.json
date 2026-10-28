@@ -1,0 +1,45 @@
+{
+  "name": "openjpeg",
+  "version": "2.5.4",
+  "build": "h56d5a42_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "openjpeg-2.5.4-h56d5a42_1.conda",
+  "md5": "b7e6403c836cb6bd53f6d7b9efe6dbc6",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/openjpeg-2.5.4-h56d5a42_1.conda",
+  "sha256": "d614eaf47bfa9ddc40ae74a37b6208eea2b7261830731c20152b24e1f1c69d37",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "lcms2 >=2.16,<3.0a0",
+    "libopenjpeg 2.5.4 h02ab6af_1",
+    "libpng >=1.6.50,<1.7.0a0",
+    "libtiff >=4.7.0,<5.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133",
+    "zlib >=1.2.13,<2.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "timestamp": 1761733084000,
+  "size": 95127,
+  "requested_spec": "pkgs/main/win-64::openjpeg==2.5.4=h56d5a42_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\openjpeg-2.5.4-h56d5a42_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\openjpeg-2.5.4-h56d5a42_1",
+  "files": [
+    "Library/bin/opj_compress.exe",
+    "Library/bin/opj_decompress.exe",
+    "Library/bin/opj_dump.exe"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\openjpeg-2.5.4-h56d5a42_1",
+    "type": 1
+  }
+}

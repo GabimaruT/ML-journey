@@ -1,0 +1,63 @@
+{
+  "name": "jupyterlab-variableinspector",
+  "version": "3.2.4",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "jupyterlab-variableinspector-3.2.4-py313haa95532_0.conda",
+  "md5": "ccd102046367f32f8c51fd8e2be31ccd",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jupyterlab-variableinspector-3.2.4-py313haa95532_0.conda",
+  "sha256": "7ad4546f16beab2ec81b60e8982c9a683522ea4cbaeaa1da6f9126c18cf0149f",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "jupyterlab >=4.0.0,<5",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1744638895000,
+  "size": 126355,
+  "requested_spec": "pkgs/main/win-64::jupyterlab-variableinspector==3.2.4=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jupyterlab-variableinspector-3.2.4-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jupyterlab-variableinspector-3.2.4-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/lckr_jupyterlab_variableinspector-3.2.4.dist-info/INSTALLER",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector-3.2.4.dist-info/METADATA",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector-3.2.4.dist-info/RECORD",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector-3.2.4.dist-info/REQUESTED",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector-3.2.4.dist-info/WHEEL",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector-3.2.4.dist-info/direct_url.json",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector-3.2.4.dist-info/licenses/LICENSE",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector/__init__.py",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector/__pycache__/_version.cpython-313.pyc",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector/_version.py",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/install.json",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/package.json",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/schemas/@lckr/jupyterlab_variableinspector/jupyterlab-variableInspector-settings.json",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/schemas/@lckr/jupyterlab_variableinspector/package.json.orig",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/377.a6995c94796dd012b2e6.js",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/455.0b2acec0b13b6320f36a.js",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/498.9433196881674d20b32e.js",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/50.8aba103854790d4ac3ef.js",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/590.66f87d59f52e29c76e04.js",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/728.f1a164cd599fe2e035eb.js",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/90.07c408766933e85c9db6.js",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/90.07c408766933e85c9db6.js.LICENSE.txt",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/remoteEntry.f4a64e687ab347206c17.js",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/style.js",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/third-party-licenses.json"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\jupyterlab-variableinspector-3.2.4-py313haa95532_0",
+    "type": 1
+  }
+}

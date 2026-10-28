@@ -1,0 +1,47 @@
+{
+  "name": "inflection",
+  "version": "0.5.1",
+  "build": "py313haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "inflection-0.5.1-py313haa95532_1.conda",
+  "md5": "7373f388aad9f05df649dd1ad69ab8e8",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/inflection-0.5.1-py313haa95532_1.conda",
+  "sha256": "5bc15a0ec0f4f64de07119f6130d4b6a3346346cddef1b3d3414e71f4e95b801",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1729054688000,
+  "size": 16178,
+  "requested_spec": "pkgs/main/win-64::inflection==0.5.1=py313haa95532_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\inflection-0.5.1-py313haa95532_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\inflection-0.5.1-py313haa95532_1",
+  "files": [
+    "Lib/site-packages/inflection-0.5.1.dist-info/INSTALLER",
+    "Lib/site-packages/inflection-0.5.1.dist-info/LICENSE",
+    "Lib/site-packages/inflection-0.5.1.dist-info/METADATA",
+    "Lib/site-packages/inflection-0.5.1.dist-info/RECORD",
+    "Lib/site-packages/inflection-0.5.1.dist-info/REQUESTED",
+    "Lib/site-packages/inflection-0.5.1.dist-info/WHEEL",
+    "Lib/site-packages/inflection-0.5.1.dist-info/direct_url.json",
+    "Lib/site-packages/inflection-0.5.1.dist-info/top_level.txt",
+    "Lib/site-packages/inflection/__init__.py",
+    "Lib/site-packages/inflection/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/inflection/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\inflection-0.5.1-py313haa95532_1",
+    "type": 1
+  }
+}

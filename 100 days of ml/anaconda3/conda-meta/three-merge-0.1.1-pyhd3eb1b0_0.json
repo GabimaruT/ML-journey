@@ -1,0 +1,57 @@
+{
+  "name": "three-merge",
+  "version": "0.1.1",
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "three-merge-0.1.1-pyhd3eb1b0_0.conda",
+  "md5": "5ae0f5c203a35f7138e0199df9c7d5bc",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/three-merge-0.1.1-pyhd3eb1b0_0.conda",
+  "sha256": "cf3640f388912718c0e54bda4d284c48c44af90fc0bcc4239c6aca3f3a782d8f",
+  "depends": [
+    "diff-match-patch",
+    "python"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "MIT",
+  "license_family": "MIT",
+  "package_type": "noarch_python",
+  "timestamp": 1607553295000,
+  "size": 9907,
+  "requested_spec": "pkgs/main/noarch::three-merge==0.1.1=pyhd3eb1b0_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\three-merge-0.1.1-pyhd3eb1b0_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\three-merge-0.1.1-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/three_merge-0.1.1.dist-info/INSTALLER",
+    "Lib/site-packages/three_merge-0.1.1.dist-info/LICENSE",
+    "Lib/site-packages/three_merge-0.1.1.dist-info/METADATA",
+    "Lib/site-packages/three_merge-0.1.1.dist-info/RECORD",
+    "Lib/site-packages/three_merge-0.1.1.dist-info/REQUESTED",
+    "Lib/site-packages/three_merge-0.1.1.dist-info/WHEEL",
+    "Lib/site-packages/three_merge-0.1.1.dist-info/direct_url.json",
+    "Lib/site-packages/three_merge-0.1.1.dist-info/top_level.txt",
+    "Lib/site-packages/three_merge/__init__.py",
+    "Lib/site-packages/three_merge/merge.py",
+    "Lib/site-packages/three_merge/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/three_merge/__pycache__/merge.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/three_merge/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/three_merge/__pycache__/merge.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\three-merge-0.1.1-pyhd3eb1b0_0",
+    "type": 1
+  }
+}

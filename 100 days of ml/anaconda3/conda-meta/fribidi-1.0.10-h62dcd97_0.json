@@ -1,0 +1,71 @@
+{
+  "name": "fribidi",
+  "version": "1.0.10",
+  "build": "h62dcd97_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "fribidi-1.0.10-h62dcd97_0.conda",
+  "md5": "be16bbf8945ea9a2da7e3b7862bf9e08",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/fribidi-1.0.10-h62dcd97_0.conda",
+  "sha256": "81569d6fb4a78dd7785a08211e305602f5c447cc8458bf71c1484ffc702376fb",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "LGPL-2.1",
+  "timestamp": 1597742669000,
+  "size": 64301,
+  "requested_spec": "pkgs/main/win-64::fribidi==1.0.10=h62dcd97_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\fribidi-1.0.10-h62dcd97_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\fribidi-1.0.10-h62dcd97_0",
+  "files": [
+    "Library/bin/fribidi-0.dll",
+    "Library/bin/fribidi.exe",
+    "Library/include/fribidi/fribidi-arabic.h",
+    "Library/include/fribidi/fribidi-begindecls.h",
+    "Library/include/fribidi/fribidi-bidi-types-list.h",
+    "Library/include/fribidi/fribidi-bidi-types.h",
+    "Library/include/fribidi/fribidi-bidi.h",
+    "Library/include/fribidi/fribidi-brackets.h",
+    "Library/include/fribidi/fribidi-char-sets-list.h",
+    "Library/include/fribidi/fribidi-char-sets.h",
+    "Library/include/fribidi/fribidi-common.h",
+    "Library/include/fribidi/fribidi-config.h",
+    "Library/include/fribidi/fribidi-deprecated.h",
+    "Library/include/fribidi/fribidi-enddecls.h",
+    "Library/include/fribidi/fribidi-flags.h",
+    "Library/include/fribidi/fribidi-joining-types-list.h",
+    "Library/include/fribidi/fribidi-joining-types.h",
+    "Library/include/fribidi/fribidi-joining.h",
+    "Library/include/fribidi/fribidi-mirroring.h",
+    "Library/include/fribidi/fribidi-shape.h",
+    "Library/include/fribidi/fribidi-types.h",
+    "Library/include/fribidi/fribidi-unicode-version.h",
+    "Library/include/fribidi/fribidi-unicode.h",
+    "Library/include/fribidi/fribidi.h",
+    "Library/lib/fribidi.lib",
+    "Library/lib/pkgconfig/fribidi.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/fribidi.pc",
+        "prefix_placeholder": "C:/ci/fribidi_1597742610634/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "3d19812c2288e08741ff6dfc9f6e22238882ddc03ce83d597e8ff6080a7c5281",
+        "size_in_bytes": 257,
+        "sha256_in_prefix": "f367348f94b51ba915be740aa800971e1f25ff8119ce2fbc5af37fbcf4a00b24"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\fribidi-1.0.10-h62dcd97_0",
+    "type": 1
+  }
+}

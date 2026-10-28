@@ -1,0 +1,62 @@
+{
+  "name": "tinycss2",
+  "version": "1.4.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "tinycss2-1.4.0-py313haa95532_0.conda",
+  "md5": "07e39990907fa967e30aa06a8ed59d15",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/tinycss2-1.4.0-py313haa95532_0.conda",
+  "sha256": "1e23d493746ce755d39baeb94a4499717a76481b3dec00e81fa381689cbcfe14",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "webencodings >=0.4"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1739559194000,
+  "size": 105789,
+  "requested_spec": "pkgs/main/win-64::tinycss2==1.4.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\tinycss2-1.4.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\tinycss2-1.4.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/tinycss2-1.4.0.dist-info/INSTALLER",
+    "Lib/site-packages/tinycss2-1.4.0.dist-info/LICENSE",
+    "Lib/site-packages/tinycss2-1.4.0.dist-info/METADATA",
+    "Lib/site-packages/tinycss2-1.4.0.dist-info/RECORD",
+    "Lib/site-packages/tinycss2-1.4.0.dist-info/REQUESTED",
+    "Lib/site-packages/tinycss2-1.4.0.dist-info/WHEEL",
+    "Lib/site-packages/tinycss2-1.4.0.dist-info/direct_url.json",
+    "Lib/site-packages/tinycss2/__init__.py",
+    "Lib/site-packages/tinycss2/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/tinycss2/__pycache__/ast.cpython-313.pyc",
+    "Lib/site-packages/tinycss2/__pycache__/bytes.cpython-313.pyc",
+    "Lib/site-packages/tinycss2/__pycache__/color3.cpython-313.pyc",
+    "Lib/site-packages/tinycss2/__pycache__/color4.cpython-313.pyc",
+    "Lib/site-packages/tinycss2/__pycache__/nth.cpython-313.pyc",
+    "Lib/site-packages/tinycss2/__pycache__/parser.cpython-313.pyc",
+    "Lib/site-packages/tinycss2/__pycache__/serializer.cpython-313.pyc",
+    "Lib/site-packages/tinycss2/__pycache__/tokenizer.cpython-313.pyc",
+    "Lib/site-packages/tinycss2/ast.py",
+    "Lib/site-packages/tinycss2/bytes.py",
+    "Lib/site-packages/tinycss2/color3.py",
+    "Lib/site-packages/tinycss2/color4.py",
+    "Lib/site-packages/tinycss2/nth.py",
+    "Lib/site-packages/tinycss2/parser.py",
+    "Lib/site-packages/tinycss2/serializer.py",
+    "Lib/site-packages/tinycss2/tokenizer.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\tinycss2-1.4.0-py313haa95532_0",
+    "type": 1
+  }
+}

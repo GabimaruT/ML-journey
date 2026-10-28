@@ -1,0 +1,46 @@
+{
+  "name": "nest-asyncio",
+  "version": "1.6.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "nest-asyncio-1.6.0-py313haa95532_0.conda",
+  "md5": "990a4f3c145f87e28690a5c9cb04dd67",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/nest-asyncio-1.6.0-py313haa95532_0.conda",
+  "sha256": "a6fd6a055e9658f897f3a63816b6968ee4899234c1fb19c13ed8713d4e79bef4",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "timestamp": 1729043029000,
+  "size": 17675,
+  "requested_spec": "pkgs/main/win-64::nest-asyncio==1.6.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\nest-asyncio-1.6.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\nest-asyncio-1.6.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/__pycache__/nest_asyncio.cpython-313.pyc",
+    "Lib/site-packages/nest_asyncio-1.6.0.dist-info/INSTALLER",
+    "Lib/site-packages/nest_asyncio-1.6.0.dist-info/LICENSE",
+    "Lib/site-packages/nest_asyncio-1.6.0.dist-info/METADATA",
+    "Lib/site-packages/nest_asyncio-1.6.0.dist-info/RECORD",
+    "Lib/site-packages/nest_asyncio-1.6.0.dist-info/REQUESTED",
+    "Lib/site-packages/nest_asyncio-1.6.0.dist-info/WHEEL",
+    "Lib/site-packages/nest_asyncio-1.6.0.dist-info/direct_url.json",
+    "Lib/site-packages/nest_asyncio-1.6.0.dist-info/top_level.txt",
+    "Lib/site-packages/nest_asyncio.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\nest-asyncio-1.6.0-py313haa95532_0",
+    "type": 1
+  }
+}

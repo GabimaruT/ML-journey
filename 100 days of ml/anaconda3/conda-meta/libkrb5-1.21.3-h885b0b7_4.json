@@ -1,0 +1,63 @@
+{
+  "name": "libkrb5",
+  "version": "1.21.3",
+  "build": "h885b0b7_4",
+  "build_number": 4,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libkrb5-1.21.3-h885b0b7_4.conda",
+  "md5": "ba0a6b4bd669638ac30b3b09e06a387e",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libkrb5-1.21.3-h885b0b7_4.conda",
+  "sha256": "baa6e1af775fc01723018a3753da155b9cac812fdfae1600fa61200279b860ed",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1754988584000,
+  "size": 751782,
+  "requested_spec": "pkgs/main/win-64::libkrb5==1.21.3=h885b0b7_4",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libkrb5-1.21.3-h885b0b7_4.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libkrb5-1.21.3-h885b0b7_4",
+  "files": [
+    "Library/bin/comerr64.dll",
+    "Library/bin/gssapi64.dll",
+    "Library/bin/k5sprt64.dll",
+    "Library/bin/kfwlogon.dll",
+    "Library/bin/krb5_64.dll",
+    "Library/bin/krbcc64.dll",
+    "Library/bin/leashw64.dll",
+    "Library/bin/plugins/preauth/spake64.dll",
+    "Library/bin/xpprof64.dll",
+    "Library/include/com_err.h",
+    "Library/include/gssapi/gssapi.h",
+    "Library/include/gssapi/gssapi_alloc.h",
+    "Library/include/gssapi/gssapi_ext.h",
+    "Library/include/gssapi/gssapi_krb5.h",
+    "Library/include/krb5.h",
+    "Library/include/krb5/krb5.h",
+    "Library/include/profile.h",
+    "Library/include/win-mac.h",
+    "Library/lib/comerr64.lib",
+    "Library/lib/gssapi64.lib",
+    "Library/lib/k5sprt64.lib",
+    "Library/lib/kfwlogon.lib",
+    "Library/lib/krb5_64.lib",
+    "Library/lib/krbcc64.lib",
+    "Library/lib/leashw64.lib",
+    "Library/lib/xpprof64.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libkrb5-1.21.3-h885b0b7_4",
+    "type": 1
+  }
+}

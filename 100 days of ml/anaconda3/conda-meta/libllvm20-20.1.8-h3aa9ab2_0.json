@@ -1,0 +1,38 @@
+{
+  "name": "libllvm20",
+  "version": "20.1.8",
+  "build": "h3aa9ab2_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libllvm20-20.1.8-h3aa9ab2_0.conda",
+  "md5": "c4d1fd0260532d114c1c4819d6c40e97",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libllvm20-20.1.8-h3aa9ab2_0.conda",
+  "sha256": "439d8eb27d01035bae523aa3e05cb76bbbb96e5883322a6d04f081427a35d1ab",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208",
+    "zlib >=1.2.13,<2.0.0a0",
+    "zstd >=1.5.6,<1.6.0a0"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "license_family": "Apache",
+  "timestamp": 1756245073000,
+  "size": 23022,
+  "requested_spec": "pkgs/main/win-64::libllvm20==20.1.8=h3aa9ab2_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libllvm20-20.1.8-h3aa9ab2_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libllvm20-20.1.8-h3aa9ab2_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libllvm20-20.1.8-h3aa9ab2_0",
+    "type": 1
+  }
+}

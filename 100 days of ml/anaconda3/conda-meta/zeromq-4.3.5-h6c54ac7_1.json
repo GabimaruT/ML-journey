@@ -1,0 +1,63 @@
+{
+  "name": "zeromq",
+  "version": "4.3.5",
+  "build": "h6c54ac7_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "zeromq-4.3.5-h6c54ac7_1.conda",
+  "md5": "6c15d142a27a8370ecb05ca339383a39",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/zeromq-4.3.5-h6c54ac7_1.conda",
+  "sha256": "113a691850ebb84de8a08eef8e4cfb00983e121bfdfdb09ca1f624f80c2a54ed",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "libsodium >=1.0.20,<1.0.21.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "MPL-2.0",
+  "license_family": "Other",
+  "timestamp": 1757676535000,
+  "size": 4230502,
+  "requested_spec": "pkgs/main/win-64::zeromq==4.3.5=h6c54ac7_1",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\zeromq-4.3.5-h6c54ac7_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\zeromq-4.3.5-h6c54ac7_1",
+  "files": [
+    "Library/bin/libzmq-mt-4_3_5.dll",
+    "Library/bin/libzmq.dll",
+    "Library/include/zmq.h",
+    "Library/include/zmq_utils.h",
+    "Library/lib/libzmq-mt-4_3_5.lib",
+    "Library/lib/libzmq-mt-s-4_3_5.lib",
+    "Library/lib/libzmq.lib",
+    "Library/lib/pkgconfig/libzmq.pc",
+    "Library/share/cmake/ZeroMQ/ZeroMQConfig.cmake",
+    "Library/share/cmake/ZeroMQ/ZeroMQConfigVersion.cmake",
+    "Library/share/cmake/ZeroMQ/ZeroMQTargets-release.cmake",
+    "Library/share/cmake/ZeroMQ/ZeroMQTargets.cmake",
+    "Library/share/zmq/AUTHORS.txt",
+    "Library/share/zmq/LICENSE.txt",
+    "Library/share/zmq/NEWS.txt"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/libzmq.pc",
+        "prefix_placeholder": "C:/miniconda3/conda-bld/zeromq_1757676242290/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "8dfa5d1fc56eee9c177cd6cb48ac119a0229c16baee3f2261dbc4715b3c6153e",
+        "size_in_bytes": 451,
+        "sha256_in_prefix": "1d3c4a8c5819824a58ebbccd6bd3da067af0117fe140426418c6183c82d4bdc9"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\zeromq-4.3.5-h6c54ac7_1",
+    "type": 1
+  }
+}

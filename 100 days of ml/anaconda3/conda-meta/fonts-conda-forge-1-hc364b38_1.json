@@ -1,0 +1,36 @@
+{
+  "name": "fonts-conda-forge",
+  "version": "1",
+  "build": "hc364b38_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "noarch",
+  "fn": "fonts-conda-forge-1-hc364b38_1.conda",
+  "md5": "a7970cd949a077b7cb9696379d338681",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/fonts-conda-forge-1-hc364b38_1.conda",
+  "sha256": "54eea8469786bc2291cc40bca5f46438d3e062a399e8f53f013b6a9f50e98333",
+  "depends": [
+    "font-ttf-ubuntu",
+    "font-ttf-inconsolata",
+    "font-ttf-dejavu-sans-mono",
+    "font-ttf-source-code-pro"
+  ],
+  "constrains": [],
+  "noarch": "generic",
+  "license": "BSD-3-Clause",
+  "package_type": "noarch_generic",
+  "timestamp": 1762351264000,
+  "size": 4059,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\fonts-conda-forge-1-hc364b38_1.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\fonts-conda-forge-1-hc364b38_1",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\fonts-conda-forge-1-hc364b38_1",
+    "type": 1
+  }
+}

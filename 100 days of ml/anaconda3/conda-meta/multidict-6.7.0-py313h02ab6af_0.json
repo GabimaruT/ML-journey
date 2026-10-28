@@ -1,0 +1,57 @@
+{
+  "name": "multidict",
+  "version": "6.7.0",
+  "build": "py313h02ab6af_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "multidict-6.7.0-py313h02ab6af_0.conda",
+  "md5": "b270fc8af2eec5c929fd11e01457addc",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/multidict-6.7.0-py313h02ab6af_0.conda",
+  "sha256": "0c581812b42f56db8780c24c65fb376eaa70692065f4c481fe58bf7c993e4c01",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "timestamp": 1760566982000,
+  "size": 96972,
+  "requested_spec": "pkgs/main/win-64::multidict==6.7.0=py313h02ab6af_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\multidict-6.7.0-py313h02ab6af_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\multidict-6.7.0-py313h02ab6af_0",
+  "files": [
+    "Lib/site-packages/multidict-6.7.0.dist-info/INSTALLER",
+    "Lib/site-packages/multidict-6.7.0.dist-info/METADATA",
+    "Lib/site-packages/multidict-6.7.0.dist-info/RECORD",
+    "Lib/site-packages/multidict-6.7.0.dist-info/REQUESTED",
+    "Lib/site-packages/multidict-6.7.0.dist-info/WHEEL",
+    "Lib/site-packages/multidict-6.7.0.dist-info/direct_url.json",
+    "Lib/site-packages/multidict-6.7.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/multidict-6.7.0.dist-info/top_level.txt",
+    "Lib/site-packages/multidict/__init__.py",
+    "Lib/site-packages/multidict/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/multidict/__pycache__/_abc.cpython-313.pyc",
+    "Lib/site-packages/multidict/__pycache__/_compat.cpython-313.pyc",
+    "Lib/site-packages/multidict/__pycache__/_multidict_py.cpython-313.pyc",
+    "Lib/site-packages/multidict/_abc.py",
+    "Lib/site-packages/multidict/_compat.py",
+    "Lib/site-packages/multidict/_multidict.cp313-win_amd64.pyd",
+    "Lib/site-packages/multidict/_multidict_py.py",
+    "Lib/site-packages/multidict/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\multidict-6.7.0-py313h02ab6af_0",
+    "type": 1
+  }
+}

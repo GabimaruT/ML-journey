@@ -1,0 +1,46 @@
+{
+  "name": "protego",
+  "version": "0.4.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "protego-0.4.0-py313haa95532_0.conda",
+  "md5": "8bb68b5c9643da26ec6dc5d8549f1a16",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/protego-0.4.0-py313haa95532_0.conda",
+  "sha256": "dedbcc7a586a29c241fc9470860a239883b3097a078a88604f550887e68527b8",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1746480113000,
+  "size": 2535058,
+  "requested_spec": "pkgs/main/win-64::protego==0.4.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\protego-0.4.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\protego-0.4.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/__pycache__/protego.cpython-313.pyc",
+    "Lib/site-packages/protego-0.4.0.dist-info/INSTALLER",
+    "Lib/site-packages/protego-0.4.0.dist-info/METADATA",
+    "Lib/site-packages/protego-0.4.0.dist-info/RECORD",
+    "Lib/site-packages/protego-0.4.0.dist-info/REQUESTED",
+    "Lib/site-packages/protego-0.4.0.dist-info/WHEEL",
+    "Lib/site-packages/protego-0.4.0.dist-info/direct_url.json",
+    "Lib/site-packages/protego-0.4.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/protego-0.4.0.dist-info/top_level.txt",
+    "Lib/site-packages/protego.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\protego-0.4.0-py313haa95532_0",
+    "type": 1
+  }
+}

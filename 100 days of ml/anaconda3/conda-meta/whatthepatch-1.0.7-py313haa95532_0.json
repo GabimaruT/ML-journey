@@ -1,0 +1,54 @@
+{
+  "name": "whatthepatch",
+  "version": "1.0.7",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "whatthepatch-1.0.7-py313haa95532_0.conda",
+  "md5": "971fe6c7293b8f8e8713735d4f0bbc74",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/whatthepatch-1.0.7-py313haa95532_0.conda",
+  "sha256": "822df947f2e1892d8959e9cecdd8815a8a133cc2db120bcb3464a25f6b744795",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1758276698000,
+  "size": 56662,
+  "requested_spec": "pkgs/main/win-64::whatthepatch==1.0.7=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\whatthepatch-1.0.7-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\whatthepatch-1.0.7-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/whatthepatch-1.0.7.dist-info/INSTALLER",
+    "Lib/site-packages/whatthepatch-1.0.7.dist-info/METADATA",
+    "Lib/site-packages/whatthepatch-1.0.7.dist-info/RECORD",
+    "Lib/site-packages/whatthepatch-1.0.7.dist-info/REQUESTED",
+    "Lib/site-packages/whatthepatch-1.0.7.dist-info/WHEEL",
+    "Lib/site-packages/whatthepatch-1.0.7.dist-info/direct_url.json",
+    "Lib/site-packages/whatthepatch-1.0.7.dist-info/licenses/LICENSE",
+    "Lib/site-packages/whatthepatch-1.0.7.dist-info/top_level.txt",
+    "Lib/site-packages/whatthepatch/__init__.py",
+    "Lib/site-packages/whatthepatch/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/whatthepatch/__pycache__/apply.cpython-313.pyc",
+    "Lib/site-packages/whatthepatch/__pycache__/exceptions.cpython-313.pyc",
+    "Lib/site-packages/whatthepatch/__pycache__/patch.cpython-313.pyc",
+    "Lib/site-packages/whatthepatch/__pycache__/snippets.cpython-313.pyc",
+    "Lib/site-packages/whatthepatch/apply.py",
+    "Lib/site-packages/whatthepatch/exceptions.py",
+    "Lib/site-packages/whatthepatch/patch.py",
+    "Lib/site-packages/whatthepatch/snippets.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\whatthepatch-1.0.7-py313haa95532_0",
+    "type": 1
+  }
+}

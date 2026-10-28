@@ -1,0 +1,62 @@
+{
+  "name": "pyls-spyder",
+  "version": "0.4.0",
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "pyls-spyder-0.4.0-pyhd3eb1b0_0.conda",
+  "md5": "23df66456bc25e608ea377fb20d6008c",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/pyls-spyder-0.4.0-pyhd3eb1b0_0.conda",
+  "sha256": "a03025121d0dda852f20cc6e42ef9fd9ea6bbf322a25acb01166469125d06820",
+  "depends": [
+    "python >=3.6",
+    "python-lsp-server >=1.0.1"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "MIT",
+  "license_family": "MIT",
+  "package_type": "noarch_python",
+  "timestamp": 1634243294000,
+  "size": 10771,
+  "requested_spec": "pkgs/main/noarch::pyls-spyder==0.4.0=pyhd3eb1b0_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pyls-spyder-0.4.0-pyhd3eb1b0_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pyls-spyder-0.4.0-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/pyls_spyder-0.4.0-py3.10.egg-info/PKG-INFO",
+    "Lib/site-packages/pyls_spyder-0.4.0-py3.10.egg-info/SOURCES.txt",
+    "Lib/site-packages/pyls_spyder-0.4.0-py3.10.egg-info/dependency_links.txt",
+    "Lib/site-packages/pyls_spyder-0.4.0-py3.10.egg-info/entry_points.txt",
+    "Lib/site-packages/pyls_spyder-0.4.0-py3.10.egg-info/installed-files.txt",
+    "Lib/site-packages/pyls_spyder-0.4.0-py3.10.egg-info/requires.txt",
+    "Lib/site-packages/pyls_spyder-0.4.0-py3.10.egg-info/top_level.txt",
+    "Lib/site-packages/pyls_spyder/__init__.py",
+    "Lib/site-packages/pyls_spyder/plugin.py",
+    "Lib/site-packages/pyls_spyder/utils.py",
+    "Lib/site-packages/pyls_spyder/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pyls_spyder/__pycache__/plugin.cpython-313.pyc",
+    "Lib/site-packages/pyls_spyder/__pycache__/utils.cpython-313.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pyls_spyder/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyls_spyder/__pycache__/plugin.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyls_spyder/__pycache__/utils.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pyls-spyder-0.4.0-pyhd3eb1b0_0",
+    "type": 1
+  }
+}

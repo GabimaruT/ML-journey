@@ -1,0 +1,51 @@
+{
+  "name": "aws-c-event-stream",
+  "version": "0.5.6",
+  "build": "h02ab6af_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "aws-c-event-stream-0.5.6-h02ab6af_0.conda",
+  "md5": "1aee38f2981280321aea79a4d63af9da",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aws-c-event-stream-0.5.6-h02ab6af_0.conda",
+  "sha256": "274327ea587d1a4df741071a2cd2f328c8b8b2de997228b10dd4c406a29efe38",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "aws-c-common >=0.12.4,<0.12.5.0a0",
+    "aws-c-io >=0.21.4,<0.21.5.0a0",
+    "aws-checksums >=0.2.7,<0.2.8.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "timestamp": 1756758244000,
+  "size": 66321,
+  "requested_spec": "pkgs/main/win-64::aws-c-event-stream==0.5.6=h02ab6af_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aws-c-event-stream-0.5.6-h02ab6af_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aws-c-event-stream-0.5.6-h02ab6af_0",
+  "files": [
+    "Library/bin/aws-c-event-stream.dll",
+    "Library/include/aws/event-stream/event_stream.h",
+    "Library/include/aws/event-stream/event_stream_channel_handler.h",
+    "Library/include/aws/event-stream/event_stream_exports.h",
+    "Library/include/aws/event-stream/event_stream_rpc.h",
+    "Library/include/aws/event-stream/event_stream_rpc_client.h",
+    "Library/include/aws/event-stream/event_stream_rpc_server.h",
+    "Library/lib/aws-c-event-stream.lib",
+    "Library/lib/cmake/aws-c-event-stream/aws-c-event-stream-config.cmake",
+    "Library/lib/cmake/aws-c-event-stream/shared/aws-c-event-stream-targets-release.cmake",
+    "Library/lib/cmake/aws-c-event-stream/shared/aws-c-event-stream-targets.cmake"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\aws-c-event-stream-0.5.6-h02ab6af_0",
+    "type": 1
+  }
+}

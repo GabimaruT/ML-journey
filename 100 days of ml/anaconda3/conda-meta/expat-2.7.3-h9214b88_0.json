@@ -1,0 +1,52 @@
+{
+  "name": "expat",
+  "version": "2.7.3",
+  "build": "h9214b88_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "expat-2.7.3-h9214b88_0.conda",
+  "md5": "d5ea5838bd330f5b85ee7b4855ac864c",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/expat-2.7.3-h9214b88_0.conda",
+  "sha256": "9bdab313dadd2cf7192b43eed9a2e6679261b99ca98dc010035a87f906d7ec61",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1762267638000,
+  "size": 137030,
+  "requested_spec": "pkgs/main/win-64::expat==2.7.3=h9214b88_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\expat-2.7.3-h9214b88_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\expat-2.7.3-h9214b88_0",
+  "files": [
+    "Library/bin/expat.dll",
+    "Library/bin/libexpat.dll",
+    "Library/bin/xmlwf.exe",
+    "Library/include/expat.h",
+    "Library/include/expat_config.h",
+    "Library/include/expat_external.h",
+    "Library/lib/cmake/expat-2.7.3/expat-config-version.cmake",
+    "Library/lib/cmake/expat-2.7.3/expat-config.cmake",
+    "Library/lib/cmake/expat-2.7.3/expat-release.cmake",
+    "Library/lib/cmake/expat-2.7.3/expat.cmake",
+    "Library/lib/expat.lib",
+    "Library/lib/libexpat.lib",
+    "Library/share/doc/expat/AUTHORS",
+    "Library/share/doc/expat/changelog",
+    "Library/share/man/man1/xmlwf.1"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\expat-2.7.3-h9214b88_0",
+    "type": 1
+  }
+}

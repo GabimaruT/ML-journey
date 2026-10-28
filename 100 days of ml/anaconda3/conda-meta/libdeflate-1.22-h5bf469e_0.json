@@ -1,0 +1,65 @@
+{
+  "name": "libdeflate",
+  "version": "1.22",
+  "build": "h5bf469e_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libdeflate-1.22-h5bf469e_0.conda",
+  "md5": "413ecfa808ea40cdd0b056f619c8730e",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libdeflate-1.22-h5bf469e_0.conda",
+  "sha256": "0666c311a83ddba585a93ee84da060f814e738bdac18533eaa315b4af4df69dc",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.40,<15.0a0",
+    "vs2015_runtime >=14.42.34433,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1734423384000,
+  "size": 184434,
+  "requested_spec": "pkgs/main/win-64::libdeflate==1.22=h5bf469e_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libdeflate-1.22-h5bf469e_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libdeflate-1.22-h5bf469e_0",
+  "files": [
+    "Library/bin/deflate.dll",
+    "Library/bin/libdeflate-gunzip.exe",
+    "Library/bin/libdeflate-gzip.exe",
+    "Library/include/libdeflate.h",
+    "Library/lib/cmake/libdeflate/libdeflate-config-version.cmake",
+    "Library/lib/cmake/libdeflate/libdeflate-config.cmake",
+    "Library/lib/cmake/libdeflate/libdeflate-targets-release.cmake",
+    "Library/lib/cmake/libdeflate/libdeflate-targets.cmake",
+    "Library/lib/deflate.lib",
+    "Library/lib/pkgconfig/libdeflate.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/cmake/libdeflate/libdeflate-targets.cmake",
+        "prefix_placeholder": "C:/b/abs_66__wje26d/croot/libdeflate_1734423307153/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "3d1d3f124cd377f672cf406ac5aea411067d16998feefe5071f6ab2fdb6694ae",
+        "size_in_bytes": 4163,
+        "sha256_in_prefix": "f16b7ea59a7b1d097e4d8924670206a80e526a9731cc0daf826491efb1aa7b54"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libdeflate.pc",
+        "prefix_placeholder": "C:/b/abs_66__wje26d/croot/libdeflate_1734423307153/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "7f6d3bc2fcefda3cb37a24399e4cb89b2ad6ca2977a0120946a5010f231c5f85",
+        "size_in_bytes": 839,
+        "sha256_in_prefix": "ec5d68e7f4500c9e32517236ecdb77f17d5f5d7805664d5b1b7a6e60be18b000"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\libdeflate-1.22-h5bf469e_0",
+    "type": 1
+  }
+}

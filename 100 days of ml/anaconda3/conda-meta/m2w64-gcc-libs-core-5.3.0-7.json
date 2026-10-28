@@ -1,0 +1,41 @@
+{
+  "name": "m2w64-gcc-libs-core",
+  "version": "5.3.0",
+  "build": "7",
+  "build_number": 7,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "subdir": "win-64",
+  "fn": "m2w64-gcc-libs-core-5.3.0-7.tar.bz2",
+  "md5": "276d396bfe8d958f71173b7134f739fa",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-gcc-libs-core-5.3.0-7.tar.bz2",
+  "sha256": "449df9debaf202928e3a0db1f059ef35b1bcb3973fa92e217ca2775f82415111",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "m2w64-gmp",
+    "m2w64-libwinpthread-git",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "constrains": [],
+  "license": "GPL3+, partial:GCCRLE, partial:LGPL2+",
+  "size": 217686,
+  "requested_spec": "pkgs/msys2/win-64::m2w64-gcc-libs-core==5.3.0=7",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\m2w64-gcc-libs-core-5.3.0-7.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\m2w64-gcc-libs-core-5.3.0-7",
+  "files": [
+    "Library/mingw-w64/bin/libgcc_s_seh-1.dll",
+    "Library/mingw-w64/bin/libquadmath-0.dll",
+    "Library/mingw-w64/share/licenses/gcc-libs-core/COPYING.LIB",
+    "Library/mingw-w64/share/licenses/gcc-libs-core/COPYING.RUNTIME",
+    "Library/mingw-w64/share/licenses/gcc-libs-core/COPYING3",
+    "Library/mingw-w64/share/licenses/gcc-libs-core/README"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\m2w64-gcc-libs-core-5.3.0-7",
+    "type": 1
+  }
+}

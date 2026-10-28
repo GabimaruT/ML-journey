@@ -1,0 +1,54 @@
+{
+  "name": "pycurl",
+  "version": "7.45.7",
+  "build": "py313hf943856_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "pycurl-7.45.7-py313hf943856_0.conda",
+  "md5": "9763007b76cb8798e81898bc4039706c",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pycurl-7.45.7-py313hf943856_0.conda",
+  "sha256": "b8139a983133be3c4d48b6ca9e596da4a0e84937c3949de007f4c3087b4e7c20",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "libcurl >=8.15.0,<9.0a0",
+    "openssl >=3.0.18,<4.0a0",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "LGPL-2.1-or-later OR MIT",
+  "license_family": "LGPL",
+  "timestamp": 1761132230000,
+  "size": 139082,
+  "requested_spec": "pkgs/main/win-64::pycurl==7.45.7=py313hf943856_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pycurl-7.45.7-py313hf943856_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pycurl-7.45.7-py313hf943856_0",
+  "files": [
+    "Lib/site-packages/curl/__init__.py",
+    "Lib/site-packages/curl/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pycurl-7.45.7.dist-info/INSTALLER",
+    "Lib/site-packages/pycurl-7.45.7.dist-info/METADATA",
+    "Lib/site-packages/pycurl-7.45.7.dist-info/RECORD",
+    "Lib/site-packages/pycurl-7.45.7.dist-info/REQUESTED",
+    "Lib/site-packages/pycurl-7.45.7.dist-info/WHEEL",
+    "Lib/site-packages/pycurl-7.45.7.dist-info/direct_url.json",
+    "Lib/site-packages/pycurl-7.45.7.dist-info/licenses/AUTHORS",
+    "Lib/site-packages/pycurl-7.45.7.dist-info/licenses/COPYING-LGPL",
+    "Lib/site-packages/pycurl-7.45.7.dist-info/licenses/COPYING-MIT",
+    "Lib/site-packages/pycurl-7.45.7.dist-info/top_level.txt",
+    "Lib/site-packages/pycurl.cp313-win_amd64.pyd"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\pycurl-7.45.7-py313hf943856_0",
+    "type": 1
+  }
+}

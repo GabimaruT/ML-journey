@@ -1,0 +1,47 @@
+{
+  "name": "snappy",
+  "version": "1.2.1",
+  "build": "hcdb6601_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "snappy-1.2.1-hcdb6601_0.conda",
+  "md5": "b7133f63b981e65f199cc15b0faec196",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/snappy-1.2.1-hcdb6601_0.conda",
+  "sha256": "d021894916fd7088859d08fd16262adb8a13c91c61ae6e08f10fe52de6dca6b6",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-3-clause AND CC-BY-3.0 AND MIT AND CC-BY AND Public Domain",
+  "license_family": "BSD",
+  "timestamp": 1723557526000,
+  "size": 110563,
+  "requested_spec": "pkgs/main/win-64::snappy==1.2.1=hcdb6601_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\snappy-1.2.1-hcdb6601_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\snappy-1.2.1-hcdb6601_0",
+  "files": [
+    "Library/bin/snappy.dll",
+    "Library/include/snappy-c.h",
+    "Library/include/snappy-sinksource.h",
+    "Library/include/snappy-stubs-public.h",
+    "Library/include/snappy.h",
+    "Library/lib/cmake/Snappy/SnappyConfig.cmake",
+    "Library/lib/cmake/Snappy/SnappyConfigVersion.cmake",
+    "Library/lib/cmake/Snappy/SnappyTargets-release.cmake",
+    "Library/lib/cmake/Snappy/SnappyTargets.cmake",
+    "Library/lib/snappy.lib",
+    "Library/lib/snappy_static.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\snappy-1.2.1-hcdb6601_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "cachetools",
+  "version": "5.5.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "cachetools-5.5.1-py313haa95532_0.conda",
+  "md5": "09923cb96cc44e313d8e8c887581f017",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/cachetools-5.5.1-py313haa95532_0.conda",
+  "sha256": "f17924944a948c4debb0e2df92c172d9a680c6a5e1ab5a72457dc9577eb3b609",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1738224921000,
+  "size": 36371,
+  "requested_spec": "pkgs/main/win-64::cachetools==5.5.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\ASUS\\anaconda3\\pkgs\\cachetools-5.5.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\ASUS\\anaconda3\\pkgs\\cachetools-5.5.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/cachetools-5.5.1.dist-info/INSTALLER",
+    "Lib/site-packages/cachetools-5.5.1.dist-info/LICENSE",
+    "Lib/site-packages/cachetools-5.5.1.dist-info/METADATA",
+    "Lib/site-packages/cachetools-5.5.1.dist-info/RECORD",
+    "Lib/site-packages/cachetools-5.5.1.dist-info/REQUESTED",
+    "Lib/site-packages/cachetools-5.5.1.dist-info/WHEEL",
+    "Lib/site-packages/cachetools-5.5.1.dist-info/direct_url.json",
+    "Lib/site-packages/cachetools-5.5.1.dist-info/top_level.txt",
+    "Lib/site-packages/cachetools/__init__.py",
+    "Lib/site-packages/cachetools/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/cachetools/__pycache__/func.cpython-313.pyc",
+    "Lib/site-packages/cachetools/__pycache__/keys.cpython-313.pyc",
+    "Lib/site-packages/cachetools/func.py",
+    "Lib/site-packages/cachetools/keys.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\ASUS\\anaconda3\\pkgs\\cachetools-5.5.1-py313haa95532_0",
+    "type": 1
+  }
+}
